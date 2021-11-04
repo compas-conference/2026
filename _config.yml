@@ -132,5 +132,3 @@ defaults:
 favicon-32x32:                          "compas_icon.png"
 touch-icon-192x192:                     "compas_icon.png"
 
-
-theme: jekyll-theme-slate
