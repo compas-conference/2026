@@ -1,2 +1,2 @@
 # 2022
-2022.compas-conference.fr
+Compas 2022 in Amiens, France
