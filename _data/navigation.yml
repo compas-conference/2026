@@ -1,0 +1,27 @@
+#
+#   Navigation to the left › side: left
+#
+
+- title: Accueil
+  url: "/"
+  side: left
+
+- title: Soumissions
+  url: "/soumissions"
+  side: left
+
+- title: Comités
+  url: "/comites"
+  side: left
+
+#- title: "Dropdown Menu"
+#  url: "#"
+#  side: left
+#  dropdown:
+#  - title: "Dropdown Menu 1"
+#    url: "#"
+#  - title: "Dropdown Menu 2"
+#    url: "#"
+#  - title: "Dropdown Menu 3"
+#    url: "#"
+

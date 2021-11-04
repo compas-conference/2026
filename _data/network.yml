@@ -1,0 +1,28 @@
+- menu_name: "Éditions précédentes"
+
+
+- name: "Compas 2021"
+  url: "http://2021.compas-conference.fr"
+  class: "network"
+  title: "Compas 2021"
+
+
+- name: "Compas 2019"
+  url: "http://2019.compas-conference.fr"
+  class: "network"
+  title: "Compas 2019"
+
+- name: "Compas 2018"
+  url: "http://2018.compas-conference.fr"
+  class: "network"
+  title: "Compas 2018"
+  
+- name: "Compas 2017"
+  url: "http://2017.compas-conference.fr"
+  class: "network"
+  title: "Compas 2017"
+
+- name: "Compas"
+  url: "http://compas-conference.fr"
+  class: "network"
+  title: "Compas"
