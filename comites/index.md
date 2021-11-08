@@ -28,5 +28,5 @@ header:
  + Alain Tchana (Organisateur 2018, Toulouse)
 
 #### Comité de programme
-**Présidents : Daniel Chillet, Amina Guermouche, Stéphane Monnet**
+**Présidents : Daniel Chillet, Amina Guermouche, Sébastien Monnet**
 
