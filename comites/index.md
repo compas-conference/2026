@@ -27,6 +27,12 @@ header:
  + Philippe Roose (Organisateur 2019, Anglet)
  + Alain Tchana (Organisateur 2018, Toulouse)
 
-#### Comité de programme
-**Présidents : Daniel Chillet, Amina Guermouche, Sébastien Monnet**
+#### Comité de Lecture
+
+##### Présidents : 
+ + Daniel Chillet (IRISA/ENSSAT Rennes) 
+ + Amina Guermouche (Telecom Sud Paris)
+ + Sébastien Monnet (LISTIC – POLYTECH Annecy-Chambéry)
+
+
 
