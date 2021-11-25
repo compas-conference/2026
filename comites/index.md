@@ -30,9 +30,9 @@ header:
 #### Comité de Lecture
 
 ##### Présidents : 
- + Daniel Chillet (IRISA/ENSSAT Rennes) 
- + Amina Guermouche (Telecom Sud Paris)
- + Sébastien Monnet (LISTIC – POLYTECH Annecy-Chambéry)
+ + Daniel Chillet (RISA/ENSSAT Université de Rennes 1) 
+ + Amina Guermouche (Université de Bordeaux / Inria Bordeaux)
+ + Sébastien Monnet (LISTIC – Université Savoie Mont Blanc)
 
 
 
