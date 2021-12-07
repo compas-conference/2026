@@ -28,7 +28,7 @@ Les présentations sur la base de résumé feront l'objet d'une évaluation plus
 ### **Posters**
 {: style="text-align: center;"}
 
-Il n'y aura pas d'appel à poster spécifique. En revanche, tous les auteurs d'un article ou d'un résumé accepté pourront s'ils le souhaitent présenter un poster lors de la conférence. Les auteurs souhaitant présenter uniquement un poster sont invités à soumettre un résumé et à indiquer leur préférence de ne pas faire de présentation orale. Le ou les meilleur(s) poster(s) seront primés lors de la conférence.
+Il n'y aura pas d'appel à poster spécifique. En revanche, tous les auteurs d'un article ou d'un résumé accepté pourront s'ils le souhaitent présenter un poster lors de la conférence. Les auteurs souhaitant présenter uniquement un poster sont invités à soumettre un résumé et à indiquer leur préférence de ne pas faire de présentation orale.
 {: style="text-align: justify;"}
 
 ### **Langue**
