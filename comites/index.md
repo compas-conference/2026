@@ -36,7 +36,6 @@ header:
 
 ##### Membres :
 + Alias Christophe (ENS Lyon, Lyon)
-+ Ben Mokhtar Sonia (CNRS, Lyon)
 + Bertier Marin (INSA, Rennes)
 + Bigou Karim (Lab-STICC, UBO, Brest)
 + Bosio Alberto (Ecl, Lyon)

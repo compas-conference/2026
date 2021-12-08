@@ -46,4 +46,9 @@ Compas n'a pas pour objectif de remplacer une publication dans une conférence i
 
 ### **Dates importantes**
 
-Les dates seront communiquées prochainement.
++ Échéance pour la soumission d'articles : 18 Mars 2022
+
++ Échéance pour la soumission de résumés: 18 Avril 2022
+
++ Notification aux auteurs: 9 Mai 2022
+
