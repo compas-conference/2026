@@ -1,5 +1,5 @@
 %====================================
-% Title                 : Fichier de styles pour Compas 2021 (inspire des fichiers de styles d'ETR'97)
+% Title                 : Fichier de styles pour Compas 2022 (inspire des fichiers de styles d'ETR'97)
 % Copyright (C) 1997 by : GDR-PRS-TR
 % Last Version          : 1.0 (29 avril 1997)
 % Modification          : 7 avril 1997 mis a jour des styles par JMB.
@@ -16,12 +16,13 @@
 % Patch de Alain Tchana pour Compas2018
 % Patch de Philippe Roose pour Compas2019
 % Patch de Frédéric Suter pour Compas2021
+% Patch de Gil Utard pour Compas2022
 %===========================================================
 %%
 %A utiliser avec le Latex2e
 %
 \NeedsTeXFormat{LaTeX2e}%
-\ProvidesClass{compas2021}%
+\ProvidesClass{compas2022}%
 [2012/09/21 v1.5 real LaTeX class]
 
 %===========================================================
@@ -35,9 +36,9 @@
 
 \def\@COMPAS@setconf#1{%
   \ifCOMPAS@confselected%
-  \ClassError{compas2021}{%
+  \ClassError{compas2022}{%
     Duplicate conference in class options}{%
-    Only one option between 'parallelisme', 'architecture', 'systeme', 'tempsreel' is allowed}%
+    Only one option between 'parallelisme', 'architecture', 'systeme' is allowed}%
   \fi
   \global\COMPAS@confselectedtrue%
   \global\def\COMPAS@conf{#1}%
@@ -52,9 +53,9 @@
 \DeclareOption{systeme}{%
   \@COMPAS@setconf{systeme}%
 }
-\DeclareOption{tempsreel}{%
-  \@COMPAS@setconf{tempsreel}%
-}
+%\DeclareOption{tempsreel}{%
+%  \@COMPAS@setconf{tempsreel}%
+%}
 %\DeclareOption{repartition}{%
 %  \@COMPAS@setconf{repartition}%
 %}
@@ -76,11 +77,11 @@
 
 \ifCOMPAS@confselected%
 \else%
-\ClassError{compas2021}{%
+\ClassError{compas2022}{%
   No conference selected in the class options}{%
   When loading the class, you *must* choose one of the four
-  \MessageBreak conferences ('parallelisme', 'architecture', 'systeme', 'tempsreel'), for example:\MessageBreak
-  \protect\documentclass[parallelisme]{compas2021}
+  \MessageBreak conferences ('parallelisme', 'architecture', 'systeme'), for example:\MessageBreak
+  \protect\documentclass[parallelisme]{compas2022}
   }%
 \fi%
 
@@ -263,14 +264,14 @@
   \subsection*{R\'esum\'e}%
 }{%
   \ifx\COMPAS@keywords\relax%
-  \ClassWarning{compas2021}{No keywords defined with \protect\MotCles}
+  \ClassWarning{compas2022}{No keywords defined with \protect\MotCles}
   \else
   \begin{description} % 5 mots cl\'es seulement!!!
   \item[Mots-cl\'es :]{\COMPAS@keywords}
   \end{description}
   \fi \regle\par%
   \gdef\MotsCles##1{%
-    \ClassError{compas2021}{%
+    \ClassError{compas2022}{%
       \protect\MotCles\space must be used \MessageBreak%
       before the end of the abstract environment}{%
       Did you put the \protect\MotsCles\space macro after (instead of
@@ -296,20 +297,20 @@
 \def\systeme{Syst{\`e}me{}}
 \def\architecture{Architecture{}}
 \def\tempsreel{Temps R{\'e}el{}}
-\def\lieuconf{MILC - Lyon, France,  5-9 juillet 2021}
+\def\lieuconf{MIS/UPJV - Amiens France,  5-8 juillet 2022}
 
 \newcommand\COMPAS@CFPparallelisme{
-  \def\labelconf{\underline{\parallelisme} / \architecture / \systeme / \tempsreel}% / \repartition{}}
+  \def\labelconf{\underline{\parallelisme} / \architecture / \systeme}% / \tempsreel}% / \repartition{}}
 }
 \newcommand\COMPAS@CFPsysteme{
-  \def\labelconf{\parallelisme / \architecture / \underline{\systeme} / \tempsreel}% / \repartition{}}
+  \def\labelconf{\parallelisme / \architecture / \underline{\systeme}}% / \tempsreel}% / \repartition{}}
 }
 \newcommand\COMPAS@CFParchitecture{
-  \def\labelconf{\parallelisme / \underline{\architecture} / \systeme / \tempsreel}% / \repartition{}}
+  \def\labelconf{\parallelisme / \underline{\architecture} / \systemei}% / \tempsreel}% / \repartition{}}
 }
-\newcommand\COMPAS@CFPtempsreel{
-  \def\labelconf{\parallelisme / \architecture / \systeme / \underline{\tempsreel}}% / \repartition{}}
-}
+%\newcommand\COMPAS@CFPtempsreel{
+%  \def\labelconf{\parallelisme / \architecture / \systeme / \underline{\tempsreel}}% / \repartition{}}
+%}
 
 %\newcommand\COMPAS@CFPrepartition{
 %  \def\labelconf{\parallelisme / \architecture / \systeme / \underline{\repartition}}
@@ -320,13 +321,13 @@
 \def\rparallelismedixnotice{\small%
 
   \begin{tabular}[b]{r}%
-    {\bf Compas'2021}~: \labelconf \\
+    {\bf Compas'2022}~: \labelconf \\
     \lieuconf
   \end{tabular}
 }
 \def\lparallelismedixnotice{\small%
   \begin{tabular}[b]{l}
-    {\bf Compas'2021}~: \labelconf \\
+    {\bf Compas'2022}~: \labelconf \\
     \lieuconf
   \end{tabular}
 }

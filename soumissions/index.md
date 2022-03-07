@@ -52,3 +52,7 @@ Compas n'a pas pour objectif de remplacer une publication dans une conférence i
 
 + Notification aux auteurs: 9 Mai 2022
 
+### **Procédure de soumission**
+{: style="text-align: center;"}
+Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/misc/compas-2022-style.zip)** (en remplissant uniquement la partie abstract pour les résumés). La soumission se fait via **[Easychair](https://easychair.org/conferences/?conf=compas2022)**
+{: style="text-align: justify;"}
