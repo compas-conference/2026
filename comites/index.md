@@ -13,8 +13,8 @@ header:
 
 #### Comité d'organisation 
  + Gil Utard (MIS, UPJV, Président)
- + Wafa Badredine (MIS,UPJV)
- + Stéphane Devisme (MIS,UPJV)
+ + Wafa Badreddine (MIS,UPJV)
+ + Stéphane Devismes (MIS,UPJV)
 
 #### Comité de pilotage
  + Emmanuel Agullo (Représentant Parallélisme, Bordeaux)
