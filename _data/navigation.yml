@@ -14,6 +14,10 @@
   url: "/comites"
   side: left
 
+- title: Cadre
+  url: "/venue"
+  side: left
+
 #- title: "Dropdown Menu"
 #  url: "#"
 #  side: left

@@ -12,38 +12,29 @@ header:
 
 ### **Lieu de la conférence**
 
-L'édition 2021 de Compas aura lieu à la **Maison Internationale des Langues et des Cultures** (MILC) qui dépend de 
-l'Université Lyon 3 et dont l'adresse est :
+L'édition 2022 de Compas aura lieu à la **l'UFR des Sciences de l'UPJV**, en plein coeur du quartier étudiant de Saint Leu, en dessous de la Cathédrale,  et dont l'adresse est :
 {: style="text-align: justify;"}
 
-**Maison Internationale des Langues et des Cultures** <br>
-**35 Rue Raulin** <br>
-**69007 Lyon**
+**UFR des Sciences** <br>
+**33 Rue Saint Leu** <br>
+**80000 Amiens**
 
-![Lyon](/images/Lyon3.png){:class="img-responsive"}
+<img src="/images/Cathedrale.jpg" width="200">
+<img src="/images/Fete.png" width="300">
+<img src="/images/hortillon.jpg" width="250">
 
-### **Venir à Lyon**
 
-#### Depuis l'aéroport de Lyon Saint-Exupéry
+
+### **Venir à Amiens**
+
+#### Depuis Paris/Lille
  
-La connexion entre l'aéroport de Lyon Saint Exupéry et la gare de Lyon Part Dieu est assurée par le 
-[Rhônexpress](www.rhonexpress.fr) en 30 minutes. Différents [tarifs](https://www.rhonexpress.fr/fr/billets-et-tarifs/37) 
-sont disponibles en fonction de votre âge et du mode de réservation.
+Amiens est situé entre Lille et Paris et est déservie par le TER toutes les heures. De la gare, le lieu de la conférence est à 10mn à pied, vous pourrez admirer la cathédrale sur le chemin.
 {: style="text-align: justify;"}
 
-Des taxis sont également disponibles, un trajet entre l'aéroport et le centre de Lyon vous coûtera entre 50€ et 75€.
+### Logement
 
-#### **Transports en commun depuis les gares SNCF**
+Une trentaine de logements CROUS sont à disposition des participants à la conférence.
 
-La MILC est idéalement située entre les deux gares SNCF de Lyon et desservie par la ligne de Tram T1 
-(arrêt *Quai Claude Bernard*). 
-{: style="text-align: justify;"}
+De nombreux hôtels sont en centre ville, et un Appart'Hotels et non loin de l'événement.
 
-+ Depuis la gare de Lyon Part-Dieu, prendre la direction *Debourg*.
-+ Depuis la gare de Lyon Perrache, prendre la direction *IUT Feyssine*.
-
-Plus d'informations sur les transports en commun Lyonnais et les tarifs sur le site des [TCL](http://www.tcl.fr).
-
-#### **Plan synthétique de l'événement**
- 
-[Voir la carte](https://drive.google.com/open?id=1UkdYc25BGkveWbmPW-qGr47qp8h5ZSUG&usp=sharing).
