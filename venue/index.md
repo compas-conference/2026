@@ -31,7 +31,7 @@ Vous trouverez un plan de la ville ci dessous. La conférence est à 5 min à pi
 
 #### Depuis Paris/Lille
  
-Amiens est situé entre Lille et Paris et est déservie par le TER toutes les heures. De la gare, le lieu de la conférence est à 10mn à pied, vous pourrez admirer la cathédrale sur le chemin.
+Amiens est situé entre Lille et Paris et est déservie par le TER toutes les heures. De la gare, le lieu de la conférence est à 5 min à pied, vous pourrez admirer la cathédrale sur le chemin.
 {: style="text-align: justify;"}
 
 ### Logement
