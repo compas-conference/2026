@@ -16,6 +16,8 @@ slogan: "Conférence d'informatique en Parallélisme, Architecture et Système"
 # Main author of the website
 # See > authors.yml
 author: gutard
+#port: 3306
+#host: 0.0.0.0
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #

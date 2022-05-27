@@ -17,6 +17,9 @@
 - title: Cadre
   url: "/venue"
   side: left
+- title: Inscription
+  url: "/inscription"
+  side: left
 
 #- title: "Dropdown Menu"
 #  url: "#"
