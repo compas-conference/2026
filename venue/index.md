@@ -19,6 +19,8 @@ L'édition 2022 de Compas aura lieu à la **l'UFR des Sciences de l'UPJV**, en p
 **33 Rue Saint Leu** <br>
 **80000 Amiens**
 
+Vous trouverez un plan de la ville ci dessous. La conférence est à 5 min à pied de la gare.
+
 <img src="/images/Cathedrale.jpg" width="200">
 <img src="/images/Fete.png" width="300">
 <img src="/images/hortillon.jpg" width="250">
@@ -37,4 +39,6 @@ Amiens est situé entre Lille et Paris et est déservie par le TER toutes les he
 Une trentaine de logements CROUS sont à disposition des participants à la conférence.
 
 De nombreux hôtels sont en centre ville, et un Appart'Hotels et non loin de l'événement.
+
+<img src="/images/plancompas.png" width="800">
 
