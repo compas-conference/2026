@@ -28,7 +28,7 @@ Tarif : 200 € jusqu'au 18 juin, 300 € après.
 Réglement : Bon de Commande ou CB
 
 ### **Logement étudiant**
-Trente chambres CROUS réservés aux étudiants sont disponibles, l'algorithme de sélection est le FCFS. Le kit literie et acceuil est inclus. Le tarif est de 108 € pour les 3 nuits.
+Trente chambres CROUS réservées aux étudiants sont disponibles, l'algorithme de sélection est le FCFS. Le kit literie et acceuil est inclus. Le tarif est de 108 € pour les 3 nuits.
 
 L'inscription s'effectue à travers le portail scienceconf.org : <https://compas2022.sciencesconf.org/registration>
 
