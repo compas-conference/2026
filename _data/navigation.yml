@@ -21,6 +21,10 @@
   url: "/inscription"
   side: left
 
+- title: Tutoriels
+  url: "/tutoriaux"
+  side: left
+
 #- title: "Dropdown Menu"
 #  url: "#"
 #  side: left
