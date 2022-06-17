@@ -12,7 +12,7 @@ header:
 
 
 ### **Déroulement de la conférence**
-La conférence se déroulera du 5 juillet 2022 à 10h jusqu'au 8 juillet 2022 à 14h après le dernier déjeuner. La première journée est dédiée aux tutoriels et autres événements satellites.
+La conférence se déroulera du 5 juillet 2022 à 10h jusqu'au 8 juillet 2022 à 14h après le dernier déjeuner. La première journée est dédiée aux tutoriels et autres événements satellites. L'accueil se fait en continue.
 
 Le programme sera mis constament à jour sur le site de sciencesconf.org : <https://compas2022.sciencesconf.org/program>
 
@@ -23,7 +23,7 @@ L'inscription comprend :
   * les déjeuners, et différentes pauses
   * le gala, cocktails et autres évenements.
   
-Tarif : 200 € jusqu'au 18 juin, 300 € après.
+Tarif : 200 € jusqu'au 21 juin minuit, 300 € après.
 
 Réglement : Bon de Commande ou CB
 
