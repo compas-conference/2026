@@ -14,7 +14,6 @@ header:
 ### **Déroulement de la conférence**
 La conférence se déroulera du 5 juillet 2022 à 10h jusqu'au 8 juillet 2022 à 14h après le dernier déjeuner. La première journée est dédiée aux tutoriels et autres événements satellites. L'accueil se fait en continue.
 
-Le programme sera mis constament à jour sur le site de sciencesconf.org : <https://compas2022.sciencesconf.org/program>
 
 ### **Inscription**
 
