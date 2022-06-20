@@ -149,6 +149,8 @@ header:
         _Mathieu Verite_ (INRIA)
     - __Intensité arithmétique du produit de matrice symétrique et application au positionnement multidimensionnel (MDS)__  
         _Romain Peressoni_ (INRIA Bordeaux)
+    - __Deep Learning pour l'Estimation du Rendement en Viticulture__  
+        _Lucas Mohimont, Mathias Roesler, Marine Rondeau, François Alin, Nathalie Gaveau and Luiz Angelo Steffenel_ (LICIIS - LRC CEA DIGIT, Univ. Reims)
 - Présentation résumé-poster II
     - __A geo-distribution management service for Cloud Applications on the Edge__  
         _Geo Johns Antony, Marie Delavergne and Adrien Lebre_ (INRIA)
@@ -172,7 +174,7 @@ header:
         _Brice Ekane Apah, Alain Tchana, Renaud Lachaize, Noel De Palma and Daniel Hagimont_ (LIP/ENS Lyon, IRIT, UGA)
 
 
-### 17h-18h AG ComPAS
+### 17h15-18h AG ComPAS
 ### 18h-20 Cocktail Poster
 ## Vendredi 8 juillet
 ### 9h00-10h15 : Keynote Système
