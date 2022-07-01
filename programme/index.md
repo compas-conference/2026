@@ -17,34 +17,34 @@ header:
 
 ### Accueil continue à partir de 9h
 
-### 10h-12h30
+### 10h-12h15
 - Tutoriel "**Zen**" première partie
 
-### 12h30-13h30 Déjeuner
+### 12h15-14h Déjeuner
 
-### 13h30-16h30
+### 14h-16h45
 - Tutoriel "**Zen**", deuxième partie
 - Tutoriel "**Nix**"
 - Tutoriel "**S3**"
 
-### 16h30
+### 16h45
 - Excursion
 - Cocktail
 
 ## Mercredi 6 juillet
-### Acceuil continue à partir de 8h
-### 8h45-9h15
+### Accueil continue à partir de 8h
+### 8h45-9h00
 - Ouverture de la conférence
 
-### 9h15-10h30 : Keynote Parallélisme
+### 9h00-10h15 : Keynote Parallélisme
 - Loris Marchal, LIP/ENS Lyon
   - Titre à venir
   - Chair : XXX
   
-### 10h30-10h45 Pause café
+### 10h15-10h30 Pause café
 
-### 10h45-12h45
-- Para 1
+### 10h30-12h30
+- Parallélisme I
 	- __Algorithmes parallèles sur le modèle CGM pour la résolution du problème de k-anonymat__  
         _Arsème Vadèle Djeufack Nanfack_ (Université de Dschang)
     - __Scalabilité de l’entraînement d’un réseau de convolution de graphes pour l’amarrage moléculaire__  
@@ -55,10 +55,10 @@ header:
         _Aboul-Karim Mohamed El Maarouf, Luc Giraud, Abdou Guermouche and Thomas Guignon_ (LaBri/IFPEN Bordeaux)
 
 
-### 12h45-13h45 Déjeuner
+### 12h30-14h00 Déjeuner
 
-### 13h45-15h45
-- Système IO
+### 14h00-16h00
+- Système I (IO)
 	- __sQemu: vers un stockage virtuel scalable__  
         _Nguetchouang Ngongang Kevin, Tchana Alain and Olivier Pierre_ (LIP/ENS Lyon)
     - __IO-Sets: Simple and efficient approaches for I/O bandwidth management__  
@@ -67,7 +67,7 @@ header:
         _Alexis Bandet, Francieli Boito and Guillaume Pallez_ (LaBRI Bordeaux)
     - __Towards correct high-performance database backends__  
         _Saalik Hatia, Annette Bieniusa, Carla Ferreira, Gustavo Petri and Marc Shapiro_ (LIP6/Sorbonne Université)
-- Parallélisme
+- Parallélisme II
     - __Programmation des architectures hétérogènes à l'aide de tâches hiérarchiques__  
         _Gwenolé Lucas, Mathieu Faverge, Nathalie Furmento, Abdou Guermouche, Samuel Thibault and Pierre-André Wacrenier_ (LaBri Bordeaux)
 	- __MulTreePrio: Scheduling task-based applications for heterogeneous computing systems__  
@@ -77,10 +77,10 @@ header:
     - __LSL3D : Étiquetage en Composantes Connexe par segments pour volumes 3D__  
         _Nathan Maurice, Florian Lemaitre, Julien Sopena and Lionel Lacassagne_ (LIP6/Sorbonne Université)
 
-### 15h45-16h Pause Café
+### 16h00-16h15 Pause Café
 
-### 16h-17h30
-- System 1		
+### 16h15-17h45
+- Système II		
     - __PREaaS approach for secure file sharing in the cloud__  
         _Anass Sbai, Cyril Drocourt and Gilles Dequen_ (MIS/UPJV)
 	- __A predictive model for Stream Processing System that dynamically calibrates the number of operator replicas__  
@@ -88,11 +88,11 @@ header:
 	- __Evaluating Execution Times and Costs of a Federated Learning Application on different Cloud Providers__  
         _Rafaela Brum, Lúcia Drummond, Luciana Arantes, Maria Clicia Castro and Pierre Sens_ (LIP6/Sorbonne Université)
 
-### 18h
+### 17h45
 - Départ soirée ComPAS
 
 ## Jeudi 7 juillet
-### 8h45-10h45
+### 8h30-10h30
 - Infra
 	- __Étude des applications Bag-of-Tasks du méso-centre Gricad__  
         _Quentin Guilloteau, Olivier Richard and Eric Rutten_ (LIG/Université Grenoble Alpes)
@@ -103,9 +103,9 @@ header:
     - __Dimensionnement de datacenters autonomes alimentés en énergie renouvelable__  
         _Manal Benaissa, George Da Costa and Jean-Marc Nicod_ (FEMTO-ST/IRIT)
 
-### 10h45-11h Pause Café
+### 10h30-10h45 Pause Café
 
-### 11h-12h30
+### 10h45-12h15
 - Archi : chair xxx
 	- __Implémentations logicielles et matérielles efficientes d'une chaine de communications QCSP__  
         _Camille Monière, Bertrand Le Gal and Emmanuel Boutillon_ (Univ. Bretagne Sud/Bordeaux)
@@ -113,15 +113,15 @@ header:
         _Hugues Almorin, Christophe Jego, Bertrand Le Gal, Jérémie Crenne and Vincent Kissel_ (IMS Lab/ARELIS-LGM)
 	- __Smart Heuristics for Power Constraints in Data Centers Powered by Renewable Sources__  
         _Igor Fontana de Nardin, Patricia Stolf and Stephane Caux_ (IRIT/INPT Laplace Toulouse)
-- Système
+- Système III
+    - __Adirbs : Approche de Dimensionnement des Infrastructures de Robotique en Brouillard basée sur la Simulation__  
 	- __A framework for on-demand inference of IoT dependencies toward collaborative IoT Device management__  
         _Amal Guittoum, François Aïssaoui, Sébastien Bolle, Fabienne Boyer and Noel De Palma_  (Orange Innovation/LIG Grenoble)
-    - __Adirbs : Approche de Dimensionnement des Infrastructures de Robotique en Brouillard basée sur la Simulation__  
         _Lucien Arnaud Ndjie Ngale and Mélanie Fontaine_ (CRISPI/UPJV-ENS Lyon)
     - __Transposition d'environnements distribués reproductibles avec NixOS Compose__  
         _Jonathan Bleuzen, Quentin Guilloteau, Millian Poquet and Olivier Richard_ (LIG/Université Grenoble Alpes)
 
-### 12h30-13h45 Déjenuer
+### 12h15-13h45 Déjeuner
 ### 13h45-15h : Keynote Architecture
 - Lilian Bossuet, Lab. Hubert Curien, Université Jean Monnet
   - Titre : à venir
@@ -145,8 +145,6 @@ header:
         _Marie Reinbigler_ (Telecom Sud Paris)	
     - __Unified address space for massively parallel computers__  
         _Eduardo Tomasi Ribeiro, Christian Fabre, César Fuguet Tortolero and Frédéric Pétrot_ (CEA/List/TIMA INP/UGA)
-    - __Distribution bloc-cyclique symétrique : réduire les communications accélère la factorisation de Cholesky sur les matrices denses__  
-        _Mathieu Verite_ (INRIA)
     - __Intensité arithmétique du produit de matrice symétrique et application au positionnement multidimensionnel (MDS)__  
         _Romain Peressoni_ (INRIA Bordeaux)
     - __Deep Learning pour l'Estimation du Rendement en Viticulture__  
@@ -158,7 +156,7 @@ header:
         _Vladimir Ostapenco, Laurent Lefèvre and Anne-Cécile Orgerie_ (LIP/ENS Lyon, Irisa Rennes)	
     - __An experimental comparison of software based power meters: focus on GPU__  
         _Mathilde Jay, Laurent Lefevre and Denis Trystram_ (LIP/ENS Lyon, LIG/UGA)	
-    - __Résumé - Automated performance prediction of microservice applications using simulation__  
+    - __Automated performance prediction of microservice applications using simulation__  
         _Clément Courageux-Sudan, Anne-Cécile Orgerie and Martin Quinson_ (Irisa Rennes)
     - __FaaSLoad: Injecteur de charge et moniteur pour le Function-as-a-Service__  
         _Mathieu Bacou_ (Telecom Sud Paris)
@@ -184,7 +182,7 @@ header:
   
 ### 10h30-10h45 Pause café
 ### 10h45-12h45
-- System 2
+- System IV
 	- __Improving accuracy of probabilistic-based causal broadcast__  
         _Daniel Wilhelm, Luciana Arantes and Pierre Sens_ (LIP6/Sorbonne Université)
 	- __MPR alternant : un algorithme de diffusion MANET équilibré__  
@@ -194,7 +192,7 @@ header:
     - __Shared memory for the actor model__  
         _Benoit Martin and Marc Shapiro_ (LIP6/Sorbonne Université)
 
-### 12h45-13h45 Déjeuner
+### 12h45-14h15 Déjeuner
 
 
 
