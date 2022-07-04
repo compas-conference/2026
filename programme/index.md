@@ -36,7 +36,7 @@ header:
 ### 8h45-9h00
 - Ouverture de la conférence
 
-### 9h00-10h15 : Keynote Parallélisme
+### 9h00-10h15 : Keynote Parallélisme (_Amphi Parmentier_)
 - Loris Marchal, LIP/ENS Lyon
   - Ordonnancement pour la mémoire et les transferts de données
   - Chair : Etienne Rivière (ICTEAM/UC Louvain)
@@ -44,7 +44,7 @@ header:
 ### 10h15-10h30 Pause café
 
 ### 10h30-12h30
-- Parallélisme I : Loris Marchal (LIP/ENS Lyon)
+- Parallélisme I : Loris Marchal (LIP/ENS Lyon) (_Amphi Parmentier_)
 	- __[Algorithmes parallèles sur le modèle CGM pour la résolution du problème de k-anonymat](./papiers/ComPAS2022_paper_16-2.pdf)__  
         _Arsème Vadèle Djeufack Nanfack_ (Université de Dschang)
     - __[Scalabilité de l’entraînement d’un réseau de convolution de graphes pour l’amarrage moléculaire](./papiers/ComPAS2022_paper_45-2.pdf)__  
@@ -58,7 +58,7 @@ header:
 ### 12h30-14h00 Déjeuner
 
 ### 14h00-16h00
-- Système I (IO) : Djob Mvondo (IRISA)
+- Système I (IO) : Djob Mvondo (IRISA) (_Amphi Parmentier_)
 	- __[sQemu: vers un stockage virtuel scalable](./papiers/ComPAS2022_paper_50-2.pdf)__  
         _Nguetchouang Ngongang Kevin, Tchana Alain and Olivier Pierre_ (LIP/ENS Lyon)
     - __[IO-Sets: Simple and efficient approaches for I/O bandwidth management](./papiers/ComPAS2022_paper_20-2.pdf)__  
@@ -67,7 +67,7 @@ header:
         _Alexis Bandet, Francieli Boito and Guillaume Pallez_ (LaBRI Bordeaux)
     - __[Towards correct high-performance database backends](./papiers/ComPAS2022_paper_25.pdf)__  
         _Saalik Hatia, Annette Bieniusa, Carla Ferreira, Gustavo Petri and Marc Shapiro_ (LIP6/Sorbonne Université)
-- Parallélisme II : Eddy Caron (LIP/ENS Lyon)
+- Parallélisme II : Eddy Caron (LIP/ENS Lyon) (_Amphi Ehresmann_)
     - __[Programmation des architectures hétérogènes à l'aide de tâches hiérarchiques](./papiers/ComPAS2022_paper_10.pdf)__  
         _Gwenolé Lucas, Mathieu Faverge, Nathalie Furmento, Abdou Guermouche, Samuel Thibault and Pierre-André Wacrenier_ (LaBri Bordeaux)
 	- __[MulTreePrio: Scheduling task-based applications for heterogeneous computing systems](./papiers/ComPAS2022_paper_11-2.pdf)__  
@@ -80,7 +80,7 @@ header:
 ### 16h00-16h15 Pause Café
 
 ### 16h15-17h45
-- Système II : Elisabeth Brunet (Télécom Sud Paris)		
+- Système II : Elisabeth Brunet (Télécom Sud Paris)	(_Amphi Parmentier_)	
     - __[PREaaS approach for secure file sharing in the cloud](./papiers/ComPAS2022_paper_6.pdf)__  
         _Anass Sbai, Cyril Drocourt and Gilles Dequen_ (MIS/UPJV)
 	- __[A predictive model for Stream Processing System that dynamically calibrates the number of operator replicas](./papiers/ComPAS2022_paper_22-2.pdf)__  
@@ -93,7 +93,7 @@ header:
 
 ## Jeudi 7 juillet
 ### 8h30-10h30
-- Infra : Laurent Lefevre (LIP/ENS Lyon)
+- Infra : Laurent Lefevre (LIP/ENS Lyon) (_Amphi Parmentier_)
 	- __[Étude des applications Bag-of-Tasks du méso-centre Gricad](./papiers/ComPAS2022_paper_19-2.pdf)__  
         _Quentin Guilloteau, Olivier Richard and Eric Rutten_ (LIG/Université Grenoble Alpes)
     - __[L'analyse de cycle de vie de services numériques sur systèmes distribués : définitions et enjeux](./papiers/ComPAS2022_paper_26-2.pdf)__  
@@ -106,14 +106,14 @@ header:
 ### 10h30-10h45 Pause Café
 
 ### 10h45-12h15
-- Archi : Kevin Martin (Lab-Sticc)
+- Archi : Kevin Martin (Lab-Sticc) (_Amphi Parmentier_)
 	- __[Implémentations logicielles et matérielles efficientes d'une chaine de communications QCSP](./papiers/ComPAS2022_paper_27-2.pdf)__  
         _Camille Monière, Bertrand Le Gal and Emmanuel Boutillon_ (Univ. Bretagne Sud/Bordeaux)
     - __[Conception d'architectures de FFT pour FPGA à base de modèle comportementaux](./papiers/ComPAS2022_paper_28-2.pdf)__  
         _Hugues Almorin, Christophe Jego, Bertrand Le Gal, Jérémie Crenne and Vincent Kissel_ (IMS Lab/ARELIS-LGM)
 	- __[Smart Heuristics for Power Constraints in Data Centers Powered by Renewable Sources](./papiers/ComPAS2022_paper_7-2.pdf)__  
         _Igor Fontana de Nardin, Patricia Stolf and Stephane Caux_ (IRIT/INPT Laplace Toulouse)
-- Système III : Jean-Marc Nicod (FEMTO-ST)
+- Système III : Jean-Marc Nicod (FEMTO-ST) (_Amphi Ehresmann_)
     - __[Adirbs : Approche de Dimensionnement des Infrastructures de Robotique en Brouillard basée sur la Simulation](./papiers/ComPAS2022_paper_40-2.pdf)__  
         _Lucien Arnaud Ndjie Ngale and Mélanie Fontaine_ (CRISPI/UPJV-ENS Lyon)
 	- __[A framework for on-demand inference of IoT dependencies toward collaborative IoT Device management](./papiers/ComPAS2022_paper_8-2.pdf)__  
@@ -122,7 +122,7 @@ header:
         _Jonathan Bleuzen, Quentin Guilloteau, Millian Poquet and Olivier Richard_ (LIG/Université Grenoble Alpes)
 
 ### 12h15-13h45 Déjeuner
-### 13h45-15h : Keynote Architecture
+### 13h45-15h : Keynote Architecture (_Amphi Parmentier_)
 - Lilian Bossuet, Lab. Hubert Curien, Université Jean Monnet
   - Titre : Sécurité des SoC complexes et hétérogènes – l’ennemi de l’intérieur 
   - Chair : Daniel Chillet (IRISA/ENSSAT)
@@ -130,7 +130,7 @@ header:
 ### 15h-15h15 Pause Café
 
 ### 15h30-17h 
-- Présentation résumé-poster I	
+- Présentation résumé-poster I : Stéphane Desvismes (_Amphi Parmentier_) 	
     - __Methodology for neural network adaptation for low-end hardware processors__  
         _Logan Saint-Germain, Christophe Jego, Bertrand Le Gal, Jeremie Crenne, Fabien Baldacci and Sébastien Loty_ (LaBRI/IMS/CATIE)
     - __ELOISE: A rollback-free checkpoint placement and memory allocation technique for intermittent systems__  
@@ -149,7 +149,7 @@ header:
         _Romain Peressoni_ (INRIA Bordeaux)
     - __Deep Learning pour l'Estimation du Rendement en Viticulture__  
         _Lucas Mohimont, Mathias Roesler, Marine Rondeau, François Alin, Nathalie Gaveau and Luiz Angelo Steffenel_ (LICIIS - LRC CEA DIGIT, Univ. Reims)
-- Présentation résumé-poster II
+- Présentation résumé-poster II : Gil Utard (_Amphi Ehresmann_)
     - __A geo-distribution management service for Cloud Applications on the Edge__  
         _Geo Johns Antony, Marie Delavergne and Adrien Lebre_ (INRIA)
     - __Une comparaison expérimentale des wattmètres logiciels : focus sur le CPU__  
@@ -175,14 +175,14 @@ header:
 ### 17h15-18h AG ComPAS
 ### 18h-20 Cocktail Poster
 ## Vendredi 8 juillet
-### 9h00-10h15 : Keynote Système
+### 9h00-10h15 : Keynote Système (_Amphi Parmentier_)
 - Anne Cécile Orgérie, Irisa
   - Titre à venir
   - Chair : Sebastien Monnet
   
 ### 10h30-10h45 Pause café
 ### 10h45-12h45
-- System IV
+- System IV : Laurent Réveillère (LaBRI) (_Amphi Parmentier_)
 	- __[Improving accuracy of probabilistic-based causal broadcast](./papiers/ComPAS2022_paper_13.pdf)__  
         _Daniel Wilhelm, Luciana Arantes and Pierre Sens_ (LIP6/Sorbonne Université)
 	- __[MPR alternant : un algorithme de diffusion MANET équilibré](./papiers/ComPAS2022_paper_14-2.pdf)__  
