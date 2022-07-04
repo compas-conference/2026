@@ -15,7 +15,7 @@ header:
 
 ## Mardi 5 juillet
 
-### Accueil continue à partir de 9h
+### Accueil continu à partir de 9h
 
 ### 10h-12h15
 - Tutoriel "**Zen**" première partie
@@ -32,60 +32,60 @@ header:
 - Cocktail
 
 ## Mercredi 6 juillet
-### Accueil continue à partir de 8h
+### Accueil continu à partir de 8h
 ### 8h45-9h00
 - Ouverture de la conférence
 
 ### 9h00-10h15 : Keynote Parallélisme
 - Loris Marchal, LIP/ENS Lyon
-  - Titre à venir
-  - Chair : XXX
+  - Ordonnancement pour la mémoire et les transferts de données
+  - Chair : Etienne Rivière (ICTEAM/UC Louvain)
   
 ### 10h15-10h30 Pause café
 
 ### 10h30-12h30
-- Parallélisme I
-	- __Algorithmes parallèles sur le modèle CGM pour la résolution du problème de k-anonymat__  
+- Parallélisme I : Loris Marchal (LIP/ENS Lyon)
+	- __[Algorithmes parallèles sur le modèle CGM pour la résolution du problème de k-anonymat](./papiers/ComPAS2022_paper_16-2.pdf)__  
         _Arsème Vadèle Djeufack Nanfack_ (Université de Dschang)
-    - __Scalabilité de l’entraînement d’un réseau de convolution de graphes pour l’amarrage moléculaire__  
+    - __[Scalabilité de l’entraînement d’un réseau de convolution de graphes pour l’amarrage moléculaire](./papiers/ComPAS2022_paper_45-2.pdf)__  
         _Kevin Crampon, Alexis Giorkallos, Stephanie Baud and Luiz Angelo Steffenel_ (Univ de Reims/Atos SE)
-    - __A Polyhedral Approach for Scalar Promotion__  
+    - __[A Polyhedral Approach for Scalar Promotion](./papiers/ComPAS2022_paper_5.pdf)__  
         _Alec Sadler, Christophe Alias and Hugo Thievenaz_ (INRIA)
-	- __A multi-coloring ordering for preconditioned Krylov solvers__  
+	- __[A multi-coloring ordering for preconditioned Krylov solvers](./papiers/ComPAS2022_paper_12-2.pdf)__  
         _Aboul-Karim Mohamed El Maarouf, Luc Giraud, Abdou Guermouche and Thomas Guignon_ (LaBri/IFPEN Bordeaux)
 
 
 ### 12h30-14h00 Déjeuner
 
 ### 14h00-16h00
-- Système I (IO)
-	- __sQemu: vers un stockage virtuel scalable__  
+- Système I (IO) : Djob Mvondo (IRISA)
+	- __[sQemu: vers un stockage virtuel scalable](./papiers/ComPAS2022_paper_50-2.pdf)__  
         _Nguetchouang Ngongang Kevin, Tchana Alain and Olivier Pierre_ (LIP/ENS Lyon)
-    - __IO-Sets: Simple and efficient approaches for I/O bandwidth management__  
+    - __[IO-Sets: Simple and efficient approaches for I/O bandwidth management](./papiers/ComPAS2022_paper_20-2.pdf)__  
         _Francieli Boito, Guillaume Pallez, Luan Teylo and Nicolas Vidal_ (INRIA Bordeaux)
-    - __Partage noeuds E/S entre applications__  
+    - __[Partage noeuds E/S entre applications](./papiers/ComPAS2022_paper_23.pdf)__  
         _Alexis Bandet, Francieli Boito and Guillaume Pallez_ (LaBRI Bordeaux)
-    - __Towards correct high-performance database backends__  
+    - __[Towards correct high-performance database backends](./papiers/ComPAS2022_paper_25.pdf)__  
         _Saalik Hatia, Annette Bieniusa, Carla Ferreira, Gustavo Petri and Marc Shapiro_ (LIP6/Sorbonne Université)
-- Parallélisme II
-    - __Programmation des architectures hétérogènes à l'aide de tâches hiérarchiques__  
+- Parallélisme II : Eddy Caron (LIP/ENS Lyon)
+    - __[Programmation des architectures hétérogènes à l'aide de tâches hiérarchiques](./papiers/ComPAS2022_paper_10.pdf)__  
         _Gwenolé Lucas, Mathieu Faverge, Nathalie Furmento, Abdou Guermouche, Samuel Thibault and Pierre-André Wacrenier_ (LaBri Bordeaux)
-	- __MulTreePrio: Scheduling task-based applications for heterogeneous computing systems__  
+	- __[MulTreePrio: Scheduling task-based applications for heterogeneous computing systems](./papiers/ComPAS2022_paper_11-2.pdf)__  
         _Hayfa Tayeb, Bérenger Bramas, Abdou Guermouche and Mathieu Faverge_ (LaBri Bordeaux)
-	- __Parallelization of the Lattice-Boltzmann schemes using the task-based method__  
+	- __[Parallelization of the Lattice-Boltzmann schemes using the task-based method](./papiers/ComPAS2022_paper_43-2.pdf)__  
         _Clément Flint, Berenger Bramas, Stéphane Genaud and Philippe Helluy_ (INRIA/Univ. Strasbourg)
-    - __LSL3D : Étiquetage en Composantes Connexe par segments pour volumes 3D__  
+    - __[LSL3D : Étiquetage en Composantes Connexe par segments pour volumes 3D](./papiers/ComPAS2022_paper_21-2.pdf)__  
         _Nathan Maurice, Florian Lemaitre, Julien Sopena and Lionel Lacassagne_ (LIP6/Sorbonne Université)
 
 ### 16h00-16h15 Pause Café
 
 ### 16h15-17h45
-- Système II		
-    - __PREaaS approach for secure file sharing in the cloud__  
+- Système II : Elisabeth Brunet (Télécom Sud Paris)		
+    - __[PREaaS approach for secure file sharing in the cloud](./papiers/ComPAS2022_paper_6.pdf)__  
         _Anass Sbai, Cyril Drocourt and Gilles Dequen_ (MIS/UPJV)
-	- __A predictive model for Stream Processing System that dynamically calibrates the number of operator replicas__  
+	- __[A predictive model for Stream Processing System that dynamically calibrates the number of operator replicas](./papiers/ComPAS2022_paper_22-2.pdf)__  
         _Daniel Wladdimiro, Luciana Arantes, Pierre Sens and Nicolas Hidalgo_ (LIP6/Sorbonne Université)
-	- __Evaluating Execution Times and Costs of a Federated Learning Application on different Cloud Providers__  
+	- __[Evaluating Execution Times and Costs of a Federated Learning Application on different Cloud Providers](./papiers/ComPAS2022_paper_17-2.pdf)__  
         _Rafaela Brum, Lúcia Drummond, Luciana Arantes, Maria Clicia Castro and Pierre Sens_ (LIP6/Sorbonne Université)
 
 ### 17h45
@@ -93,39 +93,39 @@ header:
 
 ## Jeudi 7 juillet
 ### 8h30-10h30
-- Infra
-	- __Étude des applications Bag-of-Tasks du méso-centre Gricad__  
+- Infra : Laurent Lefevre (LIP/ENS Lyon)
+	- __[Étude des applications Bag-of-Tasks du méso-centre Gricad](./papiers/ComPAS2022_paper_19-2.pdf)__  
         _Quentin Guilloteau, Olivier Richard and Eric Rutten_ (LIG/Université Grenoble Alpes)
-    - __L'analyse de cycle de vie de services numériques sur systèmes distribués : définitions et enjeux__  
+    - __[L'analyse de cycle de vie de services numériques sur systèmes distribués : définitions et enjeux](./papiers/ComPAS2022_paper_26-2.pdf)__  
         _Adrien Berthelot, Eddy Caron and Laurent Lefèvre_ (LIP/ENS Lyon)
-    - __PYTHIA: un oracle pour guider les décisions des runtimes__  
+    - __[PYTHIA: un oracle pour guider les décisions des runtimes](./papiers/ComPAS2022_paper_3.pdf)__  
         _Alexis Colin, François Trahay and Denis Conan_ (Telecom Sud Paris)
-    - __Dimensionnement de datacenters autonomes alimentés en énergie renouvelable__  
+    - __[Dimensionnement de datacenters autonomes alimentés en énergie renouvelable](./papiers/ComPAS2022_paper_24-2.pdf)__  
         _Manal Benaissa, George Da Costa and Jean-Marc Nicod_ (FEMTO-ST/IRIT)
 
 ### 10h30-10h45 Pause Café
 
 ### 10h45-12h15
-- Archi : chair xxx
-	- __Implémentations logicielles et matérielles efficientes d'une chaine de communications QCSP__  
+- Archi : Kevin Martin (Lab-Sticc)
+	- __[Implémentations logicielles et matérielles efficientes d'une chaine de communications QCSP](./papiers/ComPAS2022_paper_27-2.pdf)__  
         _Camille Monière, Bertrand Le Gal and Emmanuel Boutillon_ (Univ. Bretagne Sud/Bordeaux)
-    - __Conception d'architectures de FFT pour FPGA à base de modèle comportementaux__  
+    - __[Conception d'architectures de FFT pour FPGA à base de modèle comportementaux](./papiers/ComPAS2022_paper_28-2.pdf)__  
         _Hugues Almorin, Christophe Jego, Bertrand Le Gal, Jérémie Crenne and Vincent Kissel_ (IMS Lab/ARELIS-LGM)
-	- __Smart Heuristics for Power Constraints in Data Centers Powered by Renewable Sources__  
+	- __[Smart Heuristics for Power Constraints in Data Centers Powered by Renewable Sources](./papiers/ComPAS2022_paper_7-2.pdf)__  
         _Igor Fontana de Nardin, Patricia Stolf and Stephane Caux_ (IRIT/INPT Laplace Toulouse)
-- Système III
-    - __Adirbs : Approche de Dimensionnement des Infrastructures de Robotique en Brouillard basée sur la Simulation__  
-	- __A framework for on-demand inference of IoT dependencies toward collaborative IoT Device management__  
-        _Amal Guittoum, François Aïssaoui, Sébastien Bolle, Fabienne Boyer and Noel De Palma_  (Orange Innovation/LIG Grenoble)
+- Système III : Jean-Marc Nicod (FEMTO-ST)
+    - __[Adirbs : Approche de Dimensionnement des Infrastructures de Robotique en Brouillard basée sur la Simulation](./papiers/ComPAS2022_paper_40-2.pdf)__  
         _Lucien Arnaud Ndjie Ngale and Mélanie Fontaine_ (CRISPI/UPJV-ENS Lyon)
-    - __Transposition d'environnements distribués reproductibles avec NixOS Compose__  
+	- __[A framework for on-demand inference of IoT dependencies toward collaborative IoT Device management](./papiers/ComPAS2022_paper_8-2.pdf)__  
+        _Amal Guittoum, François Aïssaoui, Sébastien Bolle, Fabienne Boyer and Noel De Palma_  (Orange Innovation/LIG Grenoble)
+    - __[Transposition d'environnements distribués reproductibles avec NixOS Compose](./papiers/ComPAS2022_paper_9-2.pdf)__  
         _Jonathan Bleuzen, Quentin Guilloteau, Millian Poquet and Olivier Richard_ (LIG/Université Grenoble Alpes)
 
 ### 12h15-13h45 Déjeuner
 ### 13h45-15h : Keynote Architecture
 - Lilian Bossuet, Lab. Hubert Curien, Université Jean Monnet
-  - Titre : à venir
-  - Chair : Daniel Chillet
+  - Titre : Sécurité des SoC complexes et hétérogènes – l’ennemi de l’intérieur 
+  - Chair : Daniel Chillet (IRISA/ENSSAT)
 
 ### 15h-15h15 Pause Café
 
@@ -183,13 +183,13 @@ header:
 ### 10h30-10h45 Pause café
 ### 10h45-12h45
 - System IV
-	- __Improving accuracy of probabilistic-based causal broadcast__  
+	- __[Improving accuracy of probabilistic-based causal broadcast](./papiers/ComPAS2022_paper_13.pdf)__  
         _Daniel Wilhelm, Luciana Arantes and Pierre Sens_ (LIP6/Sorbonne Université)
-	- __MPR alternant : un algorithme de diffusion MANET équilibré__  
+	- __[MPR alternant : un algorithme de diffusion MANET équilibré](./papiers/ComPAS2022_paper_14-2.pdf)__  
         _Aymeric Agon-Rambosson, Jonathan Lejeune, Julien Sopena and Pierre Sens_ (LIP6/Sorbonne Université)
-	- __Evaluation d’une solution d’isolation pour objets contraints__  
+	- __[Evaluation d’une solution d’isolation pour objets contraints](./papiers/ComPAS2022_paper_15-2.pdf)__  
         _Nicolas Dejon, Chrystel Gaber and Gilles Grimaud_ (Orange Lab/Univ de Lille)
-    - __Shared memory for the actor model__  
+    - __[Shared memory for the actor model](./papiers/ComPAS2022_paper_2-2.pdf)__  
         _Benoit Martin and Marc Shapiro_ (LIP6/Sorbonne Université)
 
 ### 12h45-14h15 Déjeuner
