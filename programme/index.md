@@ -18,16 +18,16 @@ header:
 ### Accueil continu à partir de 9h
 
 ### 10h-12h15
-- Tutoriel "**Zen**" première partie
+- Tutoriel "**Zen**" première partie (F105)
 
 ### 12h15-14h Déjeuner
 
-### 14h-16h45
-- Tutoriel "**Zen**", deuxième partie
-- Tutoriel "**Nix**"
-- Tutoriel "**S3**"
+### 14h-16h30
+- Tutoriel "**Zen**", deuxième partie (F105)
+- Tutoriel "**Nix**" (F008)
+- Tutoriel "**S3**" (Canceled)
 
-### 16h45
+### 16h30
 - Excursion
 - Cocktail
 
