@@ -57,7 +57,7 @@ header:
 
 ### 12h30-14h00 Déjeuner
 
-### 14h00-16h00
+### 14h03-16h30
 - Système I (IO) : Djob Mvondo (IRISA) (_Amphi Parmentier_)
 	- __[sQemu: vers un stockage virtuel scalable](./papiers/ComPAS2022_paper_50-2.pdf)__  
         _Nguetchouang Ngongang Kevin, Tchana Alain and Olivier Pierre_ (LIP/ENS Lyon)
@@ -77,7 +77,7 @@ header:
     - __[LSL3D : Étiquetage en Composantes Connexe par segments pour volumes 3D](./papiers/ComPAS2022_paper_21-2.pdf)__  
         _Nathan Maurice, Florian Lemaitre, Julien Sopena and Lionel Lacassagne_ (LIP6/Sorbonne Université)
 
-### 16h00-16h15 Pause Café
+### 16h30-16h45 Pause Café
 
 ### 16h15-17h45
 - Système II : Elisabeth Brunet (Télécom Sud Paris)	(_Amphi Parmentier_)	
@@ -88,7 +88,7 @@ header:
 	- __[Evaluating Execution Times and Costs of a Federated Learning Application on different Cloud Providers](./papiers/ComPAS2022_paper_17-2.pdf)__  
         _Rafaela Brum, Lúcia Drummond, Luciana Arantes, Maria Clicia Castro and Pierre Sens_ (LIP6/Sorbonne Université)
 
-### 17h45
+### 18h15
 - [Départ soirée ComPAS](./soiree.pdf)
 
 ## Jeudi 7 juillet
@@ -121,15 +121,15 @@ header:
     - __[Transposition d'environnements distribués reproductibles avec NixOS Compose](./papiers/ComPAS2022_paper_9-2.pdf)__  
         _Jonathan Bleuzen, Quentin Guilloteau, Millian Poquet and Olivier Richard_ (LIG/Université Grenoble Alpes)
 
-### 12h15-13h45 Déjeuner
-### 13h45-15h : Keynote Architecture (_Amphi Parmentier_)
+### 12h15-14h00 Déjeuner
+### 14h00-15h15 : Keynote Architecture (_Amphi Parmentier_)
 - Lilian Bossuet, Lab. Hubert Curien, Université Jean Monnet
   - Titre : Sécurité des SoC complexes et hétérogènes – l’ennemi de l’intérieur 
   - Chair :  Kevin Martin (Lab-Sticc)
 
-### 15h-15h15 Pause Café
+### 15h15-15h30 Pause Café
 
-### 15h30-17h 
+### 15h30-17h10 
 - Présentation résumé-poster I : Stéphane Desvismes (_Amphi Parmentier_) 	
     - __Methodology for neural network adaptation for low-end hardware processors__  
         _Logan Saint-Germain, Christophe Jego, Bertrand Le Gal, Jeremie Crenne, Fabien Baldacci and Sébastien Loty_ (LaBRI/IMS/CATIE)
