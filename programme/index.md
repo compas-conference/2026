@@ -88,7 +88,7 @@ header:
 	- __[Evaluating Execution Times and Costs of a Federated Learning Application on different Cloud Providers](./papiers/ComPAS2022_paper_17-2.pdf)__  
         _Rafaela Brum, Lúcia Drummond, Luciana Arantes, Maria Clicia Castro and Pierre Sens_ (LIP6/Sorbonne Université)
 
-### 18h45
+### 18h15
 - [Départ soirée ComPAS](./soiree.pdf)
 
 ## Jeudi 7 juillet
