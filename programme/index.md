@@ -125,7 +125,7 @@ header:
 ### 13h45-15h : Keynote Architecture (_Amphi Parmentier_)
 - Lilian Bossuet, Lab. Hubert Curien, Université Jean Monnet
   - Titre : Sécurité des SoC complexes et hétérogènes – l’ennemi de l’intérieur 
-  - Chair : Daniel Chillet (IRISA/ENSSAT)
+  - Chair :  Kevin Martin (Lab-Sticc)
 
 ### 15h-15h15 Pause Café
 
