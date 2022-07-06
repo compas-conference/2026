@@ -81,7 +81,7 @@ header:
 
 ### 16h15-17h45
 - Système II : Elisabeth Brunet (Télécom Sud Paris)	(_Amphi Parmentier_)	
-    - __[PREaaS approach for secure file sharing in the cloud](./papiers/ComPAS2022_paper_6.pdf)__  
+    - __[PREaaS approach for secure file sharing in the cloud](./papiers/drocourt-compass2022.pdf)__  
         _Anass Sbai, Cyril Drocourt and Gilles Dequen_ (MIS/UPJV)
 	- __[A predictive model for Stream Processing System that dynamically calibrates the number of operator replicas](./papiers/ComPAS2022_paper_22-2.pdf)__  
         _Daniel Wladdimiro, Luciana Arantes, Pierre Sens and Nicolas Hidalgo_ (LIP6/Sorbonne Université)
@@ -89,7 +89,7 @@ header:
         _Rafaela Brum, Lúcia Drummond, Luciana Arantes, Maria Clicia Castro and Pierre Sens_ (LIP6/Sorbonne Université)
 
 ### 17h45
-- Départ soirée ComPAS
+- [Départ soirée ComPAS](./soiree.pdf)
 
 ## Jeudi 7 juillet
 ### 8h30-10h30
@@ -177,7 +177,7 @@ header:
 ## Vendredi 8 juillet
 ### 9h00-10h15 : Keynote Système (_Amphi Parmentier_)
 - Anne Cécile Orgérie, Irisa
-  - Titre à venir
+  - Quelques idées fausses sur la consommation énergétique des systèmes distribués
   - Chair : Sebastien Monnet
   
 ### 10h30-10h45 Pause café
