@@ -57,7 +57,7 @@ header:
 
 ### 12h30-14h00 Déjeuner
 
-### 14h03-16h30
+### 14h30-16h30
 - Système I (IO) : Djob Mvondo (IRISA) (_Amphi Parmentier_)
 	- __[sQemu: vers un stockage virtuel scalable](./papiers/ComPAS2022_paper_50-2.pdf)__  
         _Nguetchouang Ngongang Kevin, Tchana Alain and Olivier Pierre_ (LIP/ENS Lyon)
@@ -79,7 +79,7 @@ header:
 
 ### 16h30-16h45 Pause Café
 
-### 16h15-17h45
+### 16h45-17h45
 - Système II : Elisabeth Brunet (Télécom Sud Paris)	(_Amphi Parmentier_)	
     - __[PREaaS approach for secure file sharing in the cloud](./papiers/drocourt-compass2022.pdf)__  
         _Anass Sbai, Cyril Drocourt and Gilles Dequen_ (MIS/UPJV)
@@ -88,7 +88,7 @@ header:
 	- __[Evaluating Execution Times and Costs of a Federated Learning Application on different Cloud Providers](./papiers/ComPAS2022_paper_17-2.pdf)__  
         _Rafaela Brum, Lúcia Drummond, Luciana Arantes, Maria Clicia Castro and Pierre Sens_ (LIP6/Sorbonne Université)
 
-### 18h15
+### 17h45
 - [Départ soirée ComPAS](./soiree.pdf)
 
 ## Jeudi 7 juillet
