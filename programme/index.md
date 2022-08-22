@@ -116,8 +116,8 @@ header:
 - Système III : Jean-Marc Nicod (FEMTO-ST) (_Amphi Ehresmann_)
     - __[Adirbs : Approche de Dimensionnement des Infrastructures de Robotique en Brouillard basée sur la Simulation](./papiers/ComPAS2022_paper_40-2.pdf)__  
         _Lucien Arnaud Ndjie Ngale and Mélanie Fontaine_ (CRISPI/UPJV-ENS Lyon)
-	- __[A framework for on-demand inference of IoT dependencies toward collaborative IoT Device management](./papiers/ComPAS2022_paper_8-2.pdf)__  
-        _Amal Guittoum, François Aïssaoui, Sébastien Bolle, Fabienne Boyer and Noel De Palma_  (Orange Innovation/LIG Grenoble)
+<!--	- __[A framework for on-demand inference of IoT dependencies toward collaborative IoT Device management](./papiers/ComPAS2022_paper_8-2.pdf)__  
+        _Amal Guittoum, François Aïssaoui, Sébastien Bolle, Fabienne Boyer and Noel De Palma_  (Orange Innovation/LIG Grenoble) -->
     - __[Transposition d'environnements distribués reproductibles avec NixOS Compose](./papiers/ComPAS2022_paper_9-2.pdf)__  
         _Jonathan Bleuzen, Quentin Guilloteau, Millian Poquet and Olivier Richard_ (LIG/Université Grenoble Alpes)
 
