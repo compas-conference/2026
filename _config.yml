@@ -8,20 +8,20 @@
 #                                                 /____/
 #
 # Title of your website
-title: "Compas 2022"
+title: "Compas 2023"
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: "Conférence d'informatique en Parallélisme, Architecture et Système"
 
 # Main author of the website
 # See > authors.yml
-author: gutard
+author: smonnet
 #port: 3306
 #host: 0.0.0.0
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://2022.compas-conference.fr'
+url: 'https://2023.compas-conference.fr'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
