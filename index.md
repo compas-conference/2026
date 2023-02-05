@@ -5,7 +5,7 @@ layout: page
 #
 title: "Conférence francophone d'informatique en Parallélisme, Architecture et Système"
 header:
-   image_fullwidth: "saint-leu.jpg"
+   image_fullwidth: "annecy.jpg"
    permalink: "/"
 ---
 
@@ -19,5 +19,5 @@ recherche du monde francophone et favorise l’émergence de nouveaux sujets de 
 emphase sur l'intégration des jeunes chercheurs.
 {: style="text-align: justify;"}
 
-Elle est organisée par le MIS - Laboratoire Modélisation, Informatique et Système - de l'Université de Picardie Jules Verne.
+Elle est organisée par le LISTIC - Laboratoire d’Informatique, Systèmes, Traitement de l’Information et de la Connaissance - de l'Université Savoie Mont Blanc.
 {: style="text-align: justify;"}
