@@ -6,7 +6,7 @@ layout: page
 title: "Appel à Contributions"
 teaser: ""
 header:
-   image_fullwidth: "saint-leu.jpg"
+   image_fullwidth: "annecy.jpg"
    permalink: "/"
 ---
 
@@ -46,13 +46,13 @@ Compas n'a pas pour objectif de remplacer une publication dans une conférence i
 
 ### **Dates importantes**
 
-+ Échéance pour la soumission d'articles : 18 Avril 2022 
++ Échéance pour la soumission d'articles : vendredi 17 mars 2023 
 
-+ Échéance pour la soumission de résumés: 18 Avril 2022
++ Échéance pour la soumission de résumés: vendredi 31 mars 2023
 
-+ Notification aux auteurs: 16 Mai 2022
++ Notification aux auteurs: TBD
 
 ### **Procédure de soumission**
 {: style="text-align: center;"}
-Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/misc/compas-2022-style.zip)** (en remplissant uniquement la partie abstract pour les résumés). La soumission se fait via **[Easychair](https://easychair.org/conferences/?conf=compas2022)**
+Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/misc/compas-2023-style.zip)** (en remplissant uniquement la partie abstract pour les résumés). La soumission se fait via **[Easychair](https://easychair.org/conferences/?conf=compas2023)**
 {: style="text-align: justify;"}
