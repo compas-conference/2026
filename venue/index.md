@@ -12,7 +12,7 @@ header:
 
 ### **Lieu de la conférence**
 
-L'édition 2022 de Compas aura lieu dans les locaux de **Polytech Annecy-Chambéry à Annecy**, dont l'adresse est :
+L'édition 2023 de Compas aura lieu dans les locaux de **Polytech Annecy-Chambéry à Annecy**, dont l'adresse est :
 {: style="text-align: justify;"}
 
 **Polytech Annecy-Chambéry** <br>
