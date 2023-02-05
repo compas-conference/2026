@@ -6,7 +6,7 @@ layout: page
 title: ""
 teaser: ""
 header:
-    image_fullwidth: "Annecy.jpg"
+    image_fullwidth: "annecy.jpg"
     permalink: "/"
 ---
 
