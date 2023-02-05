@@ -1,5 +1,9 @@
 - menu_name: "Éditions précédentes"
 
+- name: "Compas 2022"
+  url: "http://2022.compas-conference.fr"
+  class: "network"
+  title: "Compas 2022"
 
 - name: "Compas 2021"
   url: "http://2021.compas-conference.fr"

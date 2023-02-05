@@ -7,9 +7,9 @@
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 
 leobago: # replace this with your info
-  name: "G Utard"
+  name: "Sébastien Monnet"
   siterole: "webmaster"
-  uri: http://home.mis.u-picardie.fr/~utard
-  email: gil.utard[at]u-picardie[dot]fr
-  twitter: "@gilous007"
+  uri: https://www.univ-smb.fr/listic/pages-en/sebastien-monnet-en/
+  email: sebastien.monnet[at]usmb[dot]fr
+  twitter: "@sebmonnet"
 # you can add more authors here
