@@ -16,23 +16,26 @@ header:
  + Flavien Vernier (LISTIC)
 
 #### Comité de pilotage
+ + Bertrand Le Gal (Représentant Architecture, Bordeaux)
+ + Gaël Thomas (Représentant Système, Paris, Président )
  + Emmanuel Agullo (Représentant Parallélisme, Bordeaux)
  + Sonia Ben Mokthar (Représentante GDR RSD, Lyon)
- + Caroline Collange (Représentante Architecture, Rennes)
- + Fabien Hermenier (Organisateur 2017, Nice)
  + Kevin Martin (Représentant GDR SOC², Lorient)
  + Gaël Thomas (Représentant Système, Paris, Président)
  + Étienne Rivière (Représentant ASF, Bruxelles)
- + Philippe Roose (Organisateur 2019, Anglet)
+ + Fabien Hermenier (Organisateur 2017, Nice)
  + Gil Utard (Organisateur 2022, Amiens)
+ + Frédéric Suter (Organisateur 2021, Lyon)
+ + Philippe Roose (Organisateur 2019, Anglet)
+  
 
 #### Comité de Lecture
  
 ##### Présidents : 
 
- + Christophe Jego (architecture)
- + Renaud Lachaize (système)
- + Veronika Sonigo (parallélisme)
+ + Christophe Jego (architecture, Bordeaux)
+ + Renaud Lachaize (système, Grenoble)
+ + Veronika Sonigo (parallélisme, Besançon)
 
 ##### Membres :
 
