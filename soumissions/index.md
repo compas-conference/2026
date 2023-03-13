@@ -27,8 +27,10 @@ Les articles classiques feront l’objet d’une évaluation poussée par le com
 
 Les présentations sur la base de résumé feront l’objet d’une évaluation plus simple fondée sur l’adéquation thématique. Un résumé comprend au maximum 350 mots. Un résumé peut par exemple présenter des travaux préliminaires, un plan de thèse pour un doctorant débutant, mais aussi des résultats significatifs publiés dans un forum international (conférence ou journal), susceptibles d’intéresser la communauté. Les présentations sur la base de résumé sont un moyen de présenter des travaux lors de la conférence, mais ne reçoivent pas de commentaires écrits du comité de lecture. 
 {: style="text-align: justify;"}
-### **Présentations__
+
+### **Présentations**
 {: style="text-align: center;"}
+
 Tant les articles que les résumés donnent accès à un slot de présentation durant la conférence.
 {: style="text-align: justify;"}
 ### **Posters**
