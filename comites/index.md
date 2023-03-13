@@ -14,6 +14,9 @@ header:
 #### Comité d'organisation 
  + Sébastien Monnet (LISTIC, USMB, Président)
  + Flavien Vernier (LISTIC)
+ + Hervé Verjus (LISTIC)
+ + Lynda Ferraguig (LISTIC)
+ 
 
 #### Comité de pilotage
  + Bertrand Le Gal (Représentant Architecture, Bordeaux)
