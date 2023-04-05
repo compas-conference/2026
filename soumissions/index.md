@@ -54,7 +54,7 @@ Compas n'a pas pour objectif de remplacer une publication dans une conférence i
 
 ### **Dates importantes**
 
-+ Échéance pour la soumission d'articles ou de résumés : vendredi 7 avril 2023 
++ Échéance pour la soumission d'articles ou de résumés : ~~vendredi 7 avril 2023~~ vendredi 21 avril 2023 (dernière extension) 
 
 + Notification aux auteurs: TBD
 
