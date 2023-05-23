@@ -31,6 +31,6 @@ conférence (mais un peu plus éloigné du centre ville) : le **[centre
 Jean XXIII](https://www.centrejean23.com/)** peu être une solution
 abordable (c'est ici que se feront les repas de midi).
 
-L'inscription s'effectue à travers le portail scienceconf.org : TBD
+L'inscription s'effectue à travers le portail **[compas2023.scienceconf.org](https://compas2023.sciencesconf.org/)** (à partir du 26 mai)
 
 
