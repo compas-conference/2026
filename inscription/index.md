@@ -22,9 +22,7 @@ L'inscription comprend :
   * les déjeuners, et différentes pauses
   * le gala, cocktails et autres évenements.
   
-Tarif : TBD € jusqu'au TBD, TBD € après.
-
-Réglement : Bon de Commande ou CB
+Tarif : 260 € jusqu'au 21 juin, 300 € après.
 
 ### **Logement étudiant**
 TBD
