@@ -25,7 +25,11 @@ L'inscription comprend :
 Tarif : 260 € jusqu'au 21 juin, 300 € après.
 
 ### **Logement étudiant**
-TBD
+
+Les logements sur Annecy sont chers. Une solution proche du lieu de la
+conférence (mais un peu plus éloigné du centre ville) : le **[centre
+Jean XXIII](https://www.centrejean23.com/)** peu être une solution
+abordable (c'est ici que se feront les repas de midi).
 
 L'inscription s'effectue à travers le portail scienceconf.org : TBD
 
