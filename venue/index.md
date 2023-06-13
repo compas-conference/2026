@@ -38,13 +38,13 @@ campus). Arrêt "Polytech Annecy-Chambéry site d'Annecy".
 
 ### Logement
 
-Une solution proche du lieu de la conférence (mais un peu plus éloigné
+Une solution proche du lieu de la conférence (mais un peu plus éloignée
 du centre ville) : le **[centre Jean
-XXIII](https://www.centrejean23.com/)** peu être une solution
+XXIII](https://www.centrejean23.com/)** peut être une solution
 abordable (c'est ici que se feront les repas de midi).
 
-Il y a également de nombreux hotels en centre ville.
-Une liste de ceux que l'ion utilise régulièrement :
+Il y a également de nombreux hôtels en centre ville.
+Une liste de ceux que l'on utilise régulièrement :
 - **[Novotel](https://all.accor.com/hotel/1357/index.en.shtml?dateIn=&nights=&compositions=1&stayplus=false&snu=false#origin=novotel)**
 - **[Hotel des alpes](https://www.hotelannecy.com/)**
 - **[La mama](https://www.hotelannecy.fr/)**

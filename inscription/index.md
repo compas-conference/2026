@@ -27,8 +27,8 @@ Tarif : 260 € jusqu'au 21 juin, 300 € après.
 ### **Logement étudiant**
 
 Les logements sur Annecy sont chers. Une solution proche du lieu de la
-conférence (mais un peu plus éloigné du centre ville) : le **[centre
-Jean XXIII](https://www.centrejean23.com/)** peu être une solution
+conférence (mais un peu plus éloignée du centre ville) : le **[centre
+Jean XXIII](https://www.centrejean23.com/)** peut être une solution
 abordable (c'est ici que se feront les repas de midi).
 
 L'inscription s'effectue à travers le portail **[compas2023.scienceconf.org](https://compas2023.sciencesconf.org/)** (à partir du 26 mai)
