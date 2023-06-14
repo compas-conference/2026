@@ -86,9 +86,8 @@ header:
 ### 16h15-17h55
 - Parallélisme II (_Amphi B014_)
   - __Towards an Energy-Aware Multi-objective Scheduling Policy for Server-based Edge-Cloud Continuum (16)__
-  - __Evaluation de la consommation d'énergie nécessaire à l'éxécution d'un workload dans un datacenter vert (31)
-  - __Towards Sustainable Low Carbon Emission Mini Data Centres (25)
-  - __Evaluation de la consommation d'énergie nécessaire à l'éxécution d'un workload dans un datacenter vert (31__
+  - __Evaluation de la consommation d'énergie nécessaire à l'éxécution d'un workload dans un datacenter vert (31)__
+  - __Towards Sustainable Low Carbon Emission Mini Data Centres (25)__
   - __Long-term evaluation for sizing low-carbon cloud data centers (50)__
   
 - Système III (_Amphi B120_)
