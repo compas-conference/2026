@@ -52,27 +52,27 @@ header:
   
 - Système I : chairmanB (_Amphi B120_)
   - __Towards Robust and Bias-free Federated Learning__
-	_Ousmane Touat (LIRIS - INSA Lyon), Sara Bouchenak (LIRIS - INSA Lyon)
-	- __Empirical Analysis of Bias in Federated Learning__
-	_Nawel Benarba (INSA Lyon – LIRIS), Sara Bouchenak (INSA Lyon – LIRIS)
-	- __Mitigating Membership Inference Attacks in Federated Learning__
-	_FATIMA EL HATTAB (INSA LYON), Sara Bouchenak (INSA Lyon – LIRIS)
-	- __Apprentissage fédéré pour l’intelligence ambiante : une approche système embarqué, distribuée et intermittente__
-	_Antoine Bonneau (Univ Lyon, INSA Lyon, Inria, CITI, EA3720, 69621 Villeurbanne, France ; Univ Lyon, Université Claude Bernard Lyon 1, INSA Lyon, Ecole Centrale de Lyon, CNRS, Ampère), Frédéric Le Mouël (Univ Lyon, INSA Lyon, Inria, CITI), Fabien Mieyeville (Univ Lyon, Université Claude Bernard Lyon 1, INSA Lyon, Ecole Centrale de Lyon, CNRS, Ampère)
+    _Ousmane Touat, Sara Bouchenak_ (LIRIS - INSA Lyon)
+  - __Empirical Analysis of Bias in Federated Learning__
+    _Nawel Benarban, Sara Bouchenak_ (INSA Lyon – LIRIS)
+  - __Mitigating Membership Inference Attacks in Federated Learning__
+    _FATIMA EL HATTAB, Sara Bouchenak_ (LIRIS, INSA LYON)
+  - __Apprentissage fédéré pour l’intelligence ambiante : une approche système embarqué, distribuée et intermittente__
+    _Antoine Bonneau, Frédéric Le Mouël, Fabien Mieyeville_ (Univ Lyon, INSA Lyon, Inria, CITI, Ecole Centrale de Lyon, CNRS) 
 
 
 
 ### 12h30-14h00 Déjeuner (_Jean XXIII_)
 
 ### 14h00-16h00
-- (_Amphi B014_)
+- Parallélisme II (_Amphi B014_)
   -
   -
   -
   -
   -
   -
-- (_Amphi B120_)
+- Système II (_Amphi B120_)
   -
   -
   -
