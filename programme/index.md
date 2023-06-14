@@ -43,8 +43,7 @@ header:
 - Parallélisme I : chairmanA (_Amphi B014_)
   - __Interruptions en espace utilisateur pour améliorer la réactivité des communications en calcul haute-performance__
     _Charles Goedefroit_ (Centre Inria de l'Université de Bordeaux)
-  - __Towards Sustainable Low Carbon Emission Mini Data Centres__
-    _Ismael Samaye, Paul Leloup, Gilles Sassatelli, Abdoulaye Gamatié_ (LIRMM)
+  - __I/O performance of multiscale finite element simulations on HPC platforms (47)__
   - __Exploiting data locality to maximize the performance of data-sharing tasksets__
     _Maxime Gonthier_ (INRIA Bordeaux)
   - __Portable vectorization and precision tuning through a search space exploration and machine learning__
@@ -65,42 +64,74 @@ header:
 ### 12h30-14h00 Déjeuner (_Jean XXIII_)
 
 ### 14h00-16h00
-- Parallélisme II (_Amphi B014_)
-  - __I/O performance of multiscale finite element simulations on HPC platforms (47)__
-  - 
-  -
-  -
-  -
-  -
+- Archi I (_Amphi B014_)
+  - __Un modèle de projection de performance monocœur pour l’exploration de paramètres de conception sur environnement Arm (22)__
+  _ __Processeur RISC-V enrichi avec une unité de microdécodage dynamique (27)__
+  - __TrustSoC : Architecture SoC hétérogène légère et efficace sécurisée par conception (30)__
+  - __Definition and evaluation of anisotropic SoC architectures for the throughput optimisation of streaming applications (32)__
+  - __On the historical evolution of the performance versus cost ratio of Raspberry Pi computers (37)__
+  - __Conception d'architectures de traitement radar FMCW sur FPGA à base de modèles comportementaux (59)__
+
 - Système II (_Amphi B120_)
-  -
-  -
-  -
-  -
-  -
-  -
+  - __Elasticité à approche combinée pour le traitement des flux dans les environnements de brouillard (10)__
+  - __Applying High Computed Knowledge Distillation on Pre-trained Model for Edge Computed Grapevine Detection (54)__
+  - __Étude et modélisation des mécanismes de surallocation de mémoire pour la consolidation de machines virtuelles (55)__
+  - __Hector: A Framework to Design Scheduling Strategies in Persistent Key-Value Stores (6)__
+  - __Comment rater la reproductibilité de ses expériences ? (42)__
+  - __Agrégation opportuniste de messages pour les algorithmes à phases (43)__
   
 
-### 16h15-16h30 Pause Café
+### 16h00-16h15 Pause Café
 
-### 16h30-18h00
-- (_Amphi B014_)
-- (_Amphi B120_)
-
+### 16h15-17h55
+- Parallélisme II (_Amphi B014_)
+  - __Towards an Energy-Aware Multi-objective Scheduling Policy for Server-based Edge-Cloud Continuum (16)__
+  - __Evaluation de la consommation d'énergie nécessaire à l'éxécution d'un workload dans un datacenter vert (31)
+  - __Towards Sustainable Low Carbon Emission Mini Data Centres (25)
+  - __Evaluation de la consommation d'énergie nécessaire à l'éxécution d'un workload dans un datacenter vert (31__
+  - __Long-term evaluation for sizing low-carbon cloud data centers (50)__
+  
+- Système III (_Amphi B120_)
+  - __PRESPS : a PREdictive model to determine the number of replicas of the operators in Stream Processing Systems (26)__
+  - __Privacy leakages on NLP models and mitigations through a use case on medical data (65)__ 
+  - __FLAIR : stocker des flux de données illimités sur des smartphones pour mieux protéger la vie privée des utilisateurs (49)__
+  - __Resurrect: A New Runtime for Intermittent Computing (36)__
+  - __KrakOS: La fin du règne des processus (58)__
 
 
 ## Jeudi 6 juillet
 ### 8h30-9h30 : Keynote architecture (_Amphi B014_)
+- Bernard Goossens, université de Perpignan
 
 ### 09h30-9h45 Pause Café
 ### 9h45-11h45
-- (_Amphi B014_)
-- (_Amphi B120_)
-
+- Parallélisme III (_Amphi B014_)
+  - __SCROOGEVM : Accroître l’utilisation des ressources du cloud en ajustant dynamiquement la surallocation (18)__
+  - __Parallélisation d’une nouvelle application embarquée pour la détection automatique de météores (20)__
+  - __Partitionnement de maillage pour solveurs numériques parallélisés et distribués en tâches (23)__
+  - __Rethinking Data Race Detection in RMA-Analyzer (28)__
+  - __CALock : Multi-Granularity Locking in Directed Graphs (33)__
+  - __Extending the COMET component model to support hierarchical composite data: Aevol case study (35)__
+  
+- Système IV (_Amphi B120_)
+  - __Effets de l'utilisation de transports sécurisés sur les performances d'un resolveur DNS (40)__
+  - __Taenite: Gestion transparente de la mémoire persistante en Rust (57)__
+  - __FairFetched: Fair Quality-of-Service for Decentralized Marketplace Search (60)__
+  - __A robust smartphone-based architecture for prolonged monitoring of gait (61)__
+  - __
+  - __
+  
 ### 12h15-14h00 Déjeuner (_Jean XXIII_)
 
 ### 14h00-16h00
-- (_Amphi B014_)
+- Parallélisme IV (_Amphi B014_)
+  - __Passage vers le modèle de programmation par tâches hétérogènes pour l'exploitation optimale des supercalculateurs actuels et futurs (41)__
+  - __Extending the Task Dataflow Model with Speculative Data Accesses (44)__
+  - __Parallélisation automatique de chaînes de tâches pour la Radio Logicielle (45)__
+  - __Vers un solveur direct à base de tâches pour des systèmes linéaires FEM/BEM creux/denses (52)__
+  - __Analyse de performance d'un solveur direct hiérarchique (53)__
+  - __Développement d’un Système Embarqué pour la Détection et l’Identification de Drones sur la Base de Signature RF (56)__
+  
 - (_Amphi B120_)
 
 ### 16h00-16h15 Pause Café
@@ -127,6 +158,7 @@ header:
 
 ## Vendredi 7 juillet
 ### 8h30-9h30 : Keynote Parallélisme (_Amphi B014_)
+- Christian Perez, Inria
 
 ### 09h30-10h00 Pause Café
 ### 10h00-12h30
