@@ -41,24 +41,24 @@ header:
 
 ### 10h45-12h05
 - Parallélisme I : chairmanA (_Amphi B014_)
-  	- __Interruptions en espace utilisateur pour améliorer la réactivité des communications en calcul haute-performance__
-        _Charles Goedefroit (Centre Inria de l'Université de Bordeaux)
-        - __Towards Sustainable Low Carbon Emission Mini Data Centres__
+  - __Interruptions en espace utilisateur pour améliorer la réactivité des communications en calcul haute-performance__
+  _Charles Goedefroit (Centre Inria de l'Université de Bordeaux)
+  - __Towards Sustainable Low Carbon Emission Mini Data Centres__
         _Ismael Samaye (LIRMM, Université de Montpellier), Paul Leloup (LIRMM, Université de Montpellier - CNRS), Gilles Sassatelli (LIRMM, Université de Montpellier - CNRS), Abdoulaye Gamatié (LIRMM, Université de Montpellier - CNRS)
-  	- __Exploiting data locality to maximize the performance of data-sharing tasksets__
-	_Maxime Gonthier (INRIA Bordeaux)
-	- __Portable vectorization and precision tuning through a search space exploration and machine learning__
+ 	- __Exploiting data locality to maximize the performance of data-sharing tasksets__
+    _Maxime Gonthier (INRIA Bordeaux)
+    - __Portable vectorization and precision tuning through a search space exploration and machine learning__
 	_Lana Scravaglieri (Inria, IFPEN)
   
 - Système I : chairmanB (_Amphi B120_)
-        - ____
-	_
-	- ____
-	_
-	- ____
-	_
-	- ____
-	_
+  - __Towards Robust and Bias-free Federated Learning__
+	_Ousmane Touat (LIRIS - INSA Lyon), Sara Bouchenak (LIRIS - INSA Lyon)
+	- __Empirical Analysis of Bias in Federated Learning__
+	_Nawel Benarba (INSA Lyon – LIRIS), Sara Bouchenak (INSA Lyon – LIRIS)
+	- __Mitigating Membership Inference Attacks in Federated Learning__
+	_FATIMA EL HATTAB (INSA LYON), Sara Bouchenak (INSA Lyon – LIRIS)
+	- __Apprentissage fédéré pour l’intelligence ambiante : une approche système embarqué, distribuée et intermittente__
+	_Antoine Bonneau (Univ Lyon, INSA Lyon, Inria, CITI, EA3720, 69621 Villeurbanne, France ; Univ Lyon, Université Claude Bernard Lyon 1, INSA Lyon, Ecole Centrale de Lyon, CNRS, Ampère), Frédéric Le Mouël (Univ Lyon, INSA Lyon, Inria, CITI), Fabien Mieyeville (Univ Lyon, Université Claude Bernard Lyon 1, INSA Lyon, Ecole Centrale de Lyon, CNRS, Ampère)
 
 
 
