@@ -28,12 +28,17 @@ header:
 - Tutoriel **Guix**
 
 ## Mercredi 5 juillet
+
 ### Accueil continu à partir de 8h
+
 ### 8h45-9h00
 - Ouverture de la conférence
+
 ### 9h-9h30 (_Amphi B014_)
 - Armand Nachef
   - PCN horizon heurope
+
+
 ### 9h30-10h30: Keynote Système (_Amphi B014_)
 - Baptiste Lepers, Université de Neuchâtel
   
