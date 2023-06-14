@@ -164,7 +164,7 @@ header:
   - __Développement d’un Système Embarqué pour la Détection et l’Identification de Drones sur la Base de Signature RF (56)__
   
 - Archi (_Amphi B120_)
-  - __On the historical evolution of the performance versus cost ratio of Raspberry Pi computers (37) **6 ou 7**__
+  - __On the historical evolution of the performance versus cost ratio of Raspberry Pi computers (37)__
   - __Conception d'architectures de traitement radar FMCW sur FPGA à base de modèles comportementaux (59)__
 
 ### 12h Aurevoir (panier repas)
