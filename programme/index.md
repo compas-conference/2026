@@ -42,13 +42,13 @@ header:
 ### 10h45-12h05
 - Parallélisme I : chairmanA (_Amphi B014_)
   - __Interruptions en espace utilisateur pour améliorer la réactivité des communications en calcul haute-performance__
-  _Charles Goedefroit (Centre Inria de l'Université de Bordeaux)
+    _Charles Goedefroit_ (Centre Inria de l'Université de Bordeaux)
   - __Towards Sustainable Low Carbon Emission Mini Data Centres__
-        _Ismael Samaye (LIRMM, Université de Montpellier), Paul Leloup (LIRMM, Université de Montpellier - CNRS), Gilles Sassatelli (LIRMM, Université de Montpellier - CNRS), Abdoulaye Gamatié (LIRMM, Université de Montpellier - CNRS)
- 	- __Exploiting data locality to maximize the performance of data-sharing tasksets__
-    _Maxime Gonthier (INRIA Bordeaux)
-    - __Portable vectorization and precision tuning through a search space exploration and machine learning__
-	_Lana Scravaglieri (Inria, IFPEN)
+    _Ismael Samaye, Paul Leloup, Gilles Sassatelli, Abdoulaye Gamatié_ (LIRMM)
+  - __Exploiting data locality to maximize the performance of data-sharing tasksets__
+    _Maxime Gonthier_ (INRIA Bordeaux)
+  - __Portable vectorization and precision tuning through a search space exploration and machine learning__
+    _Lana Scravaglieri_ (Inria, IFPEN)
   
 - Système I : chairmanB (_Amphi B120_)
   - __Towards Robust and Bias-free Federated Learning__
@@ -64,9 +64,22 @@ header:
 
 ### 12h30-14h00 Déjeuner (_Jean XXIII_)
 
-### 14h15-16h15
+### 14h00-16h00
 - (_Amphi B014_)
+  -
+  -
+  -
+  -
+  -
+  -
 - (_Amphi B120_)
+  -
+  -
+  -
+  -
+  -
+  -
+  
 
 ### 16h15-16h30 Pause Café
 
