@@ -66,8 +66,8 @@ header:
 
 ### 14h00-16h00
 - Parallélisme II (_Amphi B014_)
-  -
-  -
+  - __I/O performance of multiscale finite element simulations on HPC platforms (47)__
+  - 
   -
   -
   -
@@ -105,11 +105,24 @@ header:
 
 ### 16h00-16h15 Pause Café
 
-### 16h15-17h15 Présentations des résumés
+### 16h15-17h25 Présentations des résumés
 - (_Amphi B014_)
+  - __Towards Multimodal Federated Learning (7)__
+  - __Système d’assistance à la mobilité en milieu urbain des personnes malvoyantes via une substitution de l’information visuelle par (9)__
+  - __Prototypage rapide pour l’inférence par réseaux de neurones convolutifs sur cibles matérielles hétérogènes (21)__
+  - __téléGC : Un garbage collector (GC) délocalisé grâce à lamémoire désagrégée (38)__
+  - __CADiA: A CPU Cache Allocation System for Distributed Applications (46)__
+  - __Utilisation de noeuds de confiance pour les protocoles d’échantillonage de pairs tolérants aux attaques byzantines (48)__
 - (_Amphi B120_)
+  - __Frugal Deep Learning for Multi-Resolution Image Analysis (8)__
+  - __Optimisation multi-objectif pour une replanification en ligne des trajectoires de véhicules autonomes (34)__
+  - __Prise de décision distribuée et embarquée dans les systèmes autonomes multi-UAV pour une sécurité des services (39)__
+  - __New Parallelization Approach in Deep Learning Using CPU/GPU Architectures for Memory Optimization (51)__
+  - __Scratchy - An open-sourcee generator of lightweight scratchpad-based multi-RISCV architecture (12)__
+  - __Architecture d’accélérateur matériel de calcul pour le décodage de signaux neuronaux dans une interface cerveau-machine (14)__
+  - __Conception d’un sous-système mémoire pour traitement de données creuses (29)__
 
-### 17h15-18h AG ComPAS
+### 17h25-18h AG ComPAS
 ### 18h-20 Cocktail Poster
 
 ## Vendredi 7 juillet
