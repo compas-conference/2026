@@ -66,7 +66,7 @@ header:
 ### 14h00-16h00
 - Archi I (_Amphi B014_)
   - __Un modèle de projection de performance monocœur pour l’exploration de paramètres de conception sur environnement Arm (22)__
-  _ __Processeur RISC-V enrichi avec une unité de microdécodage dynamique (27)__
+  - __Processeur RISC-V enrichi avec une unité de microdécodage dynamique (27)__
   - __TrustSoC : Architecture SoC hétérogène légère et efficace sécurisée par conception (30)__
   - __Definition and evaluation of anisotropic SoC architectures for the throughput optimisation of streaming applications (32)__
   - __On the historical evolution of the performance versus cost ratio of Raspberry Pi computers (37)__
