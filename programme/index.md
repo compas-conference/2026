@@ -40,18 +40,25 @@ header:
 ### 10h30-10h45 Pause café
 
 ### 10h45-12h05
-- Parallélisme I : chairman (_Amphi B014_)
-  - __Interruptions en espace utilisateur pour améliorer la réactivité des communications en calcul haute-performance__
-    _Charles Goedefroit (Centre Inria de l'Université de Bordeaux)_
-  - __Towards Sustainable Low Carbon Emission Mini Data Centres__
-    _Ismael Samaye (LIRMM, Université de Montpellier)
-Paul Leloup (LIRMM, Université de Montpellier - CNRS)
-Gilles Sassatelli (LIRMM, Université de Montpellier - CNRS)
-Abdoulaye Gamatié (LIRMM, Université de Montpellier - CNRS)_
-  - 
-  -
+- Parallélisme I : chairmanA (_Amphi B014_)
+  	- __Interruptions en espace utilisateur pour améliorer la réactivité des communications en calcul haute-performance__
+        _Charles Goedefroit (Centre Inria de l'Université de Bordeaux)
+        - __Towards Sustainable Low Carbon Emission Mini Data Centres__
+        _Ismael Samaye (LIRMM, Université de Montpellier), Paul Leloup (LIRMM, Université de Montpellier - CNRS), Gilles Sassatelli (LIRMM, Université de Montpellier - CNRS), Abdoulaye Gamatié (LIRMM, Université de Montpellier - CNRS)
+  	- __Exploiting data locality to maximize the performance of data-sharing tasksets__
+	_Maxime Gonthier (INRIA Bordeaux)
+	- __Portable vectorization and precision tuning through a search space exploration and machine learning__
+	_Lana Scravaglieri (Inria, IFPEN)
   
-- (_Amphi B120_)
+- Système I : chairmanB (_Amphi B120_)
+        - ____
+	_
+	- ____
+	_
+	- ____
+	_
+	- ____
+	_
 
 
 
