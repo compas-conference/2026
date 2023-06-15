@@ -111,8 +111,7 @@ header:
   - __Taenite: Gestion transparente de la mémoire persistante en Rust (57)__
   - __FairFetched: Fair Quality-of-Service for Decentralized Marketplace Search (60)__
   - __A robust smartphone-based architecture for prolonged monitoring of gait (61)__
-  - __Apprentissage fédéré pour l’intelligence ambiante : une approche système embarqué, distribuée et intermittente (24)__
-    _Antoine Bonneau, Frédéric Le Mouël, Fabien Mieyeville_ (Univ Lyon, INSA Lyon, Inria, CITI, Ecole Centrale de Lyon, CNRS) 
+  - __xOS: La fin du règne des processus (58)__
   
 ### 12h15-14h00 Déjeuner (_Jean XXIII_)
 
@@ -126,7 +125,8 @@ header:
 - Système V (_Amphi B120_)
   - __Comment rater la reproductibilité de ses expériences ? (42)__
   - __Agrégation opportuniste de messages pour les algorithmes à phases (43)__
-  - __KrakOS: La fin du règne des processus (58)__
+  - __Apprentissage fédéré pour l’intelligence ambiante : une approche système embarqué, distribuée et intermittente (24)__ Antoine Bonneau, Frédéric Le Mouël, Fabien Mieyeville_ (Univ Lyon, INSA Lyon, Inria, CITI, Ecole Centrale de Lyon, CNRS) 
+
 
 ### 15h40-16h05 Pause Café
 
