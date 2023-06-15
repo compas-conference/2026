@@ -84,7 +84,7 @@ header:
   - __Un modèle de projection de performance monocœur pour l’exploration de paramètres de conception sur environnement Arm (22)__
   - __Processeur RISC-V enrichi avec une unité de microdécodage dynamique (27)__
   - __TrustSoC : Architecture SoC hétérogène légère et efficace sécurisée par conception (30)__
-  - __Definition and evaluation of anisotropic SoC architectures for the throughput optimisation of streaming applications (32)__
+  - __Conception d'architectures de traitement radar FMCW sur FPGA à base de modèles comportementaux (59)__
   
 - Système III (_Amphi B120_)
   - __PRESPS : a PREdictive model to determine the number of replicas of the operators in Stream Processing Systems (26)__
@@ -119,7 +119,7 @@ header:
 ### 14h00-15h40
 - Parallélisme IV (_Amphi B014_)
   - __Passage vers le modèle de programmation par tâches hétérogènes pour l'exploitation optimale des supercalculateurs actuels et futurs (41)__
-  - __Extending the Task Dataflow Model with Speculative Data Accesses (44)__
+  - __Analyse de performance d'un solveur direct hiérarchique (53)__
   - __Parallélisation automatique de chaînes de tâches pour la Radio Logicielle (45)__
   - __Vers un solveur direct à base de tâches pour des systèmes linéaires FEM/BEM creux/denses (52)__
 
@@ -160,12 +160,12 @@ header:
   - __Portable vectorization and precision tuning through a search space exploration and machine learning (11)__
     _Lana Scravaglieri_ (Inria, IFPEN)
   - __Extending the COMET component model to support hierarchical composite data: Aevol case study (35)__
-  - __Analyse de performance d'un solveur direct hiérarchique (53)__
+  - __Extending the Task Dataflow Model with Speculative Data Accesses (44)__
   - __Développement d’un Système Embarqué pour la Détection et l’Identification de Drones sur la Base de Signature RF (56)__
   
 - Archi (_Amphi B120_)
   - __On the historical evolution of the performance versus cost ratio of Raspberry Pi computers (37)__
-  - __Conception d'architectures de traitement radar FMCW sur FPGA à base de modèles comportementaux (59)__
+  - __Definition and evaluation of anisotropic SoC architectures for the throughput optimisation of streaming applications (32)__
 
 ### 12h Aurevoir (panier repas)
 
