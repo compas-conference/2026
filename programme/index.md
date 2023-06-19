@@ -17,7 +17,7 @@ header:
 
 ### Accueil continu à partir de 9h
 
-### 10h-12h
+### 10h-12h (les salles seront communiquées ici en fonction des effectifs)
 - Tutoriel **Upmem**
 - Tutoriel **Tout est sous contrôle**
 
@@ -28,19 +28,17 @@ header:
 - Tutoriel **Guix**
 
 ## Mercredi 5 juillet
-
 ### Accueil continu à partir de 8h
-
 ### 8h45-9h00
 - Ouverture de la conférence
 
-### 9h-9h30 (_Amphi B014_)
-- Armand Nachef
-  - PCN horizon heurope
+### 9h-9h30 Présentation des calls Horizon Europe (_Amphi B014_)
+- Armand Nachef, PCN horizon heurope
 
 
 ### 9h30-10h30: Keynote Système (_Amphi B014_)
 - Baptiste Lepers, Université de Neuchâtel
+  - 
   
 ### 10h30-10h45 Pause café
 
@@ -90,7 +88,7 @@ header:
   - __PRESPS : a PREdictive model to determine the number of replicas of the operators in Stream Processing Systems (26)__
   - __Privacy leakages on NLP models and mitigations through a use case on medical data (65)__ 
   - __FLAIR : stocker des flux de données illimités sur des smartphones pour mieux protéger la vie privée des utilisateurs (49)__
-  - __Resurrect: A New Runtime for Intermittent Computing (36)__
+  - __Mortem: A New Runtime for Intermittent Computing (36)__
 
 
 ## Jeudi 6 juillet
