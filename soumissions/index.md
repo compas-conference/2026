@@ -60,6 +60,9 @@ Compas n'a pas pour objectif de remplacer une publication dans une conférence i
 
 + Échéance pour la soumission de la version "camera ready": mercredi 21 juin 2023
 
++ Early bird registration : mercredi 21 juin 2023 (ensuite l'inscription passe de 260 à 300€)
+
+
 ### **Procédure de soumission**
 {: style="text-align: center;"}
 Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/misc/compas-2023-style.zip)** (en utilisant uniquement la partie abstract pour les résumés). La soumission se fait sur le site HotCRP  dont le lien est le suivant : **[https://crp.info.ucl.ac.be/compas2023/](https://crp.info.ucl.ac.be/compas2023/)**
