@@ -58,9 +58,24 @@ Compas n'a pas pour objectif de remplacer une publication dans une conférence i
 
 + Notification aux auteurs: vendredi 26 mai 2023
 
++ Échéance pour la soumission de la version "camera ready": mercredi 21 juin 2023
+
 ### **Procédure de soumission**
 {: style="text-align: center;"}
 Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/misc/compas-2023-style.zip)** (en utilisant uniquement la partie abstract pour les résumés). La soumission se fait sur le site HotCRP  dont le lien est le suivant : **[https://crp.info.ucl.ac.be/compas2023/](https://crp.info.ucl.ac.be/compas2023/)**
+
+La soumisison de la version camera ready se fait au même endroit (**[https://crp.info.ucl.ac.be/compas2023/](https://crp.info.ucl.ac.be/compas2023/)**)
+
+Veuillez tenir compte des commentaires des évaluateurs autant que
+possible lors de la préparation de la version camera ready.  Pour
+ce faire, nous augmentons la limite de 6 à 7 pages (avec
+éventuellement jusqu'à 5 pages de références et d'annexes).
+Veuillez noter que l'article de 7 pages doit être
+self-contained (il n'est pas possible de mettre toutes les
+figures et tous les tableaux en annexe par exemple).  Veuillez
+soumettre votre version camera ready *avant le 21 juin*.
+
+
 {: style="text-align: justify;"}
 
 
