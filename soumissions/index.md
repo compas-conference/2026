@@ -64,6 +64,8 @@ Compas n'a pas pour objectif de remplacer une publication dans une conférence i
 {: style="text-align: center;"}
 Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/misc/compas-2023-style.zip)** (en utilisant uniquement la partie abstract pour les résumés). La soumission se fait sur le site HotCRP  dont le lien est le suivant : **[https://crp.info.ucl.ac.be/compas2023/](https://crp.info.ucl.ac.be/compas2023/)**
 
+### **Camera ready**
+
 La soumisison de la version camera ready se fait au même endroit (**[https://crp.info.ucl.ac.be/compas2023/](https://crp.info.ucl.ac.be/compas2023/)**)
 
 Veuillez tenir compte des commentaires des évaluateurs autant que
