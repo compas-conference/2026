@@ -116,9 +116,9 @@ header:
 ### 14h00-15h40
 - Parallélisme IV (_Amphi B014_)
   - __Passage vers le modèle de programmation par tâches hétérogènes pour l'exploitation optimale des supercalculateurs actuels et futurs (41)__
-  - __Analyse de performance d'un solveur direct hiérarchique (53)__
   - __Parallélisation automatique de chaînes de tâches pour la Radio Logicielle (45)__
   - __Vers un solveur direct à base de tâches pour des systèmes linéaires FEM/BEM creux/denses (52)__
+  - __Analyse de performance d'un solveur direct hiérarchique (53)__
 
 - Système V (_Amphi B120_)
   - __Comment rater la reproductibilité de ses expériences ? (42)__
