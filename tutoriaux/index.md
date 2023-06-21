@@ -25,7 +25,8 @@ Matin
 Après-midi
 
 - "***Federated learning***", introduction to Federated learning with Flower and advanced frameworks quelques ressources [ici](https://github.com/albenoit/DeepLearningTools).
-   - "***Guix***", vers une étude scientifique expérimentale reproductible avec Guix, plis de détails [ici](https://tutoriel-guix-compas-2023.gitlabpages.inria.fr/resume/).
+
+- "***Guix***", vers une étude scientifique expérimentale reproductible avec Guix, plis de détails [ici](https://tutoriel-guix-compas-2023.gitlabpages.inria.fr/resume/).
    
    
 ### **Inscription**
