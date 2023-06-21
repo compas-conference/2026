@@ -16,9 +16,15 @@ header:
 La première journée est dédiée aux tutoriels et autres groupes de travail. 
 
 Il y a 4 tutoriels :
+
+Matin
+
    - "***Upmem***", vue d'ensemble de la solution d'Upmem suivie de d'explications détaillées sur la programmation d'une application sur ces systèmes, et les différentes implications. Plus de détails [ici](https://www.upmem.com/technology/).
    - "***Tout est sous contrôle***", Ce tutoriel vise à initier les participants à la théorie du contrôle pour la gestion en ligne de systèmes informatique et à présenter la méthodologie à travers un exemple pratique, plus de détails [ici](https://notes.inria.fr/s/5JJiBHhnz#).
-   - "***Federated learning***", introduction to Federated learning with Flower and advanced frameworks quelques ressources [ici](https://github.com/albenoit/DeepLearningTools).
+
+Après-midi
+
+- "***Federated learning***", introduction to Federated learning with Flower and advanced frameworks quelques ressources [ici](https://github.com/albenoit/DeepLearningTools).
    - "***Guix***", vers une étude scientifique expérimentale reproductible avec Guix, plis de détails [ici](https://tutoriel-guix-compas-2023.gitlabpages.inria.fr/resume/).
    
    
