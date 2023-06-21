@@ -19,7 +19,7 @@ Il y a 4 tutoriels :
 
 Matin
 
-   - "***Upmem***", comment faire face au memory wall ? Vue d'ensemble de la solution d'Upmem suivie de d'explications détaillées sur la programmation d'une application sur ces systèmes, et les différentes implications. Plus de détails [ici](https://www.upmem.com/technology/).
+   - "***Upmem***", comment faire face au memory wall ? Vue d'ensemble de la solution d'Upmem suivie d'explications détaillées sur la programmation d'une application sur ces systèmes, et les différentes implications. Plus de détails [ici](https://www.upmem.com/technology/).
    - "***Tout est sous contrôle***", Ce tutoriel vise à initier les participants à la théorie du contrôle pour la gestion en ligne de systèmes informatique et à présenter la méthodologie à travers un exemple pratique, plus de détails [ici](https://notes.inria.fr/s/5JJiBHhnz#).
 
 Après-midi
