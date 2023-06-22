@@ -45,19 +45,20 @@ header:
 
 ### 10h45-12h00
 - Parallélisme I : (_Amphi B014_)
-  - __Interruptions en espace utilisateur pour améliorer la réactivité des communications en calcul haute-performance (19)__
+  - __Interruptions en espace utilisateur pour améliorer la réactivité des communications en calcul haute-performance__
   _Charles Goedefroit_ (Centre Inria de l'Université de Bordeaux)
-  - __I/O performance of multiscale finite element simulations on HPC platforms (47)__
+  - __I/O performance of multiscale finite element simulations on HPC platforms__
+  _Armel JEATSA, Boris TEABE, Daniel HAGIMONT_ (University of Toulouse)
   - __Exploiting data locality to maximize the performance of data-sharing tasksets__
-    _Maxime Gonthier_ (INRIA Bordeaux)
+  _Maxime Gonthier_ (INRIA Bordeaux)
   
-- Système I : chairmanB (_Amphi B120_)
+- Système I : (_Amphi B120_)
   - __Towards Robust and Bias-free Federated Learning__
-    _Ousmane Touat, Sara Bouchenak_ (LIRIS - INSA Lyon)
+  _Ousmane Touat, Sara Bouchenak_ (LIRIS - INSA Lyon)
   - __Empirical Analysis of Bias in Federated Learning__
-    _Nawel Benarban, Sara Bouchenak_ (INSA Lyon – LIRIS)
+  _Nawel Benarban, Sara Bouchenak_ (LIRIS, INSA Lyon)
   - __Mitigating Membership Inference Attacks in Federated Learning__
-    _FATIMA EL HATTAB, Sara Bouchenak_ (LIRIS, INSA LYON)
+  _FATIMA EL HATTAB, Sara Bouchenak_ (LIRIS, INSA Lyon)
 
 
 ### 12h30-14h00 Déjeuner (_Jean XXIII_)
