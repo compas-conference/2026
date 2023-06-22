@@ -89,21 +89,30 @@ header:
 
 ### 16h20-18h00
 - Archi I (_Amphi B014_)
-  - __Un modèle de projection de performance monocœur pour l’exploration de paramètres de conception sur environnement Arm (22)__
-  - __Processeur RISC-V enrichi avec une unité de microdécodage dynamique (27)__
-  - __TrustSoC : Architecture SoC hétérogène légère et efficace sécurisée par conception (30)__
-  - __Conception d'architectures de traitement radar FMCW sur FPGA à base de modèles comportementaux (59)__
+  - __Un modèle de projection de performance monocœur pour l’exploration de paramètres de conception sur environnement Arm__
+    _Clement Gavoille_ (CEA/INRIA)
+  - __Processeur RISC-V enrichi avec une unité de microdécodage dynamique__
+    _Thomas Nieddu, Bertrand Le Gal_ (Laboratoire IMS); _Sébastien Pillement_ (Laboratoire IETR)
+  - __TrustSoC : Architecture SoC hétérogène légère et efficace sécurisée par conception__
+    _Raphaele Milan, Lilian Bossuet_ (Université Jean Monnet Saint-Etienne, CNRS, Laboratoire Hubert Curien UMR 5516); _Loic Lagadec_ (Lab-STICC, ENSTA Bretagne); _Carlos Andres Lara Nino_ (Université Jean Monnet Saint-Etienne, CNRS, Laboratoire Hubert Curien UMR 5516)
+  - __Conception d'architectures de traitement radar FMCW sur FPGA à base de modèles comportementaux__
+    _Hugues Almorin_ (ARELIS - Groupe LGM); _Bertrand Le Gal, Christophe Jego_ (IMS laboratory, Bordeaux-INP CNRS UMR 5218, Univ. of Bordeaux); _Vincent Kissel_ (ARELIS - Groupe LGM)
   
 - Système III (_Amphi B120_)
-  - __PRESPS : a PREdictive model to determine the number of replicas of the operators in Stream Processing Systems (26)__
-  - __Privacy leakages on NLP models and mitigations through a use case on medical data (65)__ 
-  - __FLAIR : stocker des flux de données illimités sur des smartphones pour mieux protéger la vie privée des utilisateurs (49)__
-  - __Mortem: A New Runtime for Intermittent Computing (36)__
+  - __PRESPS : a PREdictive model to determine the number of replicas of the operators in Stream Processing Systems__
+    _Daniel Wladdimiro, Luciana Arantes_ (LIP6, CNRS, Sorbonne Université); _Nicolas Hidalgo_ (Universidad Diego Portales); _Pierre Sens_ (LIP6, CNRS, Sorbonne Université)
+  - __Privacy leakages on NLP models and mitigations through a use case on medical data__
+    _Gaspard Berthelier, Antoine Boutet_ (Insa-Lyon, CITI, INRIA); _Antoine Richard_ (DSN Bron, Hospices Civil de Lyon)
+  - __FLAIR : stocker des flux de données illimités sur des smartphones pour mieux protéger la vie privée des utilisateurs__
+    _Olivier Ruas_ (Pathway); _Rémy Raes, Adrien Luxey-Bitri, Romain Rouvoy_ (Inria)
+  - __Mortem: A New Runtime for Intermittent Computing__
+    _Antoine Bernabeu, Jean-Luc Béchnennec, Mikaël Briday, Sébastien Faucou, Olivier Roux_ (LS2N)
 
 
 ## Jeudi 6 juillet
 ### 8h30-9h30 : Keynote architecture (_Amphi B014_)
-- Bernard Goossens, université de Perpignan
+    - Bernard Goossens, université de Perpignan
+    - Construire son processeur chez soi
 
 ### 09h30-9h45 Pause Café
 ### 9h45-11h50
@@ -175,7 +184,7 @@ header:
   - __On the historical evolution of the performance versus cost ratio of Raspberry Pi computers (37)__
   - __Definition and evaluation of anisotropic SoC architectures for the throughput optimisation of streaming applications (32)__
 
-### 12h Aurevoir (panier repas)
+### 12h Aurevoir (paniers repas)
 
 
 
