@@ -162,17 +162,21 @@ header:
   - __Apprentissage fédéré pour l’intelligence ambiante : une approche système embarqué, distribuée et intermittente (24)__
     _Antoine Bonneau, Frédéric Le Mouël, Fabien Mieyeville_ (Univ Lyon, INSA Lyon, Inria, CITI, Ecole Centrale de Lyon, CNRS) 
 
-
 ### 15h40-16h05 Pause Café
 
 ### 16h05-17h15 Présentations des résumés
 - Système (_Amphi B014_)
-  - __Towards Multimodal Federated Learning (7)__
-  - __Système d’assistance à la mobilité en milieu urbain des personnes malvoyantes via une substitution de l’information visuelle par (9)__
-  - __Prototypage rapide pour l’inférence par réseaux de neurones convolutifs sur cibles matérielles hétérogènes (21)__
-  - __téléGC : Un garbage collector (GC) délocalisé grâce à lamémoire désagrégée (38)__
+  - __Towards Multimodal Federated Learning__
+    _Silvia Grosso, Ousmane Touat, Sara Bouchenak_ (LIRIS - INSA Lyon)
+  - __Système d’assistance à la mobilité en milieu urbain des personnes malvoyantes via une substitution de l’information visuelle par un signal auditif__
+    _Florian SCALVINI_ (Laboratoire ImViA (EA 7535) - Université de Bourgogne); _Camille BORDEAU, Maxime AMBARD_ (Laboratoire LEAD CNRS UMR 5022 - Université de Bourgogne); _Cyrille MIGNIOT, Julien DUBOIS_ (Laboratoire ImViA (EA 7535) - Université de Bourgogne)
+  - __Prototypage rapide pour l’inférence par réseaux de neurones convolutifs sur cibles matérielles hétérogènes__
+    _Sean Marotta_ (ImViA - Université de Bourgogne); _Alessandro Carlini_ (LEAD - Université de Bourgogne); _Vincent Brost, Cyrille Migniot_ (ImViA - Université de Bourgogne); _Manon Ansart, Michel Paindavoine_ (LEAD - Université de Bourgogne); _Julien Dubois_ (ImViA - Université de Bourgogne)
+  - __téléGC : Un garbage collector (GC) délocalisé grâce à lamémoire désagrégée__
+    _Adam Chader, Yohan Pipereau, Mathieu Bacou, Gaël Thomas_ (Télécom SudParis)
   - __CADiA: A CPU Cache Allocation System for Distributed Applications (46)__
-  - __Utilisation de noeuds de confiance pour les protocoles d’échantillonage de pairs tolérants aux attaques byzantines (48)__
+  - __Utilisation de noeuds de confiance pour les protocoles d’échantillonage de pairs tolérants aux attaques byzantines__
+    _Augusta MUKAM, Laurent Réveillère, Joachim Bruneau-Queyreix_ (Université de Bordeaux)
 - Architecture et parallélisme (_Amphi B120_)
   - __Frugal Deep Learning for Multi-Resolution Image Analysis (8)__
   - __Optimisation multi-objectif pour une replanification en ligne des trajectoires de véhicules autonomes (34)__
