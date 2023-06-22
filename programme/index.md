@@ -177,21 +177,32 @@ header:
   - __CADiA: A CPU Cache Allocation System for Distributed Applications (46)__
   - __Utilisation de noeuds de confiance pour les protocoles d’échantillonage de pairs tolérants aux attaques byzantines__
     _Augusta MUKAM, Laurent Réveillère, Joachim Bruneau-Queyreix_ (Université de Bordeaux)
-- Architecture et parallélisme (_Amphi B120_)
-  - __Frugal Deep Learning for Multi-Resolution Image Analysis (8)__
-  - __Optimisation multi-objectif pour une replanification en ligne des trajectoires de véhicules autonomes (34)__
-  - __Prise de décision distribuée et embarquée dans les systèmes autonomes multi-UAV pour une sécurité des services (39)__
-  - __New Parallelization Approach in Deep Learning Using CPU/GPU Architectures for Memory Optimization (51)__
-  - __Scratchy - An open-sourcee generator of lightweight scratchpad-based multi-RISCV architecture (12)__
-  - __Architecture d’accélérateur matériel de calcul pour le décodage de signaux neuronaux dans une interface cerveau-machine (14)__
-  - __Conception d’un sous-système mémoire pour traitement de données creuses (29)__
 
-### 17h15-18h AG ComPAS
-### 18h-20 Cocktail Poster
+
+- Architecture et parallélisme (_Amphi B120_)
+  - __Frugal Deep Learning for Multi-Resolution Image Analysis__
+    _Marie Reinbigler_ (SAMOVAR, Télécom SudParis, Institut Polytechnique de Paris)
+  - __Optimisation multi-objectif pour une replanification en ligne des trajectoires de véhicules autonomes__
+    _Kilian LE GALL, Laurent Lemarchand, Catherine Dezan_ (Faculté de Sciences et Techniques - Université de Bretagne-Occidentale)
+  - __Prise de décision distribuée et embarquée dans les systèmes autonomes multi-UAV pour une sécurité des services__
+    _Mohand HAMADOUCHE, Catherine Dezan, David Espes_ (Lab-STICC, UBO); _Kalinka Branco_ (USP, Brésil)
+  - __New Parallelization Approach in Deep Learning Using CPU/GPU Architectures for Memory Optimization__
+    _Luis A. Torres N._, Carlos J. Barrios H., Yves Denneulin_
+  - __Scratchy - An open-sourcee generator of lightweight scratchpad-based multi-RISCV architecture__
+    _Joseph Faye_ (INSA RennesLaboratoire IETR / INSA Rennes); _Florent Kermarrex_ (Enjoy-digital); _Shuvra Bhattacharyya, Jean-Francois Nezan, Maxime Pelcat_ (Laboratoire IETR / INSA Rennes)
+  - __Architecture d’accélérateur matériel de calcul pour le décodage de signaux neuronaux dans une interface cerveau-machine__
+    _Joe Saad_ (CEA-Grenoble)
+  - __Conception d’un sous-système mémoire pour traitement de données creuses (29)__
+    _Valentin Isaac--Chassande_ (CEA)
+
+### 17h15-18h AG ComPAS (_Amphi B014_)
+### 18h-20 Cocktail Poster (_Accueil Polytech_)
 
 ## Vendredi 7 juillet
 ### 8h45-9h45 : Keynote Parallélisme (_Amphi B014_)
 - Christian Perez, Inria
+  - TBA
+  - Chair : TBA
 
 ### 09h45-10h05 Pause Café
 ### 10h05-11h45
