@@ -124,7 +124,7 @@ header:
     _Mathuran Kandeepan, Clara CIocan, Adrien Cassagne, Lionel Lacassagne_ (LIP6)
   - __Partitionnement de maillage pour solveurs numériques parallélisés et distribués en tâches__
     _Alice Lasserre_ (Inria Centre of the University of Bordeaux)
-  - __Rethinking Data Race Detection in RMA-Analyzer_
+  - __Rethinking Data Race Detection in RMA-Analyzer__
     _Radjasouria Vinayagale_ (Atos)
   - __Verrouillage multi-granularité dans les graphes orientés__
     _Ayush Pandey, Swan Dubois, Marc Shapiro, Julien Sopena_ (LIP6)
@@ -145,15 +145,22 @@ header:
 
 ### 14h00-15h40
 - Parallélisme IV (_Amphi B014_)
-  - __Passage vers le modèle de programmation par tâches hétérogènes pour l'exploitation optimale des supercalculateurs actuels et futurs (41)__
-  - __Parallélisation automatique de chaînes de tâches pour la Radio Logicielle (45)__
-  - __Vers un solveur direct à base de tâches pour des systèmes linéaires FEM/BEM creux/denses (52)__
-  - __Analyse de performance d'un solveur direct hiérarchique (53)__
+  - __Passage vers le modèle de programmation par tâches hétérogènes pour l'exploitation optimale des supercalculateurs actuels et futurs__
+    _Manuel Ferat_ (CEA, DAM, DIF)
+  - __Parallélisation automatique de chaînes de tâches pour la Radio Logicielle__
+    _Diane Orhan_ (INRIA Bordeaux)
+  - __Vers un solveur direct à base de tâches pour des systèmes linéaires FEM/BEM creux/denses__
+    _Emmanuel Agullo_ (Centre Inria de l'Université de Bordeaux); _Alfredo Buttari_ (Institut de Recherche en Informatique de Toulouse); _Marek Felšöci_ (Inria Nancy - Grand Est / Laboratoire ICube); _Guillaume Sylvand_ (Airbus Central R&T)
+  - __Analyse de performance d'un solveur direct hiérarchique__
+    _Abel Calluaud_ (CEA); _Mathieu Faverge_ (Bordeaux INP); _Pierre Ramet_ (IUT Bordeaux); _David Lugato_ (CEA)
 
 - Système V (_Amphi B120_)
-  - __Comment rater la reproductibilité de ses expériences ? (42)__
-  - __Agrégation opportuniste de messages pour les algorithmes à phases (43)__
-  - __Apprentissage fédéré pour l’intelligence ambiante : une approche système embarqué, distribuée et intermittente (24)__ Antoine Bonneau, Frédéric Le Mouël, Fabien Mieyeville_ (Univ Lyon, INSA Lyon, Inria, CITI, Ecole Centrale de Lyon, CNRS) 
+  - __Comment rater la reproductibilité de ses expériences ?__
+    _Quentin Guilloteau, Adrien Faure_ (Univ. Grenoble Alpes); _Millian Poquet_ (IRIT); _Olivier Richard_ (Univ. Grenoble Alpes)
+  - __Agrégation opportuniste de messages pour les algorithmes à phases__
+    _Célia Mahamdi, Jonathan Lejeune, Julien Sopena, Pierre Sens_ (Sorbonne université, CNRS, LIP6)
+  - __Apprentissage fédéré pour l’intelligence ambiante : une approche système embarqué, distribuée et intermittente (24)__
+    _Antoine Bonneau, Frédéric Le Mouël, Fabien Mieyeville_ (Univ Lyon, INSA Lyon, Inria, CITI, Ecole Centrale de Lyon, CNRS) 
 
 
 ### 15h40-16h05 Pause Café
