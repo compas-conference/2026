@@ -174,7 +174,8 @@ header:
     _Sean Marotta_ (ImViA - Université de Bourgogne); _Alessandro Carlini_ (LEAD - Université de Bourgogne); _Vincent Brost, Cyrille Migniot_ (ImViA - Université de Bourgogne); _Manon Ansart, Michel Paindavoine_ (LEAD - Université de Bourgogne); _Julien Dubois_ (ImViA - Université de Bourgogne)
   - __téléGC : Un garbage collector (GC) délocalisé grâce à lamémoire désagrégée__
     _Adam Chader, Yohan Pipereau, Mathieu Bacou, Gaël Thomas_ (Télécom SudParis)
-  - __CADiA: A CPU Cache Allocation System for Distributed Applications (46)__
+  - __CADiA: A CPU Cache Allocation System for Distributed Applications__
+    _Armel JEATSA, Boris TEABE, Daniel HAGIMONT_ (University of Toulouse)
   - __Utilisation de noeuds de confiance pour les protocoles d’échantillonage de pairs tolérants aux attaques byzantines__
     _Augusta MUKAM, Laurent Réveillère, Joachim Bruneau-Queyreix_ (Université de Bordeaux)
 
@@ -192,7 +193,7 @@ header:
     _Joseph Faye_ (INSA RennesLaboratoire IETR / INSA Rennes); _Florent Kermarrex_ (Enjoy-digital); _Shuvra Bhattacharyya, Jean-Francois Nezan, Maxime Pelcat_ (Laboratoire IETR / INSA Rennes)
   - __Architecture d’accélérateur matériel de calcul pour le décodage de signaux neuronaux dans une interface cerveau-machine__
     _Joe Saad_ (CEA-Grenoble)
-  - __Conception d’un sous-système mémoire pour traitement de données creuses (29)__
+  - __Conception d’un sous-système mémoire pour traitement de données creuses)__
     _Valentin Isaac--Chassande_ (CEA)
 
 ### 17h15-18h AG ComPAS (_Amphi B014_)
@@ -207,15 +208,20 @@ header:
 ### 09h45-10h05 Pause Café
 ### 10h05-11h45
 - Parallelisme (_Amphi B014_)
-  - __Portable vectorization and precision tuning through a search space exploration and machine learning (11)__
+  - __Portable vectorization and precision tuning through a search space exploration and machine learning__
     _Lana Scravaglieri_ (Inria, IFPEN)
-  - __Extending the COMET component model to support hierarchical composite data: Aevol case study (35)__
-  - __Extending the Task Dataflow Model with Speculative Data Accesses (44)__
-  - __Développement d’un Système Embarqué pour la Détection et l’Identification de Drones sur la Base de Signature RF (56)__
+  - __Extending the COMET component model to support hierarchical composite data: Aevol case study__
+    _LACMOU ZEUTOUO Jerry, Christian Perez, Thierry Gautier_ (LIP – Inria Avalon); _Jonathan Rouzaud-Cornabas_ (LIRIS – Inria Beagl)
+  - __Extending the Task Dataflow Model with Speculative Data Accesses__
+    _Anastasios Souris, Bérenger Bramas, Philippe Clauss_ (Inria Nancy Grand Est, CAMUS Team)
+  - __Développement d’un Système Embarqué pour la Détection et l’Identification de Drones sur la Base de Signature RF__
+    _Aymane Kharchouf_ (LamiH Université polytechnique de haut de france)
   
 - Archi (_Amphi B120_)
-  - __On the historical evolution of the performance versus cost ratio of Raspberry Pi computers (37)__
-  - __Definition and evaluation of anisotropic SoC architectures for the throughput optimisation of streaming applications (32)__
+  - __On the historical evolution of the performance versus cost ratio of Raspberry Pi computers__
+    _David Beserra, Nidà Meddouri, Célia Restes, Anys Nait Zerrad, Basma Bouharicha, Aurore Duvernoy_ (École Pour l'Informatique et les Techniques Avancées (EPITA))
+  - __Definition and evaluation of anisotropic SoC architectures for the throughput optimisation of streaming applications__
+    _Joseph Faye_ (Laboratoir IETR | INSA Rennes); Lucas Esteves-Rocha (INSA Rennes); _Florent Kermarrec_ (Enjoy-Digital); _Kevin Martin_ (Laboratoire LabSTICC); _Shuvra Bhattacharyya_ (INSA Rennes | University of Maryland); _Jean-Francois Nezan, Maxime Pelcat_ (Laboratoire IETR | INSA Rennes)
 
 ### 12h Aurevoir (paniers repas)
 
