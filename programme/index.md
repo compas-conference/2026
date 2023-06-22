@@ -159,7 +159,7 @@ header:
     _Quentin Guilloteau, Adrien Faure_ (Univ. Grenoble Alpes); _Millian Poquet_ (IRIT); _Olivier Richard_ (Univ. Grenoble Alpes)
   - __Agrégation opportuniste de messages pour les algorithmes à phases__
     _Célia Mahamdi, Jonathan Lejeune, Julien Sopena, Pierre Sens_ (Sorbonne université, CNRS, LIP6)
-  - __Apprentissage fédéré pour l’intelligence ambiante : une approche système embarqué, distribuée et intermittente (24)__
+  - __Apprentissage fédéré pour l’intelligence ambiante : une approche système embarqué, distribuée et intermittente__
     _Antoine Bonneau, Frédéric Le Mouël, Fabien Mieyeville_ (Univ Lyon, INSA Lyon, Inria, CITI, Ecole Centrale de Lyon, CNRS) 
 
 ### 15h40-16h05 Pause Café
