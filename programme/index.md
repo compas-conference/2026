@@ -111,17 +111,23 @@ header:
 
 ## Jeudi 6 juillet
 ### 8h30-9h30 : Keynote architecture (_Amphi B014_)
-    - Bernard Goossens, université de Perpignan
+- Bernard Goossens, université de Perpignan
     - Construire son processeur chez soi
+    - Chair : TBA
 
 ### 09h30-9h45 Pause Café
 ### 9h45-11h50
 - Parallélisme III (_Amphi B014_)
-  - __SCROOGEVM : Accroître l’utilisation des ressources du cloud en ajustant dynamiquement la surallocation (18)__
-  - __Parallélisation d’une nouvelle application embarquée pour la détection automatique de météores (20)__
-  - __Partitionnement de maillage pour solveurs numériques parallélisés et distribués en tâches (23)__
-  - __Rethinking Data Race Detection in RMA-Analyzer (28)__
-  - __CALock : Multi-Granularity Locking in Directed Graphs (33)__
+  - __SCROOGEVM : Accroître l’utilisation des ressources du cloud en ajustant dynamiquement la surallocation__
+    _Pierre Jacquet_ (Inria, Université de Lille); _Thomas Ledoux_ (Inria, IMT Atlantique); _Romain Rouvoy_ (Inria, Université de Lille)
+  - __Parallélisation d’une nouvelle application embarquée pour la détection automatique de météores__
+    _Mathuran Kandeepan, Clara CIocan, Adrien Cassagne, Lionel Lacassagne_ (LIP6)
+  - __Partitionnement de maillage pour solveurs numériques parallélisés et distribués en tâches__
+    _Alice Lasserre_ (Inria Centre of the University of Bordeaux)
+  - __Rethinking Data Race Detection in RMA-Analyzer_
+    _Radjasouria Vinayagale_ (Atos)
+  - __Verrouillage multi-granularité dans les graphes orientés__
+    _Ayush Pandey, Swan Dubois, Marc Shapiro, Julien Sopena_ (LIP6)
   
 - Système IV (_Amphi B120_)
   - __Effets de l'utilisation de transports sécurisés sur les performances d'un resolveur DNS (40)__
