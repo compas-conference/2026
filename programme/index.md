@@ -46,19 +46,19 @@ header:
 ### 10h45-12h00
 - Parallélisme I : (_Amphi B014_)
     - __Interruptions en espace utilisateur pour améliorer la réactivité des communications en calcul haute-performance__
-    _Charles Goedefroit_ (Centre Inria de l'Université de Bordeaux)
+      _Charles Goedefroit_ (Centre Inria de l'Université de Bordeaux)
     - __I/O performance of multiscale finite element simulations on HPC platforms__
-    _Armel JEATSA, Boris TEABE, Daniel HAGIMONT_ (University of Toulouse)
+      _Armel JEATSA, Boris TEABE, Daniel HAGIMONT_ (University of Toulouse)
     - __Exploiting data locality to maximize the performance of data-sharing tasksets__
-    _Maxime Gonthier_ (INRIA Bordeaux)
+      _Maxime Gonthier_ (INRIA Bordeaux)
   
 - Système I : (_Amphi B120_)
   - __Towards Robust and Bias-free Federated Learning__
-  _Ousmane Touat, Sara Bouchenak_ (LIRIS - INSA Lyon)
+      _Ousmane Touat, Sara Bouchenak_ (LIRIS - INSA Lyon)
   - __Empirical Analysis of Bias in Federated Learning__
-  _Nawel Benarban, Sara Bouchenak_ (LIRIS, INSA Lyon)
+      _Nawel Benarban, Sara Bouchenak_ (LIRIS, INSA Lyon)
   - __Mitigating Membership Inference Attacks in Federated Learning__
-  _FATIMA EL HATTAB, Sara Bouchenak_ (LIRIS, INSA Lyon)
+      _FATIMA EL HATTAB, Sara Bouchenak_ (LIRIS, INSA Lyon)
 
 
 ### 12h30-14h00 Déjeuner (_Jean XXIII_)
@@ -66,10 +66,13 @@ header:
 ### 14h00-16h05
 - Parallélisme II (_Amphi B014_)
   - __Towards an Energy-Aware Multi-objective Scheduling Policy for Server-based Edge-Cloud Continuum__
-  _Anderson Andrei DA SILVA_ (Université Grenoble Alpes, Ryax Technologies); _Yiannis Georgio, Michael Mercier_ (Ryax Technologies); _Gregory Mounié, Denis Trystram_ (Université Grenoble Alpes)
-  - __Evaluation de la consommation d'énergie nécessaire à l'éxécution d'un workload dans un datacenter vert (31)__
-  - __Towards Sustainable Low Carbon Emission Mini Data Centres (25)__
-  - __Long-term evaluation for sizing low-carbon cloud data centers (50)__
+      _Anderson Andrei DA SILVA_ (Université Grenoble Alpes, Ryax Technologies); _Yiannis Georgio, Michael Mercier_ (Ryax Technologies); _Gregory Mounié, Denis Trystram_ (Université Grenoble Alpes)
+  - __Evaluation de la consommation d'énergie nécessaire à l'éxécution d'un workload dans un datacenter vert__
+      _Damien Landré_ (FEMTO-ST, IRIT); _Louis-Claude Canon, Laurent Philippe_ (FEMTO-ST - Besançon); _Jean-Marc Pierson, Paul Renaud-Goud_ (IRIT - Toulouse)
+  - __Towards Sustainable Low Carbon Emission Mini Data Centres__
+      _Ismael Samaye, Paul Leloup, Gilles Sassatelli, Abdoulaye Gamatié_ (LIRMM, Université de Montpellier - CNRS)
+  - __Long-term evaluation for sizing low-carbon cloud data centers__
+      _Miguel Felipe Silva Vasconcelos_ (Univ. Grenoble Alpes, Inria, CNRS, Grenoble INP, LIG); _Daniel Cordeiro_ (School of Arts, Sciences and Humanities, University of São Paulo); _Georges Da Costa_ (IRIT, Université de Toulouse, CNRS); _Fanny Dufossé_ (Univ. Grenoble Alpes, Inria, CNRS, Grenoble INP, LIG); _Jean-Marc Nicod, Veronika Rehn-Sonigo_ (Université de Franche-Comté, SUPMICROTECH, CNRS, institut FEMTO-ST)
   
 - Système II (_Amphi B120_)
   - __Elasticité à approche combinée pour le traitement des flux dans les environnements de brouillard (10)__
