@@ -130,11 +130,16 @@ header:
     _Ayush Pandey, Swan Dubois, Marc Shapiro, Julien Sopena_ (LIP6)
   
 - Système IV (_Amphi B120_)
-  - __Effets de l'utilisation de transports sécurisés sur les performances d'un resolveur DNS (40)__
-  - __Taenite: Gestion transparente de la mémoire persistante en Rust (57)__
-  - __FairFetched: Fair Quality-of-Service for Decentralized Marketplace Search (60)__
-  - __A robust smartphone-based architecture for prolonged monitoring of gait (61)__
-  - __xOS: La fin du règne des processus (58)__
+  - __Effets de l'utilisation de transports sécurisés sur les performances d'un resolveur DNS__
+    _Etienne Le Louët, Antoine Blin_ (Gandi SAS); _Julien Sopena_ (LIP6); _Ahmed Amamou, Kamel Haddadou_ (Gandi SAS)
+  - __Taenite: Gestion transparente de la mémoire persistante en Rust__
+    _Louis Boulanger, Yves Denneulin, Frédéric Wagner_ (LIG)
+  - __FairFetched: Fair Quality-of-Service for Decentralized Marketplace Search__
+    _Matthieu BETTINGER_ (LIRIS-DRIM INSA Lyon); _Sonia BEN MOKHTAR_ (LIRIS-DRIM INSA Lyon CNRS); _Anthony SIMONET-BOULOGNE_ (iExec)
+  - __A robust smartphone-based architecture for prolonged monitoring of gait__
+    _El Amine Bechorfa_ (Insa-Lyon, CITI, CREATIS); _Antoine Boutet_ (Insa-Lyon, CITI, INRIA); _Carole Frindel_ (Insa-Lyon, CREATIS)
+  - __xOS: La fin du règne des processus__
+    _Dorian Goepp_ (Univ. Grenoble Alpes); _Stella Bitchebe_ (McGill); _Nel Nanvou, Thomas Messi_ (University of Yaounde I); _Renaud Lachaize_ (Univ. Grenoble Alpes); _Alain Tchana_ (Grenoble INP)
   
 ### 12h15-14h00 Déjeuner (_Jean XXIII_)
 
