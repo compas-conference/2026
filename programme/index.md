@@ -11,7 +11,7 @@ header:
 ---
 
 
-# **Programme (TENTATIVE)**
+# **Programme**
 
 ## Mardi 4 juillet
 
@@ -75,10 +75,14 @@ header:
       _Miguel Felipe Silva Vasconcelos_ (Univ. Grenoble Alpes, Inria, CNRS, Grenoble INP, LIG); _Daniel Cordeiro_ (School of Arts, Sciences and Humanities, University of São Paulo); _Georges Da Costa_ (IRIT, Université de Toulouse, CNRS); _Fanny Dufossé_ (Univ. Grenoble Alpes, Inria, CNRS, Grenoble INP, LIG); _Jean-Marc Nicod, Veronika Rehn-Sonigo_ (Université de Franche-Comté, SUPMICROTECH, CNRS, institut FEMTO-ST)
   
 - Système II (_Amphi B120_)
-  - __Elasticité à approche combinée pour le traitement des flux dans les environnements de brouillard (10)__
-  - __Applying High Computed Knowledge Distillation on Pre-trained Model for Edge Computed Grapevine Detection (54)__
-  - __Étude et modélisation des mécanismes de surallocation de mémoire pour la consolidation de machines virtuelles (55)__
-  - __Hector: A Framework to Design Scheduling Strategies in Persistent Key-Value Stores (6)__
+  - __Elasticité à approche combinée pour le traitement des flux dans les environnements de brouillard__
+    _Alessio Pagliari, Guillaume Pierre_ (Univ Rennes, Inria, CNRS, IRISA)
+  - __Applying High Computed Knowledge Distillation on Pre-trained Model for Edge Computed Grapevine Detection__
+    _Lilian Hollard_ (Université de Reims Champagne Ardenne, LICIIS)
+  - __Étude et modélisation des mécanismes de surallocation de mémoire pour la consolidation de machines virtuelles__
+    _Simon Lambert_ (LIP)
+  - __Hector: A Framework to Design Scheduling Strategies in Persistent Key-Value Stores__
+    _Anthony Dugois_ (ENS Lyon, Inria); _Louis-Claude Canon_ (FEMTO-ST, Université de Franche-Comté); _Loris Marchal_ (ENS Lyon, CNRS, Inria); _Etienne Rivière_ (ICTEAM, UCLouvain)
   
 
 ### 16h05-16h20 Pause Café
