@@ -45,12 +45,12 @@ header:
 
 ### 10h45-12h00
 - Parallélisme I : (_Amphi B014_)
-  - __Interruptions en espace utilisateur pour améliorer la réactivité des communications en calcul haute-performance__
-  _Charles Goedefroit_ (Centre Inria de l'Université de Bordeaux)
-  - __I/O performance of multiscale finite element simulations on HPC platforms__
-  _Armel JEATSA, Boris TEABE, Daniel HAGIMONT_ (University of Toulouse)
-  - __Exploiting data locality to maximize the performance of data-sharing tasksets__
-  _Maxime Gonthier_ (INRIA Bordeaux)
+    - __Interruptions en espace utilisateur pour améliorer la réactivité des communications en calcul haute-performance__
+    _Charles Goedefroit_ (Centre Inria de l'Université de Bordeaux)
+    - __I/O performance of multiscale finite element simulations on HPC platforms__
+    _Armel JEATSA, Boris TEABE, Daniel HAGIMONT_ (University of Toulouse)
+    - __Exploiting data locality to maximize the performance of data-sharing tasksets__
+    _Maxime Gonthier_ (INRIA Bordeaux)
   
 - Système I : (_Amphi B120_)
   - __Towards Robust and Bias-free Federated Learning__
@@ -65,7 +65,7 @@ header:
 
 ### 14h00-16h05
 - Parallélisme II (_Amphi B014_)
-  - __Towards an Energy-Aware Multi-objective Scheduling Policy for Server-based Edge-Cloud Continuum (16)__
+  - __Towards an Energy-Aware Multi-objective Scheduling Policy for Server-based Edge-Cloud Continuum__
   _Anderson Andrei DA SILVA_ (Université Grenoble Alpes, Ryax Technologies); _Yiannis Georgio, Michael Mercier_ (Ryax Technologies); _Gregory Mounié, Denis Trystram_ (Université Grenoble Alpes)
   - __Evaluation de la consommation d'énergie nécessaire à l'éxécution d'un workload dans un datacenter vert (31)__
   - __Towards Sustainable Low Carbon Emission Mini Data Centres (25)__
