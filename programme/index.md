@@ -38,14 +38,15 @@ header:
 
 ### 9h30-10h30: Keynote Système (_Amphi B014_)
 - Baptiste Lepers, Université de Neuchâtel
-  - 
+  - Simplifier pour mieux publier
+  - Chair : TBA
   
 ### 10h30-10h45 Pause café
 
 ### 10h45-12h00
-- Parallélisme I : chairmanA (_Amphi B014_)
+- Parallélisme I : (_Amphi B014_)
   - __Interruptions en espace utilisateur pour améliorer la réactivité des communications en calcul haute-performance (19)__
-    _Charles Goedefroit_ (Centre Inria de l'Université de Bordeaux)
+  _Charles Goedefroit_ (Centre Inria de l'Université de Bordeaux)
   - __I/O performance of multiscale finite element simulations on HPC platforms (47)__
   - __Exploiting data locality to maximize the performance of data-sharing tasksets__
     _Maxime Gonthier_ (INRIA Bordeaux)
