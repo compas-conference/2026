@@ -33,4 +33,6 @@ abordable (c'est ici que se feront les repas de midi).
 
 L'inscription s'effectue à travers le portail **[compas2023.scienceconf.org](https://compas2023.sciencesconf.org/)** (à partir du 26 mai)
 
+Pour ceux/celles qui ont égaré le lien de paiement, **[c'est ici](https://btk.univ-smb.fr/inscription_evt/compas-2023-conference-francophone-en-informatique/)**
+
 
