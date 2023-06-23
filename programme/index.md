@@ -164,7 +164,7 @@ header:
 
 ### 15h40-16h05 Pause Café
 
-### 16h05-17h15 Présentations des résumés
+### 16h05-17h15 Présentations des posters
 - Système (_Amphi B014_)
   - __Towards Multimodal Federated Learning__
     _Silvia Grosso, Ousmane Touat, Sara Bouchenak_ (LIRIS - INSA Lyon)
