@@ -77,8 +77,8 @@ header:
 - Système II (_Amphi B120_)
   - __Elasticité à approche combinée pour le traitement des flux dans les environnements de brouillard__
     _Alessio Pagliari, Guillaume Pierre_ (Univ Rennes, Inria, CNRS, IRISA)
-  - __Applying High Computed Knowledge Distillation on Pre-trained Model for Edge Computed Grapevine Detection__
-    _Lilian Hollard_ (Université de Reims Champagne Ardenne, LICIIS)
+  - ~~__Applying High Computed Knowledge Distillation on Pre-trained Model for Edge Computed Grapevine Detection__
+    _Lilian Hollard_ (Université de Reims Champagne Ardenne, LICIIS)~~
   - __Étude et modélisation des mécanismes de surallocation de mémoire pour la consolidation de machines virtuelles__
     _Simon Lambert_ (LIP)
   - __Hector: A Framework to Design Scheduling Strategies in Persistent Key-Value Stores__
