@@ -23,6 +23,7 @@ L'inscription comprend :
   * le gala, cocktails et autres évenements.
   
 Tarif : 260 € jusqu'au 21 juin, 300 € après.
+**ATTENTION : cloture des inscriptions le mardi 27 juin au soir.**
 
 ### **Logement étudiant**
 
