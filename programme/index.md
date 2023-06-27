@@ -48,7 +48,7 @@ header:
     - __Interruptions en espace utilisateur pour améliorer la réactivité des communications en calcul haute-performance__
       _Charles Goedefroit_ (Centre Inria de l'Université de Bordeaux)
     - __I/O performance of multiscale finite element simulations on HPC platforms__
-      _Armel JEATSA, Boris TEABE, Daniel HAGIMONT_ (University of Toulouse)
+      _Louis Peyrondet, Francieli Boito_ (Inria Bordeaux); _Antonio Tadeu A. Gomes_ (Laboratório Nacional de Computação Científica (LNCC)); _Luan Teylo_ (Inria Bordeaux)
     - __Exploiting data locality to maximize the performance of data-sharing tasksets__
       _Maxime Gonthier_ (INRIA Bordeaux)
   
@@ -80,7 +80,7 @@ header:
   - ~~__Applying High Computed Knowledge Distillation on Pre-trained Model for Edge Computed Grapevine Detection__
     _Lilian Hollard_ (Université de Reims Champagne Ardenne, LICIIS)~~
   - __Étude et modélisation des mécanismes de surallocation de mémoire pour la consolidation de machines virtuelles__
-    _Simon Lambert_ (LIP)
+    _Simon Lambert_ (ENS de Lyon - LIP - Ciril GROUP - Lyon); _Eddy Caron_ (ENS de Lyon - Inria - LIP - Lyon); _Laurent Lefevre_ (Inria - LIP - Lyon); _Rémi Grivel_ (Ciril GROUP - Lyon)
   - __Hector: A Framework to Design Scheduling Strategies in Persistent Key-Value Stores__
     _Anthony Dugois_ (ENS Lyon, Inria); _Louis-Claude Canon_ (FEMTO-ST, Université de Franche-Comté); _Loris Marchal_ (ENS Lyon, CNRS, Inria); _Etienne Rivière_ (ICTEAM, UCLouvain)
   
