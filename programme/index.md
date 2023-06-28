@@ -77,8 +77,8 @@ header:
 - Système II (_Amphi B120_)
   - __Elasticité à approche combinée pour le traitement des flux dans les environnements de brouillard__
     _Alessio Pagliari, Guillaume Pierre_ (Univ Rennes, Inria, CNRS, IRISA)
-  - ~~__Applying High Computed Knowledge Distillation on Pre-trained Model for Edge Computed Grapevine Detection__
-    _Lilian Hollard_ (Université de Reims Champagne Ardenne, LICIIS)~~
+  - __Towards Multimodal Federated Learning__
+    _Silvia Grosso, Ousmane Touat, Sara Bouchenak_ (LIRIS - INSA Lyon)
   - __Étude et modélisation des mécanismes de surallocation de mémoire pour la consolidation de machines virtuelles__
     _Simon Lambert_ (ENS de Lyon - LIP - Ciril GROUP - Lyon); _Eddy Caron_ (ENS de Lyon - Inria - LIP - Lyon); _Laurent Lefevre_ (Inria - LIP - Lyon); _Rémi Grivel_ (Ciril GROUP - Lyon)
   - __Hector: A Framework to Design Scheduling Strategies in Persistent Key-Value Stores__
@@ -166,8 +166,6 @@ header:
 
 ### 16h05-17h15 Présentations des posters
 - Système (_Amphi B014_)
-  - __Towards Multimodal Federated Learning__
-    _Silvia Grosso, Ousmane Touat, Sara Bouchenak_ (LIRIS - INSA Lyon)
   - __Système d’assistance à la mobilité en milieu urbain des personnes malvoyantes via une substitution de l’information visuelle par un signal auditif__
     _Florian SCALVINI_ (Laboratoire ImViA (EA 7535) - Université de Bourgogne); _Camille BORDEAU, Maxime AMBARD_ (Laboratoire LEAD CNRS UMR 5022 - Université de Bourgogne); _Cyrille MIGNIOT, Julien DUBOIS_ (Laboratoire ImViA (EA 7535) - Université de Bourgogne)
   - __Prototypage rapide pour l’inférence par réseaux de neurones convolutifs sur cibles matérielles hétérogènes__
