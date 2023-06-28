@@ -25,7 +25,7 @@ header:
 
 ### 14h-17h00
 - Tutoriel **Federated learning**
-- Tutoriel **Guix**
+- Tutoriel **Vers une étude scientifique expérimentale reproductible avec Guix**
 
 ## Mercredi 5 juillet
 ### Accueil continu à partir de 8h
