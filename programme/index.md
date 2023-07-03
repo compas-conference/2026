@@ -31,7 +31,7 @@ header:
 ### Accueil continu à partir de 8h
 ### 8h30-9h00
 - Ouverture de la conférence
-- Sébastien Monnet, Sonia BEN MOKHTAR, Nicolas Borghese
+- Sébastien Monnet, Sonia Ben Mokhtar, Nicolas Borghese
 
 ### 9h-9h30 Présentation des calls Horizon Europe (_Amphi B014_)
 - Armand Nachef, PCN horizon heurope
