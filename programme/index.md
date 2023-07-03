@@ -212,8 +212,6 @@ header:
     _Lana Scravaglieri_ (Inria, IFPEN)
   - __Extending the COMET component model to support hierarchical composite data: Aevol case study__
     _LACMOU ZEUTOUO Jerry, Christian Perez, Thierry Gautier_ (LIP – Inria Avalon); _Jonathan Rouzaud-Cornabas_ (LIRIS – Inria Beagl)
-~~  - __Extending the Task Dataflow Model with Speculative Data Accesses__
-    _Anastasios Souris, Bérenger Bramas, Philippe Clauss_ (Inria Nancy Grand Est, CAMUS Team)~~
   - __Développement d’un Système Embarqué pour la Détection et l’Identification de Drones sur la Base de Signature RF__
     _Aymane Kharchouf_ (LamiH Université polytechnique de haut de france)
   
