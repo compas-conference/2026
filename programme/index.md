@@ -18,14 +18,14 @@ header:
 ### Accueil continu à partir de 9h
 
 ### 10h-12h (les salles seront communiquées ici en fonction des effectifs)
-- Tutoriel **Upmem**
-- Tutoriel **Tout est sous contrôle**
+- Tutoriel **Upmem** - _Salle A-C206/207_
+- Tutoriel **Tout est sous contrôle** - _Salle A-C215_
 
 ### 12h15-14h Déjeuner (_Jean XXIII_)
 
 ### 14h-17h00
-- Tutoriel **Federated learning**
-- Tutoriel **Vers une étude scientifique expérimentale reproductible avec Guix**
+- Tutoriel **Federated learning** - _Salle A-C214_
+- Tutoriel **Vers une étude scientifique expérimentale reproductible avec Guix** - _Salle A-C215_
 
 ## Mercredi 5 juillet
 ### Accueil continu à partir de 8h
