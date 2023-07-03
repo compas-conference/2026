@@ -29,8 +29,9 @@ header:
 
 ## Mercredi 5 juillet
 ### Accueil continu à partir de 8h
-### 8h45-9h00
+### 8h30-9h00
 - Ouverture de la conférence
+- Sébastien Monnet, Sonia BEN MOKHTAR, Nicolas Borghese
 
 ### 9h-9h30 Présentation des calls Horizon Europe (_Amphi B014_)
 - Armand Nachef, PCN horizon heurope
@@ -44,7 +45,7 @@ header:
 ### 10h30-10h45 Pause café
 
 ### 10h45-12h00
-- Parallélisme I : (_Amphi B014_)
+- Parallélisme I : Louis-Claude Canon (Univ. Franche Comté/FEMTO-ST) (_Amphi B014_)
     - __Interruptions en espace utilisateur pour améliorer la réactivité des communications en calcul haute-performance__
       _Charles Goedefroit_ (Centre Inria de l'Université de Bordeaux)
     - __I/O performance of multiscale finite element simulations on HPC platforms__
@@ -64,7 +65,7 @@ header:
 ### 12h30-14h00 Déjeuner (_Jean XXIII_)
 
 ### 14h00-16h05
-- Parallélisme II : Renaud Lachaize (LIG/UGA)(_Amphi B014_)
+- Parallélisme II : Mathieu Favergé (Bordeaux INP/Inria) (_Amphi B014_)
   - __Towards an Energy-Aware Multi-objective Scheduling Policy for Server-based Edge-Cloud Continuum__
       _Anderson Andrei DA SILVA_ (Université Grenoble Alpes, Ryax Technologies); _Yiannis Georgio, Michael Mercier_ (Ryax Technologies); _Gregory Mounié, Denis Trystram_ (Université Grenoble Alpes)
   - __Evaluation de la consommation d'énergie nécessaire à l'éxécution d'un workload dans un datacenter vert__
@@ -74,7 +75,7 @@ header:
   - __Long-term evaluation for sizing low-carbon cloud data centers__
       _Miguel Felipe Silva Vasconcelos_ (Univ. Grenoble Alpes, Inria, CNRS, Grenoble INP, LIG); _Daniel Cordeiro_ (School of Arts, Sciences and Humanities, University of São Paulo); _Georges Da Costa_ (IRIT, Université de Toulouse, CNRS); _Fanny Dufossé_ (Univ. Grenoble Alpes, Inria, CNRS, Grenoble INP, LIG); _Jean-Marc Nicod, Veronika Rehn-Sonigo_ (Université de Franche-Comté, SUPMICROTECH, CNRS, institut FEMTO-ST)
   
-- Système II (_Amphi B120_)
+- Système II : Renaud Lachaize (LIG/UGA) (_Amphi B120_)
   - __Elasticité à approche combinée pour le traitement des flux dans les environnements de brouillard__
     _Alessio Pagliari, Guillaume Pierre_ (Univ Rennes, Inria, CNRS, IRISA)
   - __Towards Multimodal Federated Learning__
@@ -118,7 +119,7 @@ header:
 
 ### 09h30-9h45 Pause Café
 ### 9h45-11h50
-- Parallélisme III (_Amphi B014_)
+- Parallélisme III : Anthony Dugois (ENS Lyon/LIP) (_Amphi B014_)
   - __SCROOGEVM : Accroître l’utilisation des ressources du cloud en ajustant dynamiquement la surallocation__
     _Pierre Jacquet_ (Inria, Université de Lille); _Thomas Ledoux_ (Inria, IMT Atlantique); _Romain Rouvoy_ (Inria, Université de Lille)
   - __Parallélisation d’une nouvelle application embarquée pour la détection automatique de météores__
@@ -130,7 +131,7 @@ header:
   - __Verrouillage multi-granularité dans les graphes orientés__
     _Ayush Pandey, Swan Dubois, Marc Shapiro, Julien Sopena_ (LIP6)
   
-- Système IV : Sébastien Monnet (LISTIC/USMB) (_Amphi B120_)
+- Système IV : Lynda Ferraguig (LISTIC/USMB) (_Amphi B120_)
   - __Effets de l'utilisation de transports sécurisés sur les performances d'un resolveur DNS__
     _Etienne Le Louët, Antoine Blin_ (Gandi SAS); _Julien Sopena_ (LIP6); _Ahmed Amamou, Kamel Haddadou_ (Gandi SAS)
   - __Taenite: Gestion transparente de la mémoire persistante en Rust__
@@ -145,7 +146,7 @@ header:
 ### 12h15-14h00 Déjeuner (_Jean XXIII_)
 
 ### 14h00-15h40
-- Parallélisme IV (_Amphi B014_)
+- Parallélisme IV : Julien Sopena (SU/LIP6) (_Amphi B014_)
   - __Passage vers le modèle de programmation par tâches hétérogènes pour l'exploitation optimale des supercalculateurs actuels et futurs__
     _Manuel Ferat_ (CEA, DAM, DIF)
   - __Parallélisation automatique de chaînes de tâches pour la Radio Logicielle__
@@ -202,11 +203,11 @@ header:
 ### 8h45-9h45 : Keynote Parallélisme (_Amphi B014_)
 - Christian Perez, Inria
   - TBA
-  - Chair : TBA
+  - Chair : Sébastien Monnet (LISTIC/USMB)
 
 ### 09h45-10h05 Pause Café
 ### 10h05-11h45
-- Parallelisme (_Amphi B014_)
+- Parallelisme : Sébastien Monnet (LISTIC/USMB) (_Amphi B014_)
   - __Portable vectorization and precision tuning through a search space exploration and machine learning__
     _Lana Scravaglieri_ (Inria, IFPEN)
   - __Extending the COMET component model to support hierarchical composite data: Aevol case study__
@@ -216,7 +217,7 @@ header:
   - __Développement d’un Système Embarqué pour la Détection et l’Identification de Drones sur la Base de Signature RF__
     _Aymane Kharchouf_ (LamiH Université polytechnique de haut de france)
   
-- Archi : Kevin Martin (Univ. Bretagne Sud/Lab-STICC) (_Amphi B120_)
+- Architecture : Kevin Martin (Univ. Bretagne Sud/Lab-STICC) (_Amphi B120_)
   - __On the historical evolution of the performance versus cost ratio of Raspberry Pi computers__
     _David Beserra, Nidà Meddouri, Célia Restes, Anys Nait Zerrad, Basma Bouharicha, Aurore Duvernoy_ (École Pour l'Informatique et les Techniques Avancées (EPITA))
   - __Definition and evaluation of anisotropic SoC architectures for the throughput optimisation of streaming applications__
