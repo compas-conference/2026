@@ -108,6 +108,7 @@ header:
   - __Mortem: A New Runtime for Intermittent Computing__
     _Antoine Bernabeu, Jean-Luc Béchnennec, Mikaël Briday, Sébastien Faucou, Olivier Roux_ (LS2N)
 
+### 19h - Dinner de Gala ###
 
 ## Jeudi 6 juillet
 ### 8h30-9h30 : Keynote architecture (_Amphi B014_)

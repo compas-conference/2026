@@ -13,6 +13,7 @@ header:
 
 #### Comité d'organisation 
  + Sébastien Monnet (LISTIC, USMB, Président)
+ + Magali-Lina Viandaz (LISTIC)
  + Flavien Vernier (LISTIC)
  + Hervé Verjus (LISTIC)
  + Lynda Ferraguig (LISTIC)
