@@ -18,14 +18,14 @@ header:
 ### Accueil continu à partir de 9h
 
 ### 10h-12h (les salles seront communiquées ici en fonction des effectifs)
-- Tutoriel **Upmem** - _Salle A-C206/207_
-- Tutoriel **Tout est sous contrôle** - _Salle A-C215_
+- Tutoriel **Upmem** (_Salle A-C206/207_)
+- Tutoriel **Tout est sous contrôle** (_Salle A-C215_)
 
 ### 12h15-14h Déjeuner (_Jean XXIII_)
 
 ### 14h-17h00
-- Tutoriel **Federated learning** - _Salle A-C214_
-- Tutoriel **Vers une étude scientifique expérimentale reproductible avec Guix** - _Salle A-C215_
+- Tutoriel **Federated learning** (_Salle A-C214_)
+- Tutoriel **Vers une étude scientifique expérimentale reproductible avec Guix** (_Salle A-C215_)
 
 ## Mercredi 5 juillet
 ### Accueil continu à partir de 8h
@@ -39,7 +39,7 @@ header:
 ### 9h30-10h30: Keynote Système (_Amphi B014_)
 - Baptiste Lepers, Université de Neuchâtel
   - Simplifier pour mieux publier
-  - Chair : TBA
+  - Chair : Etienne Rivière (ICTEAM/UC Louvain)
   
 ### 10h30-10h45 Pause café
 
@@ -52,7 +52,7 @@ header:
     - __Exploiting data locality to maximize the performance of data-sharing tasksets__
       _Maxime Gonthier_ (INRIA Bordeaux)
   
-- Système I : (_Amphi B120_)
+- Système I : Joachim Bruneau-Queyreix (CNRS-LaBRI - University of Bordeaux - Bordeaux INP) (_Amphi B120_)
   - __Towards Robust and Bias-free Federated Learning__
       _Ousmane Touat, Sara Bouchenak_ (LIRIS - INSA Lyon)
   - __Empirical Analysis of Bias in Federated Learning__
@@ -64,7 +64,7 @@ header:
 ### 12h30-14h00 Déjeuner (_Jean XXIII_)
 
 ### 14h00-16h05
-- Parallélisme II (_Amphi B014_)
+- Parallélisme II : Renaud Lachaize (LIG/UGA)(_Amphi B014_)
   - __Towards an Energy-Aware Multi-objective Scheduling Policy for Server-based Edge-Cloud Continuum__
       _Anderson Andrei DA SILVA_ (Université Grenoble Alpes, Ryax Technologies); _Yiannis Georgio, Michael Mercier_ (Ryax Technologies); _Gregory Mounié, Denis Trystram_ (Université Grenoble Alpes)
   - __Evaluation de la consommation d'énergie nécessaire à l'éxécution d'un workload dans un datacenter vert__
@@ -98,7 +98,7 @@ header:
   - __Conception d'architectures de traitement radar FMCW sur FPGA à base de modèles comportementaux__
     _Hugues Almorin_ (ARELIS - Groupe LGM); _Bertrand Le Gal, Christophe Jego_ (IMS laboratory, Bordeaux-INP CNRS UMR 5218, Univ. of Bordeaux); _Vincent Kissel_ (ARELIS - Groupe LGM)
   
-- Système III (_Amphi B120_)
+- Système III : Sonia Ben Mokhtar (CNRS/LIRIS) (_Amphi B120_)
   - __PRESPS : a PREdictive model to determine the number of replicas of the operators in Stream Processing Systems__
     _Daniel Wladdimiro, Luciana Arantes_ (LIP6, CNRS, Sorbonne Université); _Nicolas Hidalgo_ (Universidad Diego Portales); _Pierre Sens_ (LIP6, CNRS, Sorbonne Université)
   - __Privacy leakages on NLP models and mitigations through a use case on medical data__
@@ -108,7 +108,7 @@ header:
   - __Mortem: A New Runtime for Intermittent Computing__
     _Antoine Bernabeu, Jean-Luc Béchnennec, Mikaël Briday, Sébastien Faucou, Olivier Roux_ (LS2N)
 
-### 19h - Dinner de Gala ###
+### 19h - Dinner de Gala (_Novotel Annecy Centre_) ###
 
 ## Jeudi 6 juillet
 ### 8h30-9h30 : Keynote architecture (_Amphi B014_)
@@ -130,7 +130,7 @@ header:
   - __Verrouillage multi-granularité dans les graphes orientés__
     _Ayush Pandey, Swan Dubois, Marc Shapiro, Julien Sopena_ (LIP6)
   
-- Système IV (_Amphi B120_)
+- Système IV : Sébastien Monnet (LISTIC/USMB) (_Amphi B120_)
   - __Effets de l'utilisation de transports sécurisés sur les performances d'un resolveur DNS__
     _Etienne Le Louët, Antoine Blin_ (Gandi SAS); _Julien Sopena_ (LIP6); _Ahmed Amamou, Kamel Haddadou_ (Gandi SAS)
   - __Taenite: Gestion transparente de la mémoire persistante en Rust__
@@ -155,7 +155,7 @@ header:
   - __Analyse de performance d'un solveur direct hiérarchique__
     _Abel Calluaud_ (CEA); _Mathieu Faverge_ (Bordeaux INP); _Pierre Ramet_ (IUT Bordeaux); _David Lugato_ (CEA)
 
-- Système V (_Amphi B120_)
+- Système V : Sara Bouchenak (INSA Lyon/LIRIS) (_Amphi B120_)
   - __Comment rater la reproductibilité de ses expériences ?__
     _Quentin Guilloteau, Adrien Faure_ (Univ. Grenoble Alpes); _Millian Poquet_ (IRIT); _Olivier Richard_ (Univ. Grenoble Alpes)
   - __Agrégation opportuniste de messages pour les algorithmes à phases__
@@ -166,7 +166,7 @@ header:
 ### 15h40-16h05 Pause Café
 
 ### 16h05-17h15 Présentations des posters
-- Système (_Amphi B014_)
+- Système : Gil Utard (MIS/UPJV) (_Amphi B014_)
   - __Système d’assistance à la mobilité en milieu urbain des personnes malvoyantes via une substitution de l’information visuelle par un signal auditif__
     _Florian SCALVINI_ (Laboratoire ImViA (EA 7535) - Université de Bourgogne); _Camille BORDEAU, Maxime AMBARD_ (Laboratoire LEAD CNRS UMR 5022 - Université de Bourgogne); _Cyrille MIGNIOT, Julien DUBOIS_ (Laboratoire ImViA (EA 7535) - Université de Bourgogne)
   - __Prototypage rapide pour l’inférence par réseaux de neurones convolutifs sur cibles matérielles hétérogènes__
