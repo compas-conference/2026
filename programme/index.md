@@ -88,7 +88,7 @@ header:
 ### 16h05-16h20 Pause Café
 
 ### 16h20-18h00
-- Archi I (_Amphi B014_)
+- Architecture I :  Sébastien Pillement (Université de Nantes)  (_Amphi B014_)
   - __Un modèle de projection de performance monocœur pour l’exploration de paramètres de conception sur environnement Arm__
     _Clement Gavoille_ (CEA/INRIA)
   - __Processeur RISC-V enrichi avec une unité de microdécodage dynamique__
@@ -179,7 +179,7 @@ header:
     _Augusta MUKAM, Laurent Réveillère, Joachim Bruneau-Queyreix_ (Université de Bordeaux)
 
 
-- Architecture et parallélisme (_Amphi B120_)
+- Architecture et parallélisme : Bertrand Le Gal (Bordeaux INP/IMS) (_Amphi B120_)
   - __Frugal Deep Learning for Multi-Resolution Image Analysis__
     _Marie Reinbigler_ (SAMOVAR, Télécom SudParis, Institut Polytechnique de Paris)
   - __Optimisation multi-objectif pour une replanification en ligne des trajectoires de véhicules autonomes__
@@ -216,7 +216,7 @@ header:
   - __Développement d’un Système Embarqué pour la Détection et l’Identification de Drones sur la Base de Signature RF__
     _Aymane Kharchouf_ (LamiH Université polytechnique de haut de france)
   
-- Archi (_Amphi B120_)
+- Archi : Kevin Martin (Univ. Bretagne Sud/Lab-STICC) (_Amphi B120_)
   - __On the historical evolution of the performance versus cost ratio of Raspberry Pi computers__
     _David Beserra, Nidà Meddouri, Célia Restes, Anys Nait Zerrad, Basma Bouharicha, Aurore Duvernoy_ (École Pour l'Informatique et les Techniques Avancées (EPITA))
   - __Definition and evaluation of anisotropic SoC architectures for the throughput optimisation of streaming applications__
