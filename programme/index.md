@@ -46,7 +46,7 @@ header:
 
 ### 10h45-12h00
 - Parallélisme I : Louis-Claude Canon (Univ. Franche Comté/FEMTO-ST) (_Amphi B014_)
-    - __Interruptions en espace utilisateur pour améliorer la réactivité des communications en calcul haute-performance__
+    - __[Interruptions en espace utilisateur pour améliorer la réactivité des communications en calcul haute-performance](./papiers/compas2023-paper19.pdf)__
       _Charles Goedefroit_ (Centre Inria de l'Université de Bordeaux)
     - __I/O performance of multiscale finite element simulations on HPC platforms__
       _Louis Peyrondet, Francieli Boito_ (Inria Bordeaux); _Antonio Tadeu A. Gomes_ (Laboratório Nacional de Computação Científica (LNCC)); _Luan Teylo_ (Inria Bordeaux)
