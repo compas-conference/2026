@@ -113,17 +113,23 @@ header:
 Pour aller au Novotel au départ de Polytech, les bus 1 et 4 (arrêt juste en face de Polytech) vont tous les 2 à la gare.
 
 Pour ceux qui y vont directement :
+
 Novotel Annecy Centre
 
 1 Place Marie Curie, 1 Avenue Berthollet
+
 74000 ANNECY
+
 FRANCE
 
 GPS:45.903099, 6.12251
 
 Téléphone
+
 +33 4 50 33 54 54
- Fax+33 4 50 45 50 68
+
+Fax+33 4 50 45 50 68
+
 Email de contactH1357@accor.com
 
 
