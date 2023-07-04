@@ -48,9 +48,9 @@ header:
 - Parallélisme I : Louis-Claude Canon (Univ. Franche Comté/FEMTO-ST) (_Amphi B014_)
     - __[Interruptions en espace utilisateur pour améliorer la réactivité des communications en calcul haute-performance](./papiers/compas2023-paper19.pdf)__
       _Charles Goedefroit_ (Centre Inria de l'Université de Bordeaux)
-    - __I/O performance of multiscale finite element simulations on HPC platforms__
+    - __[I/O performance of multiscale finite element simulations on HPC platforms](./papiers/compas2023-final47.pdf)__
       _Louis Peyrondet, Francieli Boito_ (Inria Bordeaux); _Antonio Tadeu A. Gomes_ (Laboratório Nacional de Computação Científica (LNCC)); _Luan Teylo_ (Inria Bordeaux)
-    - __Exploiting data locality to maximize the performance of data-sharing tasksets__
+    - __[Exploiting data locality to maximize the performance of data-sharing tasksets](./papiers/compas2023-final4)__
       _Maxime Gonthier_ (INRIA Bordeaux)
   
 - Système I : Joachim Bruneau-Queyreix (CNRS-LaBRI - University of Bordeaux - Bordeaux INP) (_Amphi B120_)
