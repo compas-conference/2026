@@ -100,13 +100,13 @@ header:
     _Hugues Almorin_ (ARELIS - Groupe LGM); _Bertrand Le Gal, Christophe Jego_ (IMS laboratory, Bordeaux-INP CNRS UMR 5218, Univ. of Bordeaux); _Vincent Kissel_ (ARELIS - Groupe LGM)
   
 - Système III : Sonia Ben Mokhtar (CNRS/LIRIS) (_Amphi B120_)
-  - __PRESPS : a PREdictive model to determine the number of replicas of the operators in Stream Processing Systems__
+  - __[PRESPS : a PREdictive model to determine the number of replicas of the operators in Stream Processing Systems](./papiers/compas2023-final26.pdf)__
     _Daniel Wladdimiro, Luciana Arantes_ (LIP6, CNRS, Sorbonne Université); _Nicolas Hidalgo_ (Universidad Diego Portales); _Pierre Sens_ (LIP6, CNRS, Sorbonne Université)
-  - __Privacy leakages on NLP models and mitigations through a use case on medical data__
+  - __[Privacy leakages on NLP models and mitigations through a use case on medical data](./papiers/compas2023-final65.pdf)__
     _Gaspard Berthelier, Antoine Boutet_ (Insa-Lyon, CITI, INRIA); _Antoine Richard_ (DSN Bron, Hospices Civil de Lyon)
-  - __FLAIR : stocker des flux de données illimités sur des smartphones pour mieux protéger la vie privée des utilisateurs__
+  - __[FLAIR : stocker des flux de données illimités sur des smartphones pour mieux protéger la vie privée des utilisateurs](./papiers/compas2023-paper49.pdf)__
     _Olivier Ruas_ (Pathway); _Rémy Raes, Adrien Luxey-Bitri, Romain Rouvoy_ (Inria)
-  - __Mortem: A New Runtime for Intermittent Computing__
+  - __[Mortem: A New Runtime for Intermittent Computing](./papiers/compas2023-final36.pdf)__
     _Antoine Bernabeu, Jean-Luc Béchnennec, Mikaël Briday, Sébastien Faucou, Olivier Roux_ (LS2N)
 
 ### 19h - Dinner de Gala (_Novotel Annecy Centre_) ###
