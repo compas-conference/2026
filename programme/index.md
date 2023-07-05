@@ -54,11 +54,11 @@ header:
       _Maxime Gonthier_ (INRIA Bordeaux)
   
 - Système I : Joachim Bruneau-Queyreix (CNRS-LaBRI - University of Bordeaux - Bordeaux INP) (_Amphi B120_)
-  - __Towards Robust and Bias-free Federated Learning__
+  - __[Towards Robust and Bias-free Federated Learning](./papiers/compas2023-paper2.pdf)__
       _Ousmane Touat, Sara Bouchenak_ (LIRIS - INSA Lyon)
-  - __Empirical Analysis of Bias in Federated Learning__
+  - __[Empirical Analysis of Bias in Federated Learning](./papiers/compas2023-final3.pdf)__
       _Nawel Benarban, Sara Bouchenak_ (LIRIS, INSA Lyon)
-  - __Mitigating Membership Inference Attacks in Federated Learning__
+  - __[Mitigating Membership Inference Attacks in Federated Learning](./papiers/compas2023-paper15.pdf)__
       _FATIMA EL HATTAB, Sara Bouchenak_ (LIRIS, INSA Lyon)
 
 
@@ -219,7 +219,7 @@ Email de contactH1357@accor.com
     _Valentin Isaac--Chassande_ (CEA)
 
 ### 17h15-18h AG ComPAS (_Amphi B014_)
-### 18h-20 Cocktail Poster (_Accueil Polytech_)
+### 18h-19h30/45 Cocktail Poster (_Accueil Polytech_)
 
 ## Vendredi 7 juillet
 ### 8h45-9h45 : Keynote Parallélisme (_Amphi B014_)
