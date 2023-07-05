@@ -90,13 +90,13 @@ header:
 
 ### 16h20-18h00
 - Architecture I :  Sébastien Pillement (Université de Nantes)  (_Amphi B014_)
-  - __Un modèle de projection de performance monocœur pour l’exploration de paramètres de conception sur environnement Arm__
+  - __[Un modèle de projection de performance monocœur pour l’exploration de paramètres de conception sur environnement Arm](./papiers/compas2023-paper22.pdf)__
     _Clement Gavoille_ (CEA/INRIA)
-  - __Processeur RISC-V enrichi avec une unité de microdécodage dynamique__
+  - __[Processeur RISC-V enrichi avec une unité de microdécodage dynamique](./papiers/compas2023-final27.pdf)__
     _Thomas Nieddu, Bertrand Le Gal_ (Laboratoire IMS); _Sébastien Pillement_ (Laboratoire IETR)
-  - __TrustSoC : Architecture SoC hétérogène légère et efficace sécurisée par conception__
+  - __[TrustSoC : Architecture SoC hétérogène légère et efficace sécurisée par conception](./papiers/compas2023-final30.pdf)__
     _Raphaele Milan, Lilian Bossuet_ (Université Jean Monnet Saint-Etienne, CNRS, Laboratoire Hubert Curien UMR 5516); _Loic Lagadec_ (Lab-STICC, ENSTA Bretagne); _Carlos Andres Lara Nino_ (Université Jean Monnet Saint-Etienne, CNRS, Laboratoire Hubert Curien UMR 5516)
-  - __Conception d'architectures de traitement radar FMCW sur FPGA à base de modèles comportementaux__
+  - __[Conception d'architectures de traitement radar FMCW sur FPGA à base de modèles comportementaux](./papiers/compas2023-final59.pdf)__
     _Hugues Almorin_ (ARELIS - Groupe LGM); _Bertrand Le Gal, Christophe Jego_ (IMS laboratory, Bordeaux-INP CNRS UMR 5218, Univ. of Bordeaux); _Vincent Kissel_ (ARELIS - Groupe LGM)
   
 - Système III : Sonia Ben Mokhtar (CNRS/LIRIS) (_Amphi B120_)
