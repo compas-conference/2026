@@ -66,23 +66,23 @@ header:
 
 ### 14h00-16h05
 - Parallélisme II : Mathieu Favergé (Bordeaux INP/Inria) (_Amphi B014_)
-  - __Towards an Energy-Aware Multi-objective Scheduling Policy for Server-based Edge-Cloud Continuum__
+  - __[Towards an Energy-Aware Multi-objective Scheduling Policy for Server-based Edge-Cloud Continuum](./papiers/compas2023-paper16.pdf)__
       _Anderson Andrei DA SILVA_ (Université Grenoble Alpes, Ryax Technologies); _Yiannis Georgio, Michael Mercier_ (Ryax Technologies); _Gregory Mounié, Denis Trystram_ (Université Grenoble Alpes)
-  - __Evaluation de la consommation d'énergie nécessaire à l'éxécution d'un workload dans un datacenter vert__
+  - __[Evaluation de la consommation d'énergie nécessaire à l'éxécution d'un workload dans un datacenter vert](./papiers/compas2023-final31.pdf)__
       _Damien Landré_ (FEMTO-ST, IRIT); _Louis-Claude Canon, Laurent Philippe_ (FEMTO-ST - Besançon); _Jean-Marc Pierson, Paul Renaud-Goud_ (IRIT - Toulouse)
-  - __Towards Sustainable Low Carbon Emission Mini Data Centres__
+  - __[Towards Sustainable Low Carbon Emission Mini Data Centres](./papiers/compas2023-final25.pdf)__
       _Ismael Samaye, Paul Leloup, Gilles Sassatelli, Abdoulaye Gamatié_ (LIRMM, Université de Montpellier - CNRS)
-  - __Long-term evaluation for sizing low-carbon cloud data centers__
+  - __[Long-term evaluation for sizing low-carbon cloud data centers](./papiers/compas2023-paper50.pdf)__
       _Miguel Felipe Silva Vasconcelos_ (Univ. Grenoble Alpes, Inria, CNRS, Grenoble INP, LIG); _Daniel Cordeiro_ (School of Arts, Sciences and Humanities, University of São Paulo); _Georges Da Costa_ (IRIT, Université de Toulouse, CNRS); _Fanny Dufossé_ (Univ. Grenoble Alpes, Inria, CNRS, Grenoble INP, LIG); _Jean-Marc Nicod, Veronika Rehn-Sonigo_ (Université de Franche-Comté, SUPMICROTECH, CNRS, institut FEMTO-ST)
   
 - Système II : Renaud Lachaize (LIG/UGA) (_Amphi B120_)
-  - __Elasticité à approche combinée pour le traitement des flux dans les environnements de brouillard__
+  - __[Elasticité à approche combinée pour le traitement des flux dans les environnements de brouillard](./papiers/compas2023-paper10.pdf)__
     _Alessio Pagliari, Guillaume Pierre_ (Univ Rennes, Inria, CNRS, IRISA)
-  - __Towards Multimodal Federated Learning__
+  - __[Towards Multimodal Federated Learning](./papiers/compas2023-paper7.pdf)__
     _Silvia Grosso, Ousmane Touat, Sara Bouchenak_ (LIRIS - INSA Lyon)
-  - __Étude et modélisation des mécanismes de surallocation de mémoire pour la consolidation de machines virtuelles__
+  - __[Étude et modélisation des mécanismes de surallocation de mémoire pour la consolidation de machines virtuelles](./papiers/compas2023-final55.pdf)__
     _Simon Lambert_ (ENS de Lyon - LIP - Ciril GROUP - Lyon); _Eddy Caron_ (ENS de Lyon - Inria - LIP - Lyon); _Laurent Lefevre_ (Inria - LIP - Lyon); _Rémi Grivel_ (Ciril GROUP - Lyon)
-  - __Hector: A Framework to Design Scheduling Strategies in Persistent Key-Value Stores__
+  - __[Hector: A Framework to Design Scheduling Strategies in Persistent Key-Value Stores](./papiers/compas2023-final6.pdf)__
     _Anthony Dugois_ (ENS Lyon, Inria); _Louis-Claude Canon_ (FEMTO-ST, Université de Franche-Comté); _Loris Marchal_ (ENS Lyon, CNRS, Inria); _Etienne Rivière_ (ICTEAM, UCLouvain)
   
 
