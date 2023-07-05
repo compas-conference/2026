@@ -127,15 +127,15 @@ Email de contactH1357@accor.com
 ### 09h30-9h45 Pause Café
 ### 9h45-11h50
 - Parallélisme III : Anthony Dugois (ENS Lyon/LIP) (_Amphi B014_)
-  - __SCROOGEVM : Accroître l’utilisation des ressources du cloud en ajustant dynamiquement la surallocation__
+  - __[SCROOGEVM : Accroître l’utilisation des ressources du cloud en ajustant dynamiquement la surallocation](./papiers/compas2023-paper18.pdf)__
     _Pierre Jacquet_ (Inria, Université de Lille); _Thomas Ledoux_ (Inria, IMT Atlantique); _Romain Rouvoy_ (Inria, Université de Lille)
-  - __Parallélisation d’une nouvelle application embarquée pour la détection automatique de météores__
+  - __[Parallélisation d’une nouvelle application embarquée pour la détection automatique de météores](./papiers/compas2023-final20.pdf)__
     _Mathuran Kandeepan, Clara CIocan, Adrien Cassagne, Lionel Lacassagne_ (LIP6)
-  - __Partitionnement de maillage pour solveurs numériques parallélisés et distribués en tâches__
+  - __[Partitionnement de maillage pour solveurs numériques parallélisés et distribués en tâches](./papiers/compas2023-final23.pdf)__
     _Alice Lasserre_ (Inria Centre of the University of Bordeaux)
-  - __Rethinking Data Race Detection in RMA-Analyzer__
+  - __[Rethinking Data Race Detection in RMA-Analyzer](./papiers/compas2023-final28.pdf)__
     _Radjasouria Vinayagale_ (Atos)
-  - __Verrouillage multi-granularité dans les graphes orientés__
+  - __[Verrouillage multi-granularité dans les graphes orientés](./papiers/compas2023-final33.pdf)__
     _Ayush Pandey, Swan Dubois, Marc Shapiro, Julien Sopena_ (LIP6)
   
 - Système IV : Lynda Ferraguig (LISTIC/USMB) (_Amphi B120_)
