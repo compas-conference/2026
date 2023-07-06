@@ -175,32 +175,32 @@ Email de contactH1357@accor.com
 
 ### 16h05-17h15 Présentations des posters
 - Système : Gil Utard (MIS/UPJV) (_Amphi B014_)
-  - __Système d’assistance à la mobilité en milieu urbain des personnes malvoyantes via une substitution de l’information visuelle par un signal auditif__
+  - __[Système d’assistance à la mobilité en milieu urbain des personnes malvoyantes via une substitution de l’information visuelle par un signal auditif](./papiers/compas2023-paper9.pdf)__
     _Florian SCALVINI_ (Laboratoire ImViA (EA 7535) - Université de Bourgogne); _Camille BORDEAU, Maxime AMBARD_ (Laboratoire LEAD CNRS UMR 5022 - Université de Bourgogne); _Cyrille MIGNIOT, Julien DUBOIS_ (Laboratoire ImViA (EA 7535) - Université de Bourgogne)
-  - __Prototypage rapide pour l’inférence par réseaux de neurones convolutifs sur cibles matérielles hétérogènes__
+  - __[Prototypage rapide pour l’inférence par réseaux de neurones convolutifs sur cibles matérielles hétérogènes](./papiers/compas2023-paper21.pdf)__
     _Sean Marotta_ (ImViA - Université de Bourgogne); _Alessandro Carlini_ (LEAD - Université de Bourgogne); _Vincent Brost, Cyrille Migniot_ (ImViA - Université de Bourgogne); _Manon Ansart, Michel Paindavoine_ (LEAD - Université de Bourgogne); _Julien Dubois_ (ImViA - Université de Bourgogne)
-  - __téléGC : Un garbage collector (GC) délocalisé grâce à lamémoire désagrégée__
+  - __[téléGC : Un garbage collector (GC) délocalisé grâce à lamémoire désagrégée](./papiers/compas2023-paper38.pdf)__
     _Adam Chader, Yohan Pipereau, Mathieu Bacou, Gaël Thomas_ (Télécom SudParis)
-  - __CADiA: A CPU Cache Allocation System for Distributed Applications__
+  - __[CADiA: A CPU Cache Allocation System for Distributed Applications](./papiers/compas2023-paper46.pdf)__
     _Armel JEATSA, Boris TEABE, Daniel HAGIMONT_ (University of Toulouse)
-  - __Utilisation de noeuds de confiance pour les protocoles d’échantillonage de pairs tolérants aux attaques byzantines__
+  - __[Utilisation de noeuds de confiance pour les protocoles d’échantillonage de pairs tolérants aux attaques byzantines](./papiers/compas2023-paper48.pdf)__
     _Augusta MUKAM, Laurent Réveillère, Joachim Bruneau-Queyreix_ (Université de Bordeaux)
 
 
 - Architecture et parallélisme : Bertrand Le Gal (Bordeaux INP/IMS) (_Amphi B120_)
-  - __Frugal Deep Learning for Multi-Resolution Image Analysis__
+  - __[Frugal Deep Learning for Multi-Resolution Image Analysis](./papiers/compas2023-paper8.pdf)__
     _Marie Reinbigler_ (SAMOVAR, Télécom SudParis, Institut Polytechnique de Paris)
-  - __Optimisation multi-objectif pour une replanification en ligne des trajectoires de véhicules autonomes__
+  - __[Optimisation multi-objectif pour une replanification en ligne des trajectoires de véhicules autonomes](./papiers/compas2023-final34.pdf)__
     _Kilian LE GALL, Laurent Lemarchand, Catherine Dezan_ (Faculté de Sciences et Techniques - Université de Bretagne-Occidentale)
-  - __Prise de décision distribuée et embarquée dans les systèmes autonomes multi-UAV pour une sécurité des services__
+  - __[Prise de décision distribuée et embarquée dans les systèmes autonomes multi-UAV pour une sécurité des services](./papiers/compas2023-final39.pdf)__
     _Mohand HAMADOUCHE, Catherine Dezan, David Espes_ (Lab-STICC, UBO); _Kalinka Branco_ (USP, Brésil)
-  - __New Parallelization Approach in Deep Learning Using CPU/GPU Architectures for Memory Optimization__
+  - __[New Parallelization Approach in Deep Learning Using CPU/GPU Architectures for Memory Optimization](./papiers/compas2023-final51.pdf)__
     _Luis A. Torres N._, Carlos J. Barrios H., Yves Denneulin_
-  - __Scratchy - An open-sourcee generator of lightweight scratchpad-based multi-RISCV architecture__
+  - __[Scratchy - An open-sourcee generator of lightweight scratchpad-based multi-RISCV architecture](./papiers/compas2023-final12.pdf)__
     _Joseph Faye_ (INSA RennesLaboratoire IETR / INSA Rennes); _Florent Kermarrex_ (Enjoy-digital); _Shuvra Bhattacharyya, Jean-Francois Nezan, Maxime Pelcat_ (Laboratoire IETR / INSA Rennes)
-  - __Architecture d’accélérateur matériel de calcul pour le décodage de signaux neuronaux dans une interface cerveau-machine__
+  - __[Architecture d’accélérateur matériel de calcul pour le décodage de signaux neuronaux dans une interface cerveau-machine](./papiers/compas2023-final14.pdf)__
     _Joe Saad_ (CEA-Grenoble)
-  - __Conception d’un sous-système mémoire pour traitement de données creuses)__
+  - __[Conception d’un sous-système mémoire pour traitement de données creuses)](./papiers/compas2023-paper29.pdf)__
     _Valentin Isaac--Chassande_ (CEA)
 
 ### 17h15-18h AG ComPAS (_Amphi B014_)
