@@ -217,17 +217,17 @@ Email de contactH1357@accor.com
 ### 09h45-10h05 Pause Café
 ### 10h05-11h45
 - Parallelisme : Sébastien Monnet (LISTIC/USMB) (_Amphi B014_)
-  - __Portable vectorization and precision tuning through a search space exploration and machine learning__
+  - __[Portable vectorization and precision tuning through a search space exploration and machine learning](./papiers/compas2023-final11.pdf)__
     _Lana Scravaglieri_ (Inria, IFPEN)
-  - __Extending the COMET component model to support hierarchical composite data: Aevol case study__
+  - __[Extending the COMET component model to support hierarchical composite data: Aevol case study](./papiers/compas2023-paper35.pdf)__
     _LACMOU ZEUTOUO Jerry, Christian Perez, Thierry Gautier_ (LIP – Inria Avalon); _Jonathan Rouzaud-Cornabas_ (LIRIS – Inria Beagl)
-  - __Développement d’un Système Embarqué pour la Détection et l’Identification de Drones sur la Base de Signature RF__
+  - __[Développement d’un Système Embarqué pour la Détection et l’Identification de Drones sur la Base de Signature RF](./papiers/compas2023-paper56.pdf)__
     _Aymane Kharchouf_ (LamiH Université polytechnique de haut de france)
   
 - Architecture : Kevin Martin (Univ. Bretagne Sud/Lab-STICC) (_Amphi B120_)
-  - __On the historical evolution of the performance versus cost ratio of Raspberry Pi computers__
+  - __[On the historical evolution of the performance versus cost ratio of Raspberry Pi computers](./papiers/compas2023-final37.pdf)__
     _David Beserra, Nidà Meddouri, Célia Restes, Anys Nait Zerrad, Basma Bouharicha, Aurore Duvernoy_ (École Pour l'Informatique et les Techniques Avancées (EPITA))
-  - __Definition and evaluation of anisotropic SoC architectures for the throughput optimisation of streaming applications__
+  - __[Definition and evaluation of anisotropic SoC architectures for the throughput optimisation of streaming applications](./papiers/compas2023-final32.pdf)__
     _Joseph Faye_ (Laboratoir IETR | INSA Rennes); Lucas Esteves-Rocha (INSA Rennes); _Florent Kermarrec_ (Enjoy-Digital); _Kevin Martin_ (Laboratoire LabSTICC); _Shuvra Bhattacharyya_ (INSA Rennes | University of Maryland); _Jean-Francois Nezan, Maxime Pelcat_ (Laboratoire IETR | INSA Rennes)
 
 ### 12h Aurevoir (paniers repas)
