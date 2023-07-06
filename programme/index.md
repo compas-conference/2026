@@ -119,13 +119,13 @@ GPS:45.903099, 6.12251
 Email de contactH1357@accor.com
 
 ## Jeudi 6 juillet
-### 8h30-9h30 : Keynote architecture (_Amphi B014_)
+### 8h45-9h45 : Keynote architecture (_Amphi B014_)
 - Bernard Goossens, université de Perpignan
     - Construire son processeur chez soi
     - Chair : Kevin Martin (Univ. Bretagne Sud/Lab-STICC) 
 
-### 09h30-9h45 Pause Café
-### 9h45-11h50
+### 09h45-10h00 Pause Café
+### 10h00-12h05
 - Parallélisme III : Anthony Dugois (ENS Lyon/LIP) (_Amphi B014_)
   - __[SCROOGEVM : Accroître l’utilisation des ressources du cloud en ajustant dynamiquement la surallocation](./papiers/compas2023-paper18.pdf)__
     _Pierre Jacquet_ (Inria, Université de Lille); _Thomas Ledoux_ (Inria, IMT Atlantique); _Romain Rouvoy_ (Inria, Université de Lille)
@@ -209,7 +209,7 @@ Email de contactH1357@accor.com
 ## Vendredi 7 juillet
 ### 8h45-9h45 : Keynote Parallélisme (_Amphi B014_)
 - Christian Perez, Inria
-  - TBA
+  - Des plates-formes d'expérimenttation Grid'5000/FIT à SLICES-FR
   - Chair : Sébastien Monnet (LISTIC/USMB)
 
 ### 09h45-10h05 Pause Café
