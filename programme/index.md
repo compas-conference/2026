@@ -154,21 +154,21 @@ Email de contactH1357@accor.com
 
 ### 14h00-15h40
 - Parallélisme IV : Julien Sopena (SU/LIP6) (_Amphi B014_)
-  - __Passage vers le modèle de programmation par tâches hétérogènes pour l'exploitation optimale des supercalculateurs actuels et futurs__
+  - __[Passage vers le modèle de programmation par tâches hétérogènes pour l'exploitation optimale des supercalculateurs actuels et futurs](./papiers/compas2023-final41.pdf)__
     _Manuel Ferat_ (CEA, DAM, DIF)
-  - __Parallélisation automatique de chaînes de tâches pour la Radio Logicielle__
+  - __[Parallélisation automatique de chaînes de tâches pour la Radio Logicielle](./papiers/compas2023-final45.pdf)__
     _Diane Orhan_ (INRIA Bordeaux)
-  - __Vers un solveur direct à base de tâches pour des systèmes linéaires FEM/BEM creux/denses__
+  - __[Vers un solveur direct à base de tâches pour des systèmes linéaires FEM/BEM creux/denses](./papiers/compas2023-paper52.pdf)__
     _Emmanuel Agullo_ (Centre Inria de l'Université de Bordeaux); _Alfredo Buttari_ (Institut de Recherche en Informatique de Toulouse); _Marek Felšöci_ (Inria Nancy - Grand Est / Laboratoire ICube); _Guillaume Sylvand_ (Airbus Central R&T)
-  - __Analyse de performance d'un solveur direct hiérarchique__
+  - __[Analyse de performance d'un solveur direct hiérarchique](./papiers/compas2023-paper53.pdf)__
     _Abel Calluaud_ (CEA); _Mathieu Faverge_ (Bordeaux INP); _Pierre Ramet_ (IUT Bordeaux); _David Lugato_ (CEA)
 
 - Système V : Sara Bouchenak (INSA Lyon/LIRIS) (_Amphi B120_)
-  - __Comment rater la reproductibilité de ses expériences ?__
+  - __[Comment rater la reproductibilité de ses expériences ?](./papiers/compas2023-final42.pdf)__
     _Quentin Guilloteau, Adrien Faure_ (Univ. Grenoble Alpes); _Millian Poquet_ (IRIT); _Olivier Richard_ (Univ. Grenoble Alpes)
-  - __Agrégation opportuniste de messages pour les algorithmes à phases__
+  - __[Agrégation opportuniste de messages pour les algorithmes à phases](./papiers/compas2023-final43.pdf)__
     _Célia Mahamdi, Jonathan Lejeune, Julien Sopena, Pierre Sens_ (Sorbonne université, CNRS, LIP6)
-  - __Apprentissage fédéré pour l’intelligence ambiante : une approche système embarqué, distribuée et intermittente__
+  - __[Apprentissage fédéré pour l’intelligence ambiante : une approche système embarqué, distribuée et intermittente](./papiers/compas2023-paper24.pdf)__
     _Antoine Bonneau, Frédéric Le Mouël, Fabien Mieyeville_ (Univ Lyon, INSA Lyon, Inria, CITI, Ecole Centrale de Lyon, CNRS) 
 
 ### 15h40-16h05 Pause Café
