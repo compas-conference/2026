@@ -139,15 +139,15 @@ Email de contactH1357@accor.com
     _Ayush Pandey, Swan Dubois, Marc Shapiro, Julien Sopena_ (LIP6)
   
 - Système IV : Lynda Ferraguig (LISTIC/USMB) (_Amphi B120_)
-  - __Effets de l'utilisation de transports sécurisés sur les performances d'un resolveur DNS__
+  - __[Effets de l'utilisation de transports sécurisés sur les performances d'un resolveur DNS](./papiers/compas2023-final40.pdf)__
     _Etienne Le Louët, Antoine Blin_ (Gandi SAS); _Julien Sopena_ (LIP6); _Ahmed Amamou, Kamel Haddadou_ (Gandi SAS)
-  - __Taenite: Gestion transparente de la mémoire persistante en Rust__
+  - __[Taenite: Gestion transparente de la mémoire persistante en Rust](./papiers/compas2023-final57.pdf)__
     _Louis Boulanger, Yves Denneulin, Frédéric Wagner_ (LIG)
-  - __FairFetched: Fair Quality-of-Service for Decentralized Marketplace Search__
+  - __[FairFetched: Fair Quality-of-Service for Decentralized Marketplace Search](./papiers/compas2023-paper60.pdf)__
     _Matthieu BETTINGER_ (LIRIS-DRIM INSA Lyon); _Sonia BEN MOKHTAR_ (LIRIS-DRIM INSA Lyon CNRS); _Anthony SIMONET-BOULOGNE_ (iExec)
-  - __A robust smartphone-based architecture for prolonged monitoring of gait__
+  - __[A robust smartphone-based architecture for prolonged monitoring of gait](./papiers/compas2023-final61.pdf)__
     _El Amine Bechorfa_ (Insa-Lyon, CITI, CREATIS); _Antoine Boutet_ (Insa-Lyon, CITI, INRIA); _Carole Frindel_ (Insa-Lyon, CREATIS)
-  - __xOS: La fin du règne des processus__
+  - __[xOS: La fin du règne des processus](./papiers/compas2023-paper58.pdf)__
     _Dorian Goepp_ (Univ. Grenoble Alpes); _Stella Bitchebe_ (McGill); _Nel Nanvou, Thomas Messi_ (University of Yaounde I); _Renaud Lachaize_ (Univ. Grenoble Alpes); _Alain Tchana_ (Grenoble INP)
   
 ### 12h15-14h00 Déjeuner (_Jean XXIII_)
