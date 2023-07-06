@@ -185,6 +185,8 @@ Email de contactH1357@accor.com
     _Armel JEATSA, Boris TEABE, Daniel HAGIMONT_ (University of Toulouse)
   - __[Utilisation de noeuds de confiance pour les protocoles d’échantillonage de pairs tolérants aux attaques byzantines](./papiers/compas2023-paper48.pdf)__
     _Augusta MUKAM, Laurent Réveillère, Joachim Bruneau-Queyreix_ (Université de Bordeaux)
+  - __Towards Intrusion detection systems dedicated to agriculture based on federated learning__
+    _Usman ISAH_ (LIFO, INSA Centre Val de Loire)
 
 
 - Architecture et parallélisme : Bertrand Le Gal (Bordeaux INP/IMS) (_Amphi B120_)
