@@ -5,7 +5,7 @@ layout: page
 #
 title: "Conférence francophone d'informatique en Parallélisme, Architecture et Système"
 header:
-   image_fullwidth: "annecy.jpg"
+   image_fullwidth: "nantes.jpg"
    permalink: "/"
 ---
 
@@ -19,5 +19,5 @@ recherche du monde francophone et favorise l’émergence de nouveaux sujets de 
 emphase sur l'intégration des jeunes chercheurs.
 {: style="text-align: justify;"}
 
-Elle est organisée par le LISTIC - Laboratoire d’Informatique, Systèmes, Traitement de l’Information et de la Connaissance - de l'Université Savoie Mont Blanc.
+Elle est organisée par l'[IETR (Institut d'Electronique et des Technologies du numéRique)](https://www.ietr.fr) et le [LS2N (Laboratoire des Sciences du Numérique de Nantes)](https://www.ls2n.fr) - [Nantes Université](https://www.univ-nantes.fr).
 {: style="text-align: justify;"}

@@ -7,9 +7,9 @@
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 
 leobago: # replace this with your info
-  name: "Sébastien Monnet"
+  name: "Jean-Luc Béchennec"
   siterole: "webmaster"
-  uri: https://www.univ-smb.fr/listic/pages-en/sebastien-monnet-en/
-  email: sebastien.monnet[at]usmb[dot]fr
-  twitter: "@sebmonnet"
+#  uri: https://www.univ-smb.fr/listic/pages-en/sebastien-monnet-en/
+  email: jean-luc.bechennec[at]ls2n[dot]fr
+#  twitter: "@sebmonnet"
 # you can add more authors here

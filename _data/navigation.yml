@@ -22,13 +22,13 @@
   url: "/inscription"
   side: left
 
-- title: Tutoriels
-  url: "/tutoriaux"
-  side: left
+# - title: Tutoriels
+#   url: "/tutoriaux"
+#   side: left
 
-- title: Programme
-  url: "/programme"
-  side: left
+# - title: Programme
+#   url: "/programme"
+#   side: left
 
 #- title: "Dropdown Menu"
 #  url: "#"
