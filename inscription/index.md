@@ -22,6 +22,6 @@ L'inscription comprend :
   * les déjeuners, et différentes pauses
   * le gala, cocktails et autres évenements.
   
-Tarif : 250 € avant 18 juin, 360 € à partir du 18 juin.
+Tarif : 250 € avant le 18 juin, 360 € à partir du 18 juin.
 
 **Le lien d'inscription sera disponible ultérieurement via ScienceConf**
