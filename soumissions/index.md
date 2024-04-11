@@ -59,15 +59,16 @@ Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/
 ### **Dates importantes**
 {: style="text-align: center;"}
 
-+ Échéance pour la soumission d’articles et de résumé vendredi 19 avril 2024
-+ Notification aux auteurs: vendredi 24 mai 2024
++ Échéance pour la soumission d’articles et de résumé vendredi **19 avril 2024**
++ Notification aux auteurs: vendredi **31 mai 2024**
++ Version définitive : vendredi **21 juin**
 
 #### **Autres dates importantes**
 {: style="text-align: center;"}
 
-+ Échéance de proposition d’organisation d’ateliers et tutoriels: vendredi 24 mai 2024
-+ Date limite d’inscription à tarif réduit: 18 juin 2024
-+ Journée ateliers et tutoriels: mardi 2 juillet 2024 (n’hésitez pas à contacter [Sébastien Pillement](mailto:sebastien.pillement@univ-nantes.fr) dès à présent pour leur mise en place)
++ Échéance de proposition d’organisation d’ateliers et tutoriels: vendredi **24 mai 2024**
++ Date limite d’inscription à tarif réduit: **18 juin 2024**
++ Journée ateliers et tutoriels: mardi **2 juillet 2024** (n’hésitez pas à contacter [Sébastien Pillement](mailto:sebastien.pillement@univ-nantes.fr) dès à présent pour leur mise en place)
 
 {: style="text-align: justify;"}
 
