@@ -23,7 +23,7 @@ Elle est organisée par l'[IETR (Institut d'Electronique et des Technologies du 
 
 ### Dates importantes
 
-* Date limite de soumission : **19 avril**
+* Date limite de soumission : ~~&nbsp;19 avril&nbsp;~~ **5 mai**
 * Notification : **31 mai**
 * Version définitive : **21 juin**
 
