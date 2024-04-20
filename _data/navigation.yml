@@ -10,6 +10,10 @@
   url: "/soumissions"
   side: left
 
+- title: Workshop
+  url: "/workshops"
+  side: left
+
 - title: Comités
   url: "/comites"
   side: left

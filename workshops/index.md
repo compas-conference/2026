@@ -1,0 +1,23 @@
+---
+layout: page
+#
+# Content
+#
+title: ""
+teaser: ""
+header:
+    image_fullwidth: "nantes.jpg"
+    permalink: "/"
+---
+
+## **Workshop**
+
+### **OSSMOSE**
+
+#### **Open-Source Software et Matériel Open-SourcE**
+
+2 juillet 2024
+
+L’objectif du workshop est de mettre en évidence les interactions réciproques entre le matériel et le logiciel, à travers des outils et des architectures matérielles open-source. L’idée est de mixer des présentations avec une ou plusieurs sessions de manipulation.
+
+[Consulter le programme du workshop](https://www.gdr-soc.cnrs.fr/2024/04/15/ossmose/)
