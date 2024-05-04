@@ -56,10 +56,12 @@ Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/
 
 **[https://crp.info.ucl.ac.be/compas2024/](https://crp.info.ucl.ac.be/compas2024/)**
 
+**Suite à un problème technique sur HotCRP, la deadline a été étendue au mardi 7 mai 2024**
+
 ### **Dates importantes**
 {: style="text-align: center;"}
 
-+ Échéance pour la soumission d’articles et de résumé vendredi ~~&nbsp;19 avril 2024&nbsp;~~ **5 mai 2024**
++ Échéance pour la soumission d’articles et de résumé vendredi ~~&nbsp;19 avril 2024&nbsp;~~ ~~5 mai 2024~~ **7 mai 2024**
 + Notification aux auteurs: vendredi **31 mai 2024**
 + Version définitive : vendredi **21 juin**
 
