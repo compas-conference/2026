@@ -11,24 +11,37 @@ header:
 ---
 
 
-### **Tutoriels**
+## **Tutoriels**
 
-La première journée est dédiée aux tutoriels et autres groupes de travail. 
+Les tutoriels seront organisés le 2 Juillet 2024, avant la conférence pour une durée d'environ 3h00 (possibilité de demander deux créneaux pour un tutoriel de 6h sur la journée). La participation aux tutoriels est gratuite pour tous les participants à la conférence COMPAS 2024.
 
-Il y a 4 tutoriels :
+### Objectifs
 
-Matin
+Les tutoriels doivent servir un ou plusieurs des objectifs suivants :
 
-   - "***Upmem***", comment faire face au memory wall ? Vue d'ensemble de la solution d'Upmem suivie d'explications détaillées sur la programmation d'une application sur ces systèmes, et les différentes implications. Plus de détails [ici](https://www.upmem.com/technology/).
-   - "***Tout est sous contrôle***", Ce tutoriel vise à initier les participants à la théorie du contrôle pour la gestion en ligne de systèmes informatique et à présenter la méthodologie à travers un exemple pratique, plus de détails [ici](https://notes.inria.fr/s/5JJiBHhnz#).
+- Initier les novices aux principaux thèmes des différentes communautés COMPAS.
+- Introduire des méthodes et outils à des non spécialistes dans un sous-domaine de COMPAS.
+- Motiver et expliquer un sujet d’importance émergent.
 
-Après-midi
+Nous encourageons des tutoriels avec une composante pratique ou un autre élément interactif.
 
-- "***Federated learning***", introduction to Federated learning with Flower and advanced frameworks quelques ressources [ici](https://github.com/albenoit/DeepLearningTools).
+### Thématiques
 
-- ***Vers une étude scientifique expérimentale reproductible avec Guix***, plus de détails [ici](https://tutoriel-guix-compas-2023.gitlabpages.inria.fr/resume/).
+Toutes les thématiques relevant de la conférence (Architecture, Systèmes et Parallélisme) sont les bienvenues. 
+
+### Dates importantes
    
-   
-### **Inscription**
+- Date limite de soumission des tutoriels : 03/06/2024
+- Notification auteurs et affichage tutoriels acceptés : 10/06/2024
+- Résumés des tutoriels et pages web : 15/06/2024
 
-L'inscription est obligatoire pour les tutoriels, ->[ici](https://framaforms.org/inscription-aux-tutoriels-1687353331) <- le lien framaform pour vous inscrire.
+### Instructions de soumission
+
+Les propositions de tutoriels doivent être soumises par email à <sebastien.pillement@univ-nantes.fr>
+
+Les propositions doivent être soumises dans un seul mail contenant les informations suivantes :
+
+- Une description du tutoriel en deux phrases
+- Un déroulé détaillé du tutoriel sous forme de points
+- Une brève caractérisation du public cible potentiel du tutoriel, y compris les connaissances pré-requises
+- Une brève description du matériel requis.
