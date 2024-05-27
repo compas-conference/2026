@@ -14,6 +14,10 @@
   url: "/workshops"
   side: left
 
+- title: Keynotes
+  url: "/programme"
+  side: left
+
 - title: Comités
   url: "/comites"
   side: left
