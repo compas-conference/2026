@@ -22,6 +22,16 @@ header:
 
 Le calcul parallèle a pendant longtemps été exprimé essentiellement par des processus ou des threads, ordonnancés par le système ou par une bibliothèque utilisateur. Durant la quinzaine d'années passée, le paradigme de programmation par tâche a cependant pris de l'ampleur, visible par exemple dans son émergence au sein du standard OpenMP. Dans cet exposé, on montrera comment la notion de tâche fournit des informations que les précédents paradigmes n'incluaient pas, et notamment sur le futur. Celles-ci se révèlent précieuses pour optimiser l'exécution du calcul sur les plateformes modernes imbriquant processeurs multicœurs, accélérateurs de calcul, et système distribué.
 
+
+### Philippe Swartvagher
+
+**Mercredi 3 juillet**
+
+{: style="font-size: 130%;"}
+*Making reproducible and publishable experiments*
+
+For a long time, scientific publications focused only on experimental results, ignoring how, concretely, the results were obtained, making difficult for readers, but also for the author, to reproduce the experiments. Things are slowly changing: publication of so-called "artifacts" are encouraged by journals and conferences. However, releasing scripts and programs used for experiments can be challenging: how to organize the material? how to clearly document the instructions? how to ensure reproducibility of the experiments? how to ensure long-term availability? Several answers are possible to all these questions. In this talk, I will try to summarize how and why my methodology to build reproducible artifacts evolved over several years in the research area.
+
 ### Sara Bouchenak
 
 **Jeudi 4 juillet**
