@@ -38,9 +38,9 @@ header:
  
 ##### Présidents : 
 
-+ Julie Dumas (Parallélisme, TIMA, UGA)
++ Julie Dumas (Architecture, TIMA, UGA)
 + Jean-Marc Menaud (Système, LS2N, IMT Atlantique)
-+ François Trahay (Architecture, Télécom SudParis)
++ François Trahay (Parallélisme, Télécom SudParis)
 
 ##### Membres :
 
