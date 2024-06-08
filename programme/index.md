@@ -15,7 +15,11 @@ header:
 
 ## Mardi 2 juillet
 
-### Tutoriels
+### 10h-12h Tutoriels
+
+### 12h-14h Pause déjeuner
+
+### 14H-17h Tutoriels
 
 ## Mercredi 3 juillet
 
@@ -45,6 +49,8 @@ header:
 		_Jean-françois Dumollard_, _Mathieu Bacou_ (INRIA, Télécom SudParis, IMT, IPP) ; _Olivier Levillain_ (Télécom SudParis, IMT, IPP) ; _Gaël Thomas_ (INRIA)
 	- __Zero Trust Architecture: The Case for Logics__  
 		_Mariam Wehbe_, _Laurent Bobelin_, _Sabine Frittella_ (INSA CVL)
+
+### 12h30-14h Pause déjeuner
 
 ### 14h-16h
 
@@ -96,6 +102,8 @@ header:
 	- __Predicting GPU kernel’s performance on upcoming architectures__  
 		_Lucas Van lanker_ (CEA) ; _Hugo Taboada_ (CEA, DAM, DIF, F-91297 Arpajon, France) ; _Elisabeth Brunet_, _François Trahay_ (Télécom SudParis)
 
+### 19h-21h Dîner de gala
+
 ## Jeudi 4 juillet
 
 ### 9h-10h Keynote 
@@ -124,6 +132,8 @@ header:
 		_Meven Mognol_ (Université de Rennes, UPMEM) ; _Dominique Lavenier_ (CNRS) ; _Julien Legriel_ (UPMEM)
 	- __Un prototype de cache de métadonnées pour le passage à l’échelle de NixOS-Compose__  
 		_Dorian Goepp_, _Samuel Brun_, _Olivier Richard_ (Univ. Grenoble Alpes, INRIA, CNRS, Grenoble-INP, LIG) ; _Quentin Guilloteau_ (Department of Mathematics and Computer Science, University of Basel)
+
+### 12h15-14h Pause déjeuner
 
 ### 14h-16h
 
@@ -158,6 +168,8 @@ header:
 
 ### 16h30 Session posters
 
+### 19h-21h Cocktail posters
+
 ## Vendredi 5 juillet
 
 ### 9h-10h Keynote 
@@ -186,3 +198,5 @@ header:
 		_Przemyslaw Bakowski_ (Nantes Université - LS2N)
 	- __AsteRISC : Architectures de processeur RISC-V flexibles et outils pour l’exploration de l’espace de conception__  
 		_Jonathan Saussereau_, _Christophe Jégo_, _Camille Leroux_, _Jean-baptiste Bégueret_ (Laboratoire IMS)
+
+### 12h15 Bilan et clôture
