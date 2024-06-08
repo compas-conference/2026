@@ -15,6 +15,10 @@
   side: left
 
 - title: Keynotes
+  url: "/keynotes"
+  side: left
+
+- title: Programme
   url: "/programme"
   side: left
 

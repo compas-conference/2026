@@ -11,50 +11,178 @@ header:
 ---
 
 
-## **Keynotes**
+# **Programme**
 
-### Samuel Thibault
+## Mardi 2 juillet
 
-**Mercredi 3 juillet**
+### Tutoriels
 
-{: style="font-size: 130%;"}
-*Programmation par tâches: une vision du futur pour le calcul parallèle*
+## Mercredi 3 juillet
 
-Le calcul parallèle a pendant longtemps été exprimé essentiellement par des processus ou des threads, ordonnancés par le système ou par une bibliothèque utilisateur. Durant la quinzaine d'années passée, le paradigme de programmation par tâche a cependant pris de l'ampleur, visible par exemple dans son émergence au sein du standard OpenMP. Dans cet exposé, on montrera comment la notion de tâche fournit des informations que les précédents paradigmes n'incluaient pas, et notamment sur le futur. Celles-ci se révèlent précieuses pour optimiser l'exécution du calcul sur les plateformes modernes imbriquant processeurs multicœurs, accélérateurs de calcul, et système distribué.
+### 9h-10h Keynote parallélisme
+- **Samuel Thibault** - Université de Bordeaux, LaBRI
+    - *[Programmation par tâches: une vision du futur pour le calcul parallèle](/keynotes/#samuel-thibault)*
 
+### 10h-10h30 Keynote méthodologie
+- **Philippe Swartvagher** - Enseirb-Matmeca, Inria
+    - *[Making reproducible and publishable experiments](/keynotes/#philippe-swartvagher)*
 
-### Philippe Swartvagher
+### 10h30-11h Pause café
 
-**Mercredi 3 juillet**
+### 11h-12h15
 
-{: style="font-size: 130%;"}
-*Making reproducible and publishable experiments*
+- Communications réseau
+	- __Assigning Cartesian grid area to processes__  
+		_Candice Astier_ (UVSQ LiParad & Eviden) ; _Devan Sohier_ (UVSQ LiParad) ; _Antoine Capra_ (Eviden)
+	- __Interruptions en espace utilisateur délivrées par la carte réseau BXI__  
+		_Charles Goedefroit_ (Eviden)
+	- __Analyse et optimisation des échanges inter-nœuds dans un contexte MSA__  
+		_Thibaut Pepin_ (CEA)
+- Sécurité
+	- __Simuler l'environnement réseau de sandboxes pour cacher les pauses d'introspection de machines virtuelles__  
+		_Léo Cosseron_, _Martin Quinson_ (Univ. Rennes, Inria, CNRS, IRISA) ; _Louis Rilling_ (DGA) ; _Matthieu Simonin_ (Inria)
+	- __Fork-nox: a new virtualization technique to enforce system security__  
+		_Jean-françois Dumollard_, _Mathieu Bacou_ (INRIA, Télécom SudParis, IMT, IPP) ; _Olivier Levillain_ (Télécom SudParis, IMT, IPP) ; _Gaël Thomas_ (INRIA)
+	- __Zero Trust Architecture: The Case for Logics__  
+		_Mariam Wehbe_, _Laurent Bobelin_, _Sabine Frittella_ (INSA CVL)
 
-For a long time, scientific publications focused only on experimental results, ignoring how, concretely, the results were obtained, making difficult for readers, but also for the author, to reproduce the experiments. Things are slowly changing: publication of so-called "artifacts" are encouraged by journals and conferences. However, releasing scripts and programs used for experiments can be challenging: how to organize the material? how to clearly document the instructions? how to ensure reproducibility of the experiments? how to ensure long-term availability? Several answers are possible to all these questions. In this talk, I will try to summarize how and why my methodology to build reproducible artifacts evolved over several years in the research area.
+### 14h-16h
 
-### Sara Bouchenak
+- Scheduling
+	- __Scheduling Jobs Under a Variable Number of Processors__  
+		_Joachim Cendrier_, _Anne Benoit_ (ENS Lyon) ; _Frédéric Vivien_ (Inria)
+	- __Modeling and Scheduling Optimization of Software Defined Radio chains on Multicore Architectures__  
+		_Diane Orhan_, _Diane Orhan_ (University of Bordeaux)
+	- __Simulateur pour le prototypage rapide d'ordonnanceurs à réservation de ressources pour les plateformes multicœurs supportant le DVFS et DPM__  
+		_François Illien_, _Audrey Queudet_, _Houssam-eddine Zahaf_, _François Illien_ (Nantes Université)
+	- __Rejeu de traces historiques avec feedback : vers des simulations plus réalistes de systèmes distribués__  
+		_Maël Madon_, _Georges Da costa_, _Jean-marc Pierson_ (IRIT)
+	- __Stratégie d’allocation de mémoire désagrégée en HPC__  
+		_Robin Boezennec_, _Guillaume Pallez_ (INRIA Rennes) ; _Danilo Carastan-santos_ (University Grenoble Alpes) ; _Fanny Dufosse_ (INRIA)
+	- __StarONNX : Un ordonanceur dynamique pour une inférence rapide et à haut débit sur des ressources hétérogènes__  
+		_Olivier Beaumont_, _Jean-françois David_, _Lionel Eyraud-dubois_ (Inria) ; _Samuel Thibault_ (Université de Bordeaux)
+- Edge computing
+	- __SLA dynamiques et Fog Computing__  
+		_Amaury Sauret_ (LIPN/L2TI) ; _Christophe Cerin_ (LIPN) ; _Khaled Boussetta_, _Gladys Diaz_ (L2TI)
+	- __Ordonnancement et Assignation de tâches en ligne dans le contexte du calcul dans le Edge__  
+		_Mohamed anisse Belhadj_ (Université Grenoble Alpes, CEA, LIST, F-91120, Palaiseau, France) ; _Kods Trabelsi_ (Université Paris-Saclay, CEA, LIST, F-91120, Palaiseau,France) ; _Loic Cudennec_ (DGA Maîtrise de l’Information, BP 7, 35998, Rennes, France) ; _Henri-pierre Charles_ (Université Grenoble Alpes, CEA, LIST, F-3800, Grenoble, France)
+	- __Low-carbon-aware scheduling of dependent tasks within a smart city's fog/edge infrastructure__  
+		_Miguel felipe Silva vasconcelos_, _Georges Da costa_, _Patricia Stolf_ (IRIT, Université de Toulouse, CNRS, Toulouse INP, UT3, Toulouse, France)
+	- __Système d’exploitation pour équipements réseaux : quelle place dans le continuum IoT-Edge-Fog-Cloud ?__  
+		_Frédéric Le mouël_ (INSA Lyon) ; _Oscar Carrillo_, _Julien Caposiena_ (CPE)
+	- __Venice : se débarrasser du cloud en utilisant des canaux de communication locaux__  
+		_Rémy Raes_, _Adrien Luxey-bitri_, _Romain Rouvoy_ (Inria Lille) ; _François Taïani_, _Davide Frey_ (Inria Rennes)
 
-**Jeudi 4 juillet**
+### 16h-16h30 Pause café
 
-{: style="font-size: 130%;"}
-*The Many Faces of Federated Learning: Bias, Robustness, and Privacy*
+### 16h30-18h
 
-Federated learning (FL) is a distributed machine learning paradigm that enables data owners to collaborate on training models while preserving data privacy. As FL effectively leverages decentralized and sensitive data sources, it is increasingly used in many application domains including remote healthcare, smart buildings, and mobile applications. However, FL raises several ethical concerns as it may introduce bias with regard to sensitive attributes (e.g., race, gender, etc.), it is not robust against malicious participants that attempt to poison the data and model, and it remains vulnerable to privacy attacks (e.g., membership inference attacks, etc.). In this talk, we will first discuss the open scientific issues in FL bias, robustness and privacy, before presenting novel FL protocols for handling them.
+- Federated Learning
+	- __Online Machine Learning for Embedded Systems (ESP32)__  
+		_Christophe Cérin_ (Professor) ; _Mamadou Sow_ (Research Engineer) ; _Muhammad sanaullah Kayani_ (Research Student)
+	- __A Survey on Multimodal Federated Learning__  
+		_Silvia Grosso_, _Nawel Benarba_, _Sara Bouchenak_ (LIRIS - INSA Lyon)
+	- __Optimal Time and Energy-Aware Client Selection Algorithms for Federated Learning on Heterogeneous Resources__  
+		_Alan l. Nunes_ (Université de Bordeaux / Universidade Federal Fluminense) ; _Laércio lima Pilla_ (CNRS, Bordeaux INP, Inria, LaBRI, UMR 5800) ; _Lúcia m. a. Drummond_, _Cristina Boeres_ (Universidade Federal Fluminense)
+	- __ASTRAL : Accurate BiaS MiTigation in FedeRAted Learning__  
+		_Yasmine Djebrouni_, _Vania Marangozova_ (University of Grenoble Alps) ; _Nawel Benarba_, _Ousmane Touat_, _Sara Bouchenak_ (INSA Lyon) ; _Pasquale De rosa_, _Pascal Felber_, _Valerio Schiavoni_ (University of Neuchâtel) ; _Angela Bonifati_ (Lyon 1 University)
+- Analyse de performance
+	- __I/O Performance evaluation Suite__  
+		_Mahamat Abdraman_, _ Boito_, _ Teylo_ (Inria, Université de Bordeaux, CNRS, Bordeaux INP, LaBRI)
+	- __Catégorisation d'Applications en Fonction du Motif d'E/S__  
+		_Théo Jolivel_, _Julien Monniot_, _François Tessier_ (Inria)
+	- __Pallas : HPC performance analysis for Exascale__  
+		_Catherine Guelque_, _Francois Trahay_ (Télécom SudParis) ; _Philippe Swartvagher_ (Bordeaux INP) ; _Valentin Honore_ (ENSIIE)
+	- __Predicting GPU kernel’s performance on upcoming architectures__  
+		_Lucas Van lanker_ (CEA) ; _Hugo Taboada_ (CEA, DAM, DIF, F-91297 Arpajon, France) ; _Elisabeth Brunet_, _François Trahay_ (Télécom SudParis)
 
-{: style="font-size: 80%; padding-left:2em;"}
-Sara Bouchenak is Professor at INSA Lyon and member of DRIM research group at LIRIS laboratory since 2014. She is head of Fédération Informatique de Lyon since 2021, grouping a total of 850 members. 
-Sara Bouchenak’s research topics include distributed computing systems, distributed and federated learning, with a special interest to their fairness, robustness and privacy. 
-Prior to that, she was Associate Professor at the University of Grenoble between 2004 and 2014, a visiting professor at Universidad Politécnica de Madrid in 2009-2010, and post-doctoral associate researcher at EPFL, Switzerland, in 2003. 
-Sara Bouchenak is co-author of several A/A\* rank publications, she is involved as scientific expert for the evaluation of EU and ANR projects, and she has been the coordinator of and participated to several European, national and regional projects.
+## Jeudi 4 juillet
 
-### Alberto Bosio
+### 9h-10h Keynote 
+- **Sara Bouchenak** - INSA Lyon, LIRIS
+    - *[The Many Faces of Federated Learning: Bias, Robustness, and Privacy](/keynotes/#sara-bouchenak)*
 
-**Vendredi 5 juillet**
+### 10h-10h30 Pause café
 
-{: style="font-size: 130%;"}
-*Reliable and Efficient hardware for Trustworthy Deep Neural Networks*
+### 10h30-12h
 
-Deep Neural Networks (DNNs) are amongst the most intensively and widely used predictive models in machine learning. Nonetheless, increased computation speed and memory resources, along with significant energy consumption, are required to achieve the full potentials of DNNs. To be able to run DNNs algorithms out of the cloud and onto distributed Internet-of-Things (IoT) devices, customized HardWare platforms for Artificial Intelligence (HW-AI) are required. However, similar to traditional computing hardware, HW-AI is subject to hardware faults, occurring due to process, aging and environmental reliability threats. Although HW-AI comes with some inherent fault resilience, faults can lead to prediction failures seriously affecting the application execution. Typical reliability approaches, such as on-line testing and hardware redundancy, or even retraining, are less appropriate for HW-AI due to prohibited overhead; DNNs are large architectures with important memory requirements, coming along with an immense training set. This talk will address these limitations by exploiting the particularities of HW-AI architectures to develop low-cost and efficient reliability strategies. 
+- RISC-V et processeur
+	- __Optimiser l’Efficacité des Systèmes Parallèles : Adaptation Dynamique des Graphes de Tâches Récursives__  
+		_Thomas Morin_ (Université de Bordeaux / LaBRI / inria)
+	- __Seamlessly Scaling Applications with DAPHNE__  
+		_Quentin Guilloteau_, _Jonas h. müller Korndörfer_, _Florina m. Ciorba_ (University of Basel)
+	- __Vers un HPC Économe en Énergie : Évaluation de oneAPI sur FPGA en Dynamique des Fluides__  
+		_François-xavier Mordant_ (CEA)
+	- __Exécution autonome de boucles sur CGRAs pour l’accélération des applications de traitement du signal__  
+		_Kevin Martin_, _Philippe Coussy_ (Université Bretagne-Sud) ; _Chilankamol Sunny_, _Satyajit Das_ (IIT Palakkad)
+- Mémoire
+	- __VoliMem : Leveraging a user-land page table towards transparent usage of persistent memory__  
+		_Jana Toljaga_, _Yohan Pipereau_, _Nicolas Derumigny_, _Mathieu Bacou_ (Telecom SudParis, Institut Polytechnique de Paris, Inria Saclay) ; _Gael Thomas_ (Inria Saclay)
+	- __téléGC: Un garbage collector (GC) délocalisé grâce à la mémoire désagrégée__  
+		_Adam Chader_, _Yohan Pipereau_, _Mathieu Bacou_ (Télécom SudParis) ; _Gaël Thomas_ (Inria)
+	- __Sort Algorithm on Processing-in-Memory__  
+		_Meven Mognol_ (Université de Rennes, UPMEM) ; _Dominique Lavenier_ (CNRS) ; _Julien Legriel_ (UPMEM)
+	- __Un prototype de cache de métadonnées pour le passage à l’échelle de NixOS-Compose__  
+		_Dorian Goepp_, _Samuel Brun_, _Olivier Richard_ (Univ. Grenoble Alpes, INRIA, CNRS, Grenoble-INP, LIG) ; _Quentin Guilloteau_ (Department of Mathematics and Computer Science, University of Basel)
 
-{: style="font-size: 80%; padding-left:2em;"}
-Alberto Bosio received his MSc (2003) and PhD (2006) in Computer Engineering in the area of digital systems dependability at the Politecnico di Torino (Italy). He is now a Full Professor at Ecole Centrale de Lyon, Institue of Nanotechnology (France). His research activities are related to the design and test of advanced digital circuits and systems. He served as committee and organizing member in several international conferences including DATE (Track Chair) and ETS (Program Chair) as well as guest and associate editors for many international journals. He is a member of the IEEE and the Vice-Chair of the Europeen Test Technical Technology Council.
+### 14h-16h
+
+- Energie
+	- __Fine grain energy consumption measurement__  
+		_Jules Risse_, _Francois Trahay_ (Telecom Sudparis) ; _Amina Guermouche_ (INRIA)
+	- __Mesures et analyse des consommations énergétiques d'une architecture IoT très faible puissance__  
+		_Przemyslaw Bakowski_, _Benoît Parrein_ (LS2N) ; _Alexis Bitaillou_ (None)
+	- __Ordonnancement de tâches sur GPU sous l’influence du power capping__  
+		_Albert D'aviau de piolant_, _Hayfa Tayeb_, _Albert D'aviau de piolant_ (Inria, Université de Bordeaux)
+	- __Self-adaptive cloud systems for energy efficiency__  
+		_Henrique david De medeiros_ (Telecom SudParis - Institut Polytechnique de Paris)
+	- __Étude énergétique des algorithmes de tri en fonction du désordre dans les données à trier__  
+		_Celeste Guimapi_, _Celeste Guimapi_ (IMT Atlantique)
+	- __Pour un renouvellement durable des processeurs de calcul__  
+		_Justin Chikhaoui_, _Abdoulaye Gamatié_ (LIRMM, Univ. Montpellier - CNRS, France)
+- Applications parallèles
+	- __Implémentation d’une solution de tolérance aux fautes dans une application de simulation cardiaque__  
+		_Nicolas Ducarton_ (Université de Bordeaux)
+	- __Efficient HPL on top of runtime systems__  
+		_Alycia Lisito_ (Eviden, Univ. Bordeaux, CNRS, Bordeaux INP, Inria, LaBRI, UMR 5800, F-33400 Talence)
+	- __Optimisation de rendu spectral pour du prototypage virtuel d’apparences iso-photographique__  
+		_Mathieu Noizet_, _Stéphanie Prévost_, _Hervé Deleau_, _Luiz-angelo Steffenel_, _Laurent Lucas_ (LICIIS - URCA) ; _Robin Rouphael_ (UVR)
+	- __Exploitation de la multi-précision pour accélérer les calculs__  
+		_Ana Hourcau_ (Inria)
+	- __Étude comparative de la précision mixte et de la compression de rang faible dans les solveurs directs de systèmes linéaires creux__  
+		_Brieuc Nicolas_ (Inria)
+	- __Vers un solveur hiérarchique performant parallélisé par les tâches__  
+		_Abel Calluaud_ (CEA, Inria)
+
+### 16h-16h30 Pause café
+
+### 16h30 Session posters
+
+## Vendredi 5 juillet
+
+### 9h-10h Keynote 
+- **Alberto Bosio** - École Centrale de Lyon, Institute of Nanotechnology
+    - *[Reliable and Efficient hardware for Trustworthy Deep Neural Networks](/keynotes/#alberto-bosio)*
+
+### 10h-10h30 Pause café
+
+### 10h30-12h
+
+- Cloud infrastructure
+	- __SlackVM, Joindre les taux de surallocation pour mieux remplir les infrastructures Cloud__  
+		_Pierre Jacquet_ (Inria, Univ. Lille)
+	- __Breaking the Challenge of Smart Microservice Autoscaling through Coordination__  
+		_Angelo Gennuso_, _Yannick nzali Koagne_ (Univ. Grenoble Alpes, CNRS, Grenoble INP*, LIG, 38000 Grenoble, France * Institute of Engineering Univ. Grenoble Alpes)
+	- __Characterizing Microservice Performance through Dependency Analysis for Autoscaling__  
+		_Belen Rickmers blamey_, _Yannick Nzali koagne_, _Vania Marangozova_ (Univ. Grenoble Alpes, CNRS, Grenoble INP, LIG)
+	- __Intégration de l'Aspect Énergétique dans Kubernetes__  
+		_Menra wedwang Romial_, _Remous-aris Koutsiamanis_ (IMT Atlantique)
+- Modèles de programmation
+	- __Almost Scalable Pipeline Flush__  
+		_Arthur Perais_ (CNRS, TIMA) ; _Trevor e. Carlson_ (NUS)
+	- __Exploration efficace d'espace de conception pour la synthèse de haut-niveau dynamique et spéculative__  
+		_Dylan Leothaud_, _Jean-michel Gorius_, _Simon Rokicki_, _Steven Derrien_ (Univ Rennes, Inria, IRISA)
+	- __Teaching RISC-V ISA with Assembly programming and Verilog modeling on RISC-V (RV64) platform__  
+		_Przemyslaw Bakowski_ (Nantes Université - LS2N)
+	- __AsteRISC : Architectures de processeur RISC-V flexibles et outils pour l’exploration de l’espace de conception__  
+		_Jonathan Saussereau_, _Christophe Jégo_, _Camille Leroux_, _Jean-baptiste Bégueret_ (Laboratoire IMS)
