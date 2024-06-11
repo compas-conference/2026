@@ -21,7 +21,7 @@ emphase sur l'intégration des jeunes chercheurs.
 
 Elle est organisée par l'[IETR (Institut d'Electronique et des Technologies du numéRique)](https://www.ietr.fr) et le [LS2N (Laboratoire des Sciences du Numérique de Nantes)](https://www.ls2n.fr) - [Nantes Université](https://www.univ-nantes.fr).
 
-**Suite à un problème technique sur HotCRP, la deadline a été étendue au mardi 7 mai 2024**
+**Les inscriptions sont ouvertes : [compas2024.sciencesconf.org](https://compas2024.sciencesconf.org/)**
 
 ### Dates importantes
 

@@ -24,4 +24,4 @@ L'inscription comprend :
   
 Tarif : 250 € avant le 18 juin, 360 € à partir du 18 juin.
 
-**Le lien d'inscription sera disponible ultérieurement via ScienceConf**
+L’inscription s’effectue dès maintenant via le portail [compas2024.scienceconf.org](https://compas2024.sciencesconf.org/)
