@@ -22,6 +22,6 @@ L'inscription comprend :
   * les déjeuners, et différentes pauses
   * le gala, cocktails et autres évenements.
   
-Tarif : 250 € avant le 18 juin, 360 € à partir du 18 juin.
+Tarif : 260 € avant le 30 juin, 370 € à partir du 30 juin.
 
 L’inscription s’effectue dès maintenant via le portail [compas2024.scienceconf.org](https://compas2024.sciencesconf.org/)
