@@ -114,7 +114,7 @@ header:
 
 ### 10h30-12h
 
-- RISC-V et processeur
+- Modèles de programmation
 	- __Optimiser l’Efficacité des Systèmes Parallèles : Adaptation Dynamique des Graphes de Tâches Récursives__  
 		_Thomas Morin_ (Université de Bordeaux / LaBRI / inria)
 	- __Seamlessly Scaling Applications with DAPHNE__  
@@ -189,7 +189,7 @@ header:
 		_Belen Rickmers blamey_, _Yannick Nzali koagne_, _Vania Marangozova_ (Univ. Grenoble Alpes, CNRS, Grenoble INP, LIG)
 	- __Intégration de l'Aspect Énergétique dans Kubernetes__  
 		_Menra wedwang Romial_, _Remous-aris Koutsiamanis_ (IMT Atlantique)
-- Modèles de programmation
+- RISC-V et processeur
 	- __Almost Scalable Pipeline Flush__  
 		_Arthur Perais_ (CNRS, TIMA) ; _Trevor e. Carlson_ (NUS)
 	- __Exploration efficace d'espace de conception pour la synthèse de haut-niveau dynamique et spéculative__  
