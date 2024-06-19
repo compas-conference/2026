@@ -85,7 +85,7 @@ header:
 
 - Federated Learning
 	- __Online Machine Learning for Embedded Systems (ESP32)__  
-		_Christophe Cérin_ (Professor) ; _Mamadou Sow_ (Research Engineer) ; _Muhammad sanaullah Kayani_ (Research Student)
+		_Christophe Cérin_ (LIPN - Laboratoire d'Informatique de Paris-Nord, LIG - Laboratoire d'Informatique de Grenoble) ; _Mamadou Sow_ (USPN - Sorbonne Paris North University) ; _Muhammad sanaullah Kayani_ (UGA - Université Grenoble Alpes, INP Ensimag, LIG - Laboratoire d'Informatique de Grenoble)
 	- __A Survey on Multimodal Federated Learning__  
 		_Silvia Grosso_, _Nawel Benarba_, _Sara Bouchenak_ (LIRIS - INSA Lyon)
 	- __Optimal Time and Energy-Aware Client Selection Algorithms for Federated Learning on Heterogeneous Resources__  
