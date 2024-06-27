@@ -13,13 +13,22 @@ header:
 
 # **Programme**
 
-## Mardi 2 juillet
+## Mardi 2 juillet : [**Workshop OSSMOSE**](/workshops/)
 
-### 10h-12h Tutoriels
+L’objectif du workshop est de mettre en évidence les interactions réciproques entre le matériel et le logiciel, à travers des outils et des architectures matérielles open-source. L’idée est de mixer des présentations avec une ou plusieurs sessions de manipulation.
+
+### 9h30-10h00 Accueil et café
+
+### 10h00-12h00 Présentations
+
+[Consulter le programme détaillé du workshop](https://www.gdr-soc.cnrs.fr/2024/04/15/ossmose/)
 
 ### 12h-14h Pause déjeuner
 
-### 14H-17h Tutoriels
+### 14H-17h30 Hands-on sessions
+
+[Consulter le programme détaillé du workshop](https://www.gdr-soc.cnrs.fr/2024/04/15/ossmose/)
+
 
 ## Mercredi 3 juillet
 

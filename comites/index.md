@@ -16,11 +16,7 @@ header:
  + Jean-Luc Béchennec (LS2N, CNRS)
  + Mikaël Briday (LS2N, Centrale Nantes)
  + Sébastien Faucou (LS2N, Nantes Université)
- + Adrien Lebre (LS2N, IMT Atlantique)
- + Sébastien Le Nours (IETR, Nantes Université)
  + Jean-Marc Menaud (LS2N, IMT Atlantique)
- + Maria Mendez (IETR, Nantes Université)
- + Olivier Pasquier (IETR, Nantes Université)
 
 <!-- #### Comité de pilotage
  + Bertrand Le Gal (Représentant Architecture, Bordeaux)
