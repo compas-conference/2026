@@ -44,14 +44,14 @@ L’objectif du workshop est de mettre en évidence les interactions réciproque
 
 ### 11h-12h15
 
-- Communications réseau
+- Communications réseau. _Chair : Alexandre Denis (INRIA Bordeaux)_
 	- __Assigning Cartesian grid area to processes__  
 		_Candice Astier_ (UVSQ LiParad & Eviden) ; _Devan Sohier_ (UVSQ LiParad) ; _Antoine Capra_ (Eviden)
 	- __Interruptions en espace utilisateur délivrées par la carte réseau BXI__  
 		_Charles Goedefroit_ (Eviden)
 	- __Analyse et optimisation des échanges inter-nœuds dans un contexte MSA__  
 		_Thibaut Pepin_ (CEA)
-- Sécurité
+- Sécurité. _Chair : Gaël Thomas (INRIA Saclay)_
 	- __Simuler l'environnement réseau de sandboxes pour cacher les pauses d'introspection de machines virtuelles__  
 		_Léo Cosseron_, _Martin Quinson_ (Univ. Rennes, Inria, CNRS, IRISA) ; _Louis Rilling_ (DGA) ; _Matthieu Simonin_ (Inria)
 	- __Fork-nox: a new virtualization technique to enforce system security__  
@@ -63,7 +63,7 @@ L’objectif du workshop est de mettre en évidence les interactions réciproque
 
 ### 14h-16h
 
-- Scheduling
+- Scheduling. _Chair : Emmanuel Agullo (INRIA Bordeaux)_
 	- __Scheduling Jobs Under a Variable Number of Processors__  
 		_Joachim Cendrier_, _Anne Benoit_ (ENS Lyon) ; _Frédéric Vivien_ (Inria)
 	- __Modeling and Scheduling Optimization of Software Defined Radio chains on Multicore Architectures__  
@@ -76,7 +76,7 @@ L’objectif du workshop est de mettre en évidence les interactions réciproque
 		_Robin Boezennec_, _Guillaume Pallez_ (INRIA Rennes) ; _Danilo Carastan-santos_ (University Grenoble Alpes) ; _Fanny Dufosse_ (INRIA)
 	- __StarONNX : Un ordonanceur dynamique pour une inférence rapide et à haut débit sur des ressources hétérogènes__  
 		_Olivier Beaumont_, _Jean-françois David_, _Lionel Eyraud-dubois_ (Inria) ; _Samuel Thibault_ (Université de Bordeaux)
-- Edge computing
+- Edge computing. _Chair : Frédéric Le Mouël (INSA Lyon)_
 	- __SLA dynamiques et Fog Computing__  
 		_Amaury Sauret_ (LIPN/L2TI) ; _Christophe Cerin_ (LIPN) ; _Khaled Boussetta_, _Gladys Diaz_ (L2TI)
 	- __Ordonnancement et Assignation de tâches en ligne dans le contexte du calcul dans le Edge__  
@@ -101,7 +101,7 @@ L’objectif du workshop est de mettre en évidence les interactions réciproque
 		_Alan l. Nunes_ (Université de Bordeaux / Universidade Federal Fluminense) ; _Laércio lima Pilla_ (CNRS, Bordeaux INP, Inria, LaBRI, UMR 5800) ; _Lúcia m. a. Drummond_, _Cristina Boeres_ (Universidade Federal Fluminense)
 	- __ASTRAL : Accurate BiaS MiTigation in FedeRAted Learning__  
 		_Yasmine Djebrouni_, _Vania Marangozova_ (University of Grenoble Alps) ; _Nawel Benarba_, _Ousmane Touat_, _Sara Bouchenak_ (INSA Lyon) ; _Pasquale De rosa_, _Pascal Felber_, _Valerio Schiavoni_ (University of Neuchâtel) ; _Angela Bonifati_ (Lyon 1 University)
-- Analyse de performance
+- Analyse de performance. _Chair : Philippe Swartvagher (INRIA Bordeaux)_
 	- __I/O Performance evaluation Suite__  
 		_Mahamat Abdraman_, _ Boito_, _ Teylo_ (Inria, Université de Bordeaux, CNRS, Bordeaux INP, LaBRI)
 	- __Catégorisation d'Applications en Fonction du Motif d'E/S__  
@@ -123,7 +123,7 @@ L’objectif du workshop est de mettre en évidence les interactions réciproque
 
 ### 10h30-12h
 
-- Modèles de programmation
+- Modèles de programmation. _Chair : Loïc Lagadec (ENSTA Bretagne)_
 	- __Optimiser l’Efficacité des Systèmes Parallèles : Adaptation Dynamique des Graphes de Tâches Récursives__  
 		_Thomas Morin_ (Université de Bordeaux / LaBRI / inria)
 	- __Seamlessly Scaling Applications with DAPHNE__  
@@ -132,7 +132,7 @@ L’objectif du workshop est de mettre en évidence les interactions réciproque
 		_François-xavier Mordant_ (CEA)
 	- __Exécution autonome de boucles sur CGRAs pour l’accélération des applications de traitement du signal__  
 		_Kevin Martin_, _Philippe Coussy_ (Université Bretagne-Sud) ; _Chilankamol Sunny_, _Satyajit Das_ (IIT Palakkad)
-- Mémoire
+- Mémoire. _Chair : Pierre Sens (Sorbonne Université)_
 	- __VoliMem : Leveraging a user-land page table towards transparent usage of persistent memory__  
 		_Jana Toljaga_, _Yohan Pipereau_, _Nicolas Derumigny_, _Mathieu Bacou_ (Telecom SudParis, Institut Polytechnique de Paris, Inria Saclay) ; _Gael Thomas_ (Inria Saclay)
 	- __téléGC: Un garbage collector (GC) délocalisé grâce à la mémoire désagrégée__  
@@ -146,7 +146,7 @@ L’objectif du workshop est de mettre en évidence les interactions réciproque
 
 ### 14h-16h
 
-- Energie
+- Energie. _Chair : Anne-Cécile Orgerie (CNRS, IRISA Rennes)_
 	- __Fine grain energy consumption measurement__  
 		_Jules Risse_, _Francois Trahay_ (Telecom Sudparis) ; _Amina Guermouche_ (INRIA)
 	- __Mesures et analyse des consommations énergétiques d'une architecture IoT très faible puissance__  
@@ -159,7 +159,7 @@ L’objectif du workshop est de mettre en évidence les interactions réciproque
 		_Celeste Guimapi_, _Celeste Guimapi_ (IMT Atlantique)
 	- __Pour un renouvellement durable des processeurs de calcul__  
 		_Justin Chikhaoui_, _Abdoulaye Gamatié_ (LIRMM, Univ. Montpellier - CNRS, France)
-- Applications parallèles
+- Applications parallèles. _Chair : Valentin Honoré (ENSIIE)_
 	- __Implémentation d’une solution de tolérance aux fautes dans une application de simulation cardiaque__  
 		_Nicolas Ducarton_ (Université de Bordeaux)
 	- __Efficient HPL on top of runtime systems__  
@@ -189,7 +189,7 @@ L’objectif du workshop est de mettre en évidence les interactions réciproque
 
 ### 10h30-12h
 
-- Cloud infrastructure
+- Cloud infrastructure. _Chair : Remous Aris Koutsiamanis (IMT Atlantique)_
 	- __SlackVM, Joindre les taux de surallocation pour mieux remplir les infrastructures Cloud__  
 		_Pierre Jacquet_ (Inria, Univ. Lille)
 	- __Breaking the Challenge of Smart Microservice Autoscaling through Coordination__  
@@ -198,7 +198,7 @@ L’objectif du workshop est de mettre en évidence les interactions réciproque
 		_Belen Rickmers blamey_, _Yannick Nzali koagne_, _Vania Marangozova_ (Univ. Grenoble Alpes, CNRS, Grenoble INP, LIG)
 	- __Intégration de l'Aspect Énergétique dans Kubernetes__  
 		_Menra wedwang Romial_, _Remous-aris Koutsiamanis_ (IMT Atlantique)
-- RISC-V et processeur
+- RISC-V et processeur. _Chair : Kevin Martin (UBS)_
 	- __Almost Scalable Pipeline Flush__  
 		_Arthur Perais_ (CNRS, TIMA) ; _Trevor e. Carlson_ (NUS)
 	- __Exploration efficace d'espace de conception pour la synthèse de haut-niveau dynamique et spéculative__  
