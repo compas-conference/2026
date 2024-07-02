@@ -93,7 +93,7 @@ L’objectif du workshop est de mettre en évidence les interactions réciproque
 
 ### 16h30-18h
 
-- Federated Learning
+- Federated Learning. Chair : Christophe Cérin (LIPN)
 	- __Online Machine Learning for Embedded Systems (ESP32)__  
 		_Christophe Cérin_ (LIPN - Laboratoire d'Informatique de Paris-Nord, LIG - Laboratoire d'Informatique de Grenoble) ; _Mamadou Sow_ (USPN - Sorbonne Paris North University) ; _Muhammad sanaullah Kayani_ (UGA - Université Grenoble Alpes, INP Ensimag, LIG - Laboratoire d'Informatique de Grenoble)
 	- __A Survey on Multimodal Federated Learning__  
