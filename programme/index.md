@@ -112,7 +112,7 @@ L’objectif du workshop est de mettre en évidence les interactions réciproque
 	- __Predicting GPU kernel’s performance on upcoming architectures__  
 		_Lucas Van lanker_ (CEA) ; _Hugo Taboada_ (CEA, DAM, DIF, F-91297 Arpajon, France) ; _Elisabeth Brunet_, _François Trahay_ (Télécom SudParis)
 
-### 19h-21h Dîner de gala
+### 19h30-21h30 Dîner de gala
 
 ## Jeudi 4 juillet
 
