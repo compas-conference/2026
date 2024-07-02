@@ -10,7 +10,6 @@ header:
     permalink: "/"
 ---
 
-
 # **Programme**
 
 ## Mardi 2 juillet : [**Workshop OSSMOSE**](/workshops/)
@@ -31,6 +30,8 @@ L’objectif du workshop est de mettre en évidence les interactions réciproque
 
 
 ## Mercredi 3 juillet
+
+### 8h30 Accueil
 
 ### 9h-10h Keynote parallélisme
 - **Samuel Thibault** - Université de Bordeaux, LaBRI
@@ -115,6 +116,8 @@ L’objectif du workshop est de mettre en évidence les interactions réciproque
 
 ## Jeudi 4 juillet
 
+### 8h30 Accueil
+
 ### 9h-10h Keynote 
 - **Sara Bouchenak** - INSA Lyon, LIRIS
     - *[The Many Faces of Federated Learning: Bias, Robustness, and Privacy](/keynotes/#sara-bouchenak)*
@@ -180,6 +183,8 @@ L’objectif du workshop est de mettre en évidence les interactions réciproque
 ### 19h-21h Cocktail posters
 
 ## Vendredi 5 juillet
+
+### 8h30 Accueil
 
 ### 9h-10h Keynote 
 - **Alberto Bosio** - École Centrale de Lyon, Institute of Nanotechnology
