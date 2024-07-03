@@ -114,6 +114,8 @@ L’objectif du workshop est de mettre en évidence les interactions réciproque
 
 ### 19h30-21h30 Dîner de gala
 
+Le dîner de gala a lieu à O'Deck sur la Loire. [https://www.odeck.fr/nous-trouver](https://www.odeck.fr/nous-trouver)
+
 ## Jeudi 4 juillet
 
 ### 8h30 Accueil
