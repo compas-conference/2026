@@ -182,6 +182,8 @@ Le dîner de gala a lieu à O'Deck sur la Loire. [https://www.odeck.fr/nous-trou
 
 ### 16h30 Session posters
 
+### 18h Assemblée Générale COMPAS. Amphi 3
+
 ### 19h-21h Cocktail posters
 
 ## Vendredi 5 juillet
