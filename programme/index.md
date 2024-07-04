@@ -157,11 +157,11 @@ Le dîner de gala a lieu à O'Deck sur la Loire. [https://www.odeck.fr/nous-trou
 	- __Mesures et analyse des consommations énergétiques d'une architecture IoT très faible puissance__  
 		_Przemyslaw Bakowski_, _Benoît Parrein_ (LS2N) ; _Alexis Bitaillou_ (None)
 	- __Ordonnancement de tâches sur GPU sous l’influence du power capping__  
-		_Albert D'aviau de piolant_, _Hayfa Tayeb_, _Albert D'aviau de piolant_ (Inria, Université de Bordeaux)
+		_Hayfa Tayeb_, _Albert D'aviau de piolant_ (Inria, Université de Bordeaux)
 	- __Self-adaptive cloud systems for energy efficiency__  
 		_Henrique david De medeiros_ (Telecom SudParis - Institut Polytechnique de Paris)
 	- __Étude énergétique des algorithmes de tri en fonction du désordre dans les données à trier__  
-		_Celeste Guimapi_, _Celeste Guimapi_ (IMT Atlantique)
+		_Celeste Guimapi_ (IMT Atlantique)
 	- __Pour un renouvellement durable des processeurs de calcul__  
 		_Justin Chikhaoui_, _Abdoulaye Gamatié_ (LIRMM, Univ. Montpellier - CNRS, France)
 - **Amphi 3** : Applications parallèles. _Chair : Valentin Honoré (ENSIIE)_
