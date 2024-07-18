@@ -6,7 +6,7 @@ layout: page
 title: "Comités"
 teaser: ""
 header:
-   image_fullwidth: "nantes.jpg"
+   image_fullwidth: "bordeaux-small.jpeg"
    permalink: "/"
 ---
 

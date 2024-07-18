@@ -6,7 +6,7 @@ layout: page
 title: "Appel à Contributions"
 teaser: ""
 header:
-   image_fullwidth: "nantes.jpg"
+   image_fullwidth: "bordeaux-small.jpeg"
    permalink: "/"
 ---
 

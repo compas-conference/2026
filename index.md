@@ -5,7 +5,7 @@ layout: page
 #
 title: "Conférence francophone d'informatique en Parallélisme, Architecture et Système"
 header:
-   image_fullwidth: "nantes.jpg"
+   image_fullwidth: "bordeaux-small.jpeg"
    permalink: "/"
 ---
 
