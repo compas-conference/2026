@@ -13,7 +13,7 @@ header:
 
 ComPAS est la Conférence francophone en informatique autour des thématiques du parallélisme, de l’architecture et des systèmes. Depuis de nombreuses années, ComPAS offre la possibilité à la communauté francophone ou travaillant en France sur ces thématiques d’échanger autour d’un programme riche et varié. ComPAS a pour but premier de favoriser la rencontre de chercheurs confirmés, de jeunes chercheurs et d’industriels. ComPAS permet de renforcer les liens entre équipes de recherche du monde francophone et favorise l’émergence de nouveaux sujets de recherche et collaborations, avec une emphase sur l’intégration des jeunes chercheurs.
 
-ComPAS 2024 propose deux options pour la soumission de contributions, afin de répondre aux besoins exprimés par la communauté :
+ComPAS 2025 propose deux options pour la soumission de contributions, afin de répondre aux besoins exprimés par la communauté :
 {: style="text-align: justify;"}
 
 ### **Option 1 : Article**
@@ -49,30 +49,26 @@ Les articles et résumés soumis peuvent utiliser indifféremment le français o
 ComPAS n’a pas pour objectif de remplacer une publication dans une conférence internationale. Les articles et résumés acceptés seront mis à disposition des participants. Les auteurs seront invités, s’ils le souhaitent, à mettre à disposition leur article ou résumé en accès ouvert sur HAL, dans une collection dédiée à la conférence. Ceci n’est pas une obligation afin de ne pas compromettre une publication de mêmes travaux dans un forum international.
 {: style="text-align: justify;"}
 
-### **Procédure de soumission**
+### **Procédure de soumission des résumés et articles**
 {: style="text-align: center;"}
 
-Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/misc/compas-2024-style.zip)** (en utilisant uniquement la partie abstract pour les résumés). La soumission se fait sur le site HotCRP  dont le lien est le suivant :
+Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/misc/compas-2024-style.zip)** (en utilisant uniquement la partie abstract pour les résumés). La soumission se fera sur le site HotCRP dont le lien est le suivant :
 
-**[https://crp.info.ucl.ac.be/compas2024/](https://crp.info.ucl.ac.be/compas2024/)**
+**[https://crp.info.ucl.ac.be/compas2025/](https://crp.info.ucl.ac.be/compas2025/)**
 
-**Suite à un problème technique sur HotCRP, la deadline a été étendue au mardi 7 mai 2024**
+L'ouverture du site est prévue début 2025.
 
-### **Dates importantes**
+#### **Ateliers et tutoriels**
 {: style="text-align: center;"}
 
-+ Échéance pour la soumission d’articles et de résumé vendredi ~~&nbsp;19 avril 2024&nbsp;~~ ~~5 mai 2024~~ **7 mai 2024**
-+ Notification aux auteurs: vendredi **31 mai 2024**
-+ Version définitive : vendredi **21 juin**
+La conférence comprend des ateliers et tutoriels sélectionnés par le comité d’organisation. Il se dérouleront le mardi de la semaine de la conférence. Merci de proposer vos ateliers et tutoriels directement par mail à [compas-2025-organisation-locale@inria.fr](mailto:compas-2025-organisation-locale@inria.fr).
 
-#### **Autres dates importantes**
-{: style="text-align: center;"}
-
-+ Échéance de proposition d’organisation d’ateliers et tutoriels: vendredi **24 mai 2024**
-+ Date limite d’inscription à tarif réduit: **18 juin 2024**
-+ Journée ateliers et tutoriels: mardi **2 juillet 2024** (n’hésitez pas à contacter [Sébastien Pillement](mailto:sebastien.pillement@univ-nantes.fr) dès à présent pour leur mise en place)
 
 {: style="text-align: justify;"}
 
 
 
+
+<!-- Local Variables: -->
+<!-- jinx-languages: "fr" -->
+<!-- End: -->
