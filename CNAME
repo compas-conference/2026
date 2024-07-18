@@ -1,1 +1,1 @@
-2024.compas-conference.fr
+2025.compas-conference.fr
