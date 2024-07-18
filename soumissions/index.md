@@ -58,7 +58,7 @@ Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/
 
 L'ouverture du site est prévue début 2025.
 
-#### **Ateliers et tutoriels**
+### **Ateliers et tutoriels**
 {: style="text-align: center;"}
 
 La conférence comprend des ateliers et tutoriels sélectionnés par le comité d’organisation. Il se dérouleront le mardi de la semaine de la conférence. Merci de proposer vos ateliers et tutoriels directement par mail à [compas-2025-organisation-locale@inria.fr](mailto:compas-2025-organisation-locale@inria.fr).
