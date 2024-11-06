@@ -12,16 +12,18 @@ header:
 
 ### **Lieu de la conférence**
 
-L'édition 2025 de Compas aura lieu à Bordeaux entre mi-juin et mi-juillet 2025.
+L'édition 2025 de Compas aura lieu du mardi 24 au vendredi 27 juin 2025 à Bordeaux, au campus Bastide de l'Université de Bordeaux.
 
-<!-- dans le **bâtiment Veil de la faculté de médecine** en plein centre de Nantes. -->
+Pôle universitaire des sciences de gestion<br>
+35 avenue Abadie<br>
+33072 Bordeaux
 
-<!-- L'adresse est : -->
-<!-- {: style="text-align: justify;"} -->
+<iframe width="100%" height="450" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.5601525306701661%2C44.843765295110906%2C-0.5548954010009767%2C44.84619000442194&amp;layer=mapnik&amp;marker=44.844977662523654%2C-0.5575239658355713" style="border: 1px solid black"></iframe>
 
-<!-- **Faculté de médecine** <br> -->
-<!-- **1 rue Gaston Veil** <br> -->
-<!-- **44035 Nantes** -->
+[Afficher une carte plus grande](https://www.openstreetmap.org/?mlat=44.844978&amp;mlon=-0.557524#map=19/44.844978/-0.557524)
+{: style="text-align: center;"}
+
+L'arrêt de tram correspondant est l'arrêt *Jardin Botanique* sur la ligne A, qui dessert le centre-ville.
 
 
 <!-- ### **Venir à Nantes** -->
