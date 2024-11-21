@@ -11,17 +11,13 @@ header:
 ---
 
 
-Mise en ligne prévue le vendredi 25 avril 2025.
+### Comité d'organisation
 
-#### Comité d'organisation 
 
-Mise en ligne prévue le vendredi 25 avril 2025.
++ Emmanuel Agullo (Co-président, Inria Bordeaux)
++ Philippe Swartvagher (Co-président, Bordeaux INP, Inria Bordeaux)
 
-<!--  + Sébastien Pillement (IETR, Nantes Université, Président) -->
-<!--  + Jean-Luc Béchennec (LS2N, CNRS) -->
-<!--  + Mikaël Briday (LS2N, Centrale Nantes) -->
-<!--  + Sébastien Faucou (LS2N, Nantes Université) -->
-<!--  + Jean-Marc Menaud (LS2N, IMT Atlantique) -->
++ ... mise en ligne complète prévue le vendredi 25 avril 2025.
 
 <!-- <\!-- #### Comité de pilotage -->
 <!--  + Bertrand Le Gal (Représentant Architecture, Bordeaux) -->
@@ -35,17 +31,16 @@ Mise en ligne prévue le vendredi 25 avril 2025.
 <!--  + Philippe Roose (Organisateur 2019, Anglet) -->
 <!--    -\-> -->
 
-#### Comité de Lecture
+### Comité de Lecture
 
-Mise en ligne prévue le vendredi 25 avril 2025.
 
-<!-- ##### Présidents :  -->
+###### Présidents :
++ **Architecture** : Cédric Killian (Université Jean-Monnet de Saint-Étienne, Laboratoire Hubert Curien)
++ **Parallélisme** : Camille Coti (École de Technologie Supérieure de l'Université du Québec)
++ **Système** : Vania Marangozova (Université Grenoble-Alpes, Laboratoire d'Informatique de Grenoble)
 
-<!-- + Julie Dumas (Architecture, TIMA, UGA) -->
-<!-- + Jean-Marc Menaud (Système, LS2N, IMT Atlantique) -->
-<!-- + François Trahay (Parallélisme, Télécom SudParis) -->
-
-<!-- ##### Membres : -->
+###### Membres :
++ ... mise en ligne complète prévue le vendredi 25 avril 2025.
 
 <!-- + Agullo Emmanuel (INRIA Bordeaux) -->
 <!-- + Alias Christophe (LIP Lyon, INRIA) -->
