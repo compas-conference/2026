@@ -52,11 +52,9 @@ ComPAS n’a pas pour objectif de remplacer une publication dans une conférence
 ### **Procédure de soumission des résumés et articles**
 {: style="text-align: center;"}
 
-Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/misc/compas-2024-style.zip)** (en utilisant uniquement la partie abstract pour les résumés). La soumission se fera sur le site HotCRP dont le lien est le suivant :
+<!-- Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/misc/compas-2024-style.zip)** (en utilisant uniquement la partie abstract pour les résumés). -->
 
-**[https://crp.info.ucl.ac.be/compas2025/](https://crp.info.ucl.ac.be/compas2025/)**
-
-L'ouverture du site est prévue début 2025.
+L'ouverture du site de soumission est prévue début 2025.
 
 ### **Ateliers et tutoriels**
 {: style="text-align: center;"}
