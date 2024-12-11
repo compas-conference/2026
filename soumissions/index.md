@@ -54,12 +54,16 @@ ComPAS n’a pas pour objectif de remplacer une publication dans une conférence
 
 <!-- Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/misc/compas-2024-style.zip)** (en utilisant uniquement la partie abstract pour les résumés). -->
 
-L'ouverture du site de soumission est le 28 janvier 2025.
+L'**ouverture** du site de soumission des **résumés** et **articles** est prévue le 28 janvier 2025.
+
+La date limite de soumission des **résumés** et **artciles** est le **vendredi 28 février 2025**.
 
 ### **Ateliers et tutoriels**
 {: style="text-align: center;"}
 
 La conférence comprend des ateliers et tutoriels sélectionnés par le comité d’organisation. Il se dérouleront le mardi de la semaine de la conférence. Merci de proposer vos ateliers et tutoriels directement par mail à [compas-2025-organisation-locale@inria.fr](mailto:compas-2025-organisation-locale@inria.fr).
+
+La date limite de soumission d'**ateliers** et **tutoriels** est le **vendredi 14 mars 2025**
 
 
 {: style="text-align: justify;"}
