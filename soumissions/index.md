@@ -54,7 +54,7 @@ ComPAS n’a pas pour objectif de remplacer une publication dans une conférence
 
 <!-- Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/misc/compas-2024-style.zip)** (en utilisant uniquement la partie abstract pour les résumés). -->
 
-L'ouverture du site de soumission est prévue début 2025.
+L'ouverture du site de soumission est le 28 janvier 2025.
 
 ### **Ateliers et tutoriels**
 {: style="text-align: center;"}
