@@ -56,7 +56,7 @@ ComPAS n’a pas pour objectif de remplacer une publication dans une conférence
 
 L'**ouverture** du site de soumission des **résumés** et **articles** est prévue le 28 janvier 2025.
 
-La date limite de soumission des **résumés** et **artciles** est le **vendredi 28 février 2025**.
+La date limite de soumission des **résumés** et **articles** est le **vendredi 28 février 2025**.
 
 ### **Ateliers et tutoriels**
 {: style="text-align: center;"}
