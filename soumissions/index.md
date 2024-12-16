@@ -52,9 +52,9 @@ ComPAS n’a pas pour objectif de remplacer une publication dans une conférence
 ### **Procédure de soumission des résumés et articles**
 {: style="text-align: center;"}
 
-<!-- Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/misc/compas-2024-style.zip)** (en utilisant uniquement la partie abstract pour les résumés). -->
+Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/misc/compas-2025-style.zip)** (en utilisant uniquement la partie abstract pour les résumés).
 
-L'**ouverture** du [site de soumission](https://crp.info.ucl.ac.be/compas2025/) des **résumés** et **articles** est prévue le 28 janvier 2025.
+L'ouverture du [site de soumission](https://crp.info.ucl.ac.be/compas2025/) des **résumés** et **articles** est prévue le 28 janvier 2025.
 
 La date limite de soumission des **résumés** et **articles** est le **vendredi 28 février 2025**.
 
