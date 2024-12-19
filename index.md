@@ -33,6 +33,6 @@ une emphase sur l'intégration des jeunes chercheurs.
 * Date limite de soumission d'**ateliers** et **tutoriels**: **vendredi 14 mars 2025**
 * Notification: vendredi 18 avril 2025
 * Ouverture des inscriptions: vendredi 25 avril 2025
-* Date limite d'inscription: vendredi 30 mai 2025
+* Date limite d'inscription: vendredi 23 mai 2025
 
 {: style="text-align: justify;"}
