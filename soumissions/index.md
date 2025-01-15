@@ -61,7 +61,7 @@ La date limite de soumission des **résumés** et **articles** est le **vendredi
 ### **Ateliers et tutoriels**
 {: style="text-align: center;"}
 
-La conférence comprend des ateliers et tutoriels sélectionnés par le comité d’organisation. Il se dérouleront le mardi de la semaine de la conférence. Merci de proposer vos ateliers et tutoriels directement par mail à [compas-2025-organisation-locale@inria.fr](mailto:compas-2025-organisation-locale@inria.fr).
+La conférence comprend des ateliers et tutoriels sélectionnés par le comité d’organisation. Il se dérouleront le mardi de la semaine de la conférence. Merci de proposer vos ateliers et tutoriels directement par mail à [compas2025@inria.fr](mailto:compas2025@inria.fr).
 
 La date limite de soumission d'**ateliers** et **tutoriels** est le **vendredi 14 mars 2025**
 
