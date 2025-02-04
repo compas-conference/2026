@@ -33,27 +33,6 @@ header:
 
 ### Comités de Lecture
 
-#### Parallélisme
-
-**Présidente** : Camille Coti (École de Technologie Supérieure de l'Université du Québec)
-
-+ Heithem Abbes (LaTICE - Tunis)
-+ Elisabeth Brunet (Télécom Sud Paris, Inria - Evry)
-+ Clément Foyer (Université de Reims)
-+ Abdoulaye Gamatié (LIRMM - Montpellier)
-+ Thierry Gautier (LIP - Lyon)
-+ Stéphane Genaud (ICube - Strasbourg)
-+ Arnaud Giersch (FEMTO-ST - Besançon)
-+ Pierre Jacquet (École de Technologie Supérieure - Montréal)
-+ Julien Jaeger (CEA)
-+ Sidi Mahmoudi (Université de Mons)
-+ Jean Privat (Université du Québec à Montréal)
-+ Lucas Schnorr (UFRGS - Brésil)
-+ Hugo Taboada (CEA)
-+ Gil Utard (UPJV - Amiens)
-+ Gwenolé Lucas (TU Münich)
-+ Jerry Lacmou Zeutouo (UPJV - Amiens)
-
 #### Architecture
 
 **Président** : Cédric Killian (Université Jean-Monnet de Saint-Étienne, Laboratoire Hubert Curien)
@@ -77,6 +56,27 @@ header:
 + Arthur Perais (TIMA - Grenoble)
 + Tanguy Risset (CITI - Lyon)
 + Simon Rockicki (IRISA - Rennes)
+
+#### Parallélisme
+
+**Présidente** : Camille Coti (École de Technologie Supérieure de l'Université du Québec)
+
++ Heithem Abbes (LaTICE - Tunis)
++ Elisabeth Brunet (Télécom Sud Paris, Inria - Evry)
++ Clément Foyer (Université de Reims)
++ Abdoulaye Gamatié (LIRMM - Montpellier)
++ Thierry Gautier (LIP - Lyon)
++ Stéphane Genaud (ICube - Strasbourg)
++ Arnaud Giersch (FEMTO-ST - Besançon)
++ Pierre Jacquet (École de Technologie Supérieure - Montréal)
++ Julien Jaeger (CEA)
++ Sidi Mahmoudi (Université de Mons)
++ Jean Privat (Université du Québec à Montréal)
++ Lucas Schnorr (UFRGS - Brésil)
++ Hugo Taboada (CEA)
++ Gil Utard (UPJV - Amiens)
++ Gwenolé Lucas (TU Münich)
++ Jerry Lacmou Zeutouo (UPJV - Amiens)
 
 #### Système
 
