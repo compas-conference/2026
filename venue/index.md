@@ -12,7 +12,9 @@ header:
 
 ### **Lieu de la conférence**
 
-L'édition 2025 de Compas aura lieu du mardi 24 au vendredi 27 juin 2025 à Bordeaux, au campus Bastide de l'Université de Bordeaux.
+L'édition 2025 de Compas aura lieu du mardi 24 au vendredi 27 juin
+2025 à Bordeaux, sur le [Campus Bastide de l'Université de
+Bordeaux](https://www.u-bordeaux.fr/campus/decouvrir-les-campus/campus-bastide).
 
 Pôle universitaire des sciences de gestion<br>
 35 avenue Abadie<br>

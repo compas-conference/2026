@@ -10,7 +10,7 @@ header:
     permalink: "/"
 ---
 
-## **Workshop**
+## **Ateliers**
 
 Mise en ligne prévue le vendredi 25 avril 2025.
 
@@ -20,6 +20,6 @@ Mise en ligne prévue le vendredi 25 avril 2025.
 
 <!-- 2 juillet 2024 -->
 
-<!-- L’objectif du workshop est de mettre en évidence les interactions réciproques entre le matériel et le logiciel, à travers des outils et des architectures matérielles open-source. L’idée est de mixer des présentations avec une ou plusieurs sessions de manipulation. -->
+<!-- L’objectif de l'atelier est de mettre en évidence les interactions réciproques entre le matériel et le logiciel, à travers des outils et des architectures matérielles open-source. L’idée est de mixer des présentations avec une ou plusieurs sessions de manipulation. -->
 
-<!-- [Consulter le programme du workshop](https://www.gdr-soc.cnrs.fr/2024/04/15/ossmose/) -->
+<!-- [Consulter le programme de l'atelier](https://www.gdr-soc.cnrs.fr/2024/04/15/ossmose/) -->

@@ -3,7 +3,7 @@ layout: page
 #
 # Content
 #
-title: "Conférence francophone d'informatique en Parallélisme, Architecture et Système"
+title: "Conférence francophone d'informatique en Parallélisme, Architecture et Système (COMPAS 2025)"
 header:
    image_fullwidth: "bordeaux-small.jpeg"
    permalink: "/"
@@ -12,14 +12,33 @@ header:
 
 <BR>&nbsp;<BR>
 
-Depuis de nombreuses années, Compas offre la possibilité à la
+### Compas 2025
+
+L'édition **2025** de **Compas** aura lieu du **mardi 24 au vendredi 27 juin**
+2025 à **Bordeaux** ([Campus Bastide de l'Université de
+Bordeaux](https://2025.compas-conference.fr/venue/)).
+
+La journée du **mardi 24 juin** sera dédiée aux
+[ateliers](https://2025.compas-conference.fr/workshops/) et
+[tutoriels](https://2025.compas-conference.fr/tutoriaux/).
+
+Les [présentations
+scientifiques](https://2025.compas-conference.fr/programme/) se
+dérouleront sur deux jours et demi, *du* **mercredi 25 juin** *au*
+**vendredi 27 juin** *midi*.
+
+La **session poster** aura lieu **mercredi soir**.
+
+### Compas
+
+Depuis de nombreuses années, **Compas** offre la possibilité à la
 communauté francophone ou travaillant en France sur ces thématiques
 d'échanger autour d'un programme riche et varié. Compas a pour but
-premier de favoriser la rencontre de chercheurs confirmés, de jeunes
-chercheurs et d'industriels. Compas permet de renforcer les liens
-entre équipes de recherche du monde francophone et favorise
-l’émergence de nouveaux sujets de recherche et collaborations, avec
-une emphase sur l'intégration des jeunes chercheurs.
+premier de **favoriser la rencontre de chercheurs confirmés, de jeunes
+chercheurs et d'industriels**. Compas permet de **renforcer les
+liens** entre équipes de recherche du monde francophone et favorise
+l’**émergence de nouveaux sujets** de recherche et collaborations,
+avec une emphase sur l'**intégration des jeunes chercheurs**.
 
 {: style="text-align: justify;"}
 
