@@ -47,12 +47,12 @@ est d'environ 20 minutes.
 
 ### Venir depuis ...
 
-#### la gare Bordeaux Saint-Jean
+#### ... la gare Bordeaux Saint-Jean
 
 - Prendre le Tram C ou D jusqu'à *Porte de Bourgogne* (4 arrêts)
 - Puis le Tram A jusqu'à *Jardin Botanique* (2 arrêts)
 
-#### l'aéroport Bordeaux Mérignac
+#### ... l'aéroport Bordeaux Mérignac
 
 - Prendre le Tram A jusqu'à *Jardin Botanique* (24 arrêts)
 
