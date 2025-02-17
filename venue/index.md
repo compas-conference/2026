@@ -31,11 +31,15 @@ Pôle universitaire des sciences de gestion<br>
 
 L'arrêt de tram correspondant est l'arrêt *Jardin Botanique* sur la ligne **A**, qui dessert le centre-ville (voir [plan du réseau tram](https://www.infotbm.com/sites/default/files/medias/images/GD_PLAN_TRAM_2023_HD_0.jpg)).
 
+L'arrêt est à [5
+minutes](https://www.openstreetmap.org/directions?engine=graphhopper_foot&route=44.842973%2C-0.555348%3B44.844980%2C-0.557530#map=17/44.843170/-0.556473&layers=H)
+à pieds du site de la conférence.
+
 #### Maintenance de la ligne A
 
 **Attention** une **maintenance** de la ligne **A** est prévue pendant
 la durée de la conférence au niveau du [Pont de
-Pierre](https://fr.wikipedia.org/wiki/Pont_de_pierre_(Bordeaux))
+Pierre](https://www.infotbm.com/sites/default/files/medias/images/GD_PLAN_TRAM_2023_HD_0.jpg)
 reliant le coeur du centre ville de Bordeaux (rive gauche) à la rive
 droite où se situe la conférence. Cela correspond à la partie entre
 les arrêts consécutifs *Porte de Bourgogne* (rive gauche) et
