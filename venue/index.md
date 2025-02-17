@@ -29,9 +29,9 @@ Pôle universitaire des sciences de gestion<br>
 
 #### Arrêt de tram
 
-L'arrêt de tram correspondant est l'arrêt *Jardin Botanique* sur la ligne **A**, qui dessert le centre-ville (voir [plan du réseau tram](https://www.infotbm.com/fr/preparez-votre-voyage.html-0)).
+L'arrêt de tram correspondant est l'arrêt *Jardin Botanique* sur la ligne **A**, qui dessert le centre-ville (voir [plan du réseau tram](https://www.infotbm.com/sites/default/files/medias/images/GD_PLAN_TRAM_2023_HD_0.jpg)).
 
-### Maintenance
+#### Maintenance de la ligne A
 
 **Attention** une **maintenance** de la ligne **A** est prévue pendant
 la durée de la conférence au niveau du [Pont de
@@ -52,7 +52,7 @@ est d'environ 20 minutes.
 - Prendre le Tram C ou D jusqu'à *Porte de Bourgogne* (4 arrêts)
 - Puis le Tram A jusqu'à *Jardin Botanique* (2 arrêts)
 
-### l'aéroport Bordeaux Mérignac
+#### l'aéroport Bordeaux Mérignac
 
 - Prendre le Tram A jusqu'à *Jardin Botanique* (24 arrêts)
 
