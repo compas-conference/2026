@@ -17,7 +17,11 @@ header:
 + Emmanuel Agullo (Co-président, Inria Bordeaux)
 + Philippe Swartvagher (Co-président, Bordeaux INP, Inria Bordeaux)
 
-+ ... mise en ligne complète prévue le vendredi 25 avril 2025.
++ Alexandre Denis (Inria Bordeaux)
++ Nathalie Furmento (CNRS / Inria Bordeaux)
++ Catherine Mégrat (Inria Bordeaux)
++ Marie-Mélissandre Roy (Inria Bordeaux)
++ François Rue (Inria Bordeaux)
 
 <!-- <\!-- #### Comité de pilotage -->
 <!--  + Bertrand Le Gal (Représentant Architecture, Bordeaux) -->
@@ -31,7 +35,7 @@ header:
 <!--  + Philippe Roose (Organisateur 2019, Anglet) -->
 <!--    -\-> -->
 
-### Comités de Lecture
+### Comités de lecture
 
 #### Architecture
 
