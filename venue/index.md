@@ -32,12 +32,12 @@ Pôle universitaire des sciences de gestion<br>
 L'arrêt de tram correspondant est l'arrêt *Jardin Botanique* sur la ligne **A**, qui dessert le centre-ville (voir [plan du réseau tram](https://www.infotbm.com/sites/default/files/medias/images/GD_PLAN_TRAM_2023_HD_0.jpg)).
 
 L'arrêt est à [5
-minutes](https://www.openstreetmap.org/directions?engine=graphhopper_foot&route=44.842973%2C-0.555348%3B44.844980%2C-0.557530#map=17/44.843170/-0.556473&layers=H)
+minutes](https://www.openstreetmap.org/directions?engine=graphhopper_foot&route=44.842973%2C-0.555348%3B44.844652%2C-0.557808)
 à pieds du site de la conférence.
 
 #### Maintenance de la ligne A
 
-**Attention** une **maintenance** de la ligne **A** est prévue pendant
+**Attention** : une **maintenance** de la ligne **A** est prévue pendant
 la durée de la conférence au niveau du [Pont de
 Pierre](https://www.infotbm.com/sites/default/files/medias/images/GD_PLAN_TRAM_2023_HD_0.jpg)
 reliant le coeur du centre ville de Bordeaux (rive gauche) à la rive
@@ -53,12 +53,12 @@ est d'environ 20 minutes.
 
 #### ... la gare Bordeaux Saint-Jean
 
-- Prendre le Tram C ou D jusqu'à *Porte de Bourgogne* (4 arrêts)
-- Puis le Tram A jusqu'à *Jardin Botanique* (2 arrêts)
+1. Prendre le Tram C (direction *Gare de Blanquefort* ou *Parc de expositions*) ou D (direction *Eysines*) jusqu'à *Porte de Bourgogne* (4 arrêts)
+2. Puis le Tram A (diretion *Bassens* ou *Floirac*) jusqu'à *Jardin Botanique* (2 arrêts)
 
 #### ... l'aéroport Bordeaux Mérignac
 
-- Prendre le Tram A jusqu'à *Jardin Botanique* (24 arrêts)
+- Prendre le Tram A (diretion *Bassens* ou *Floirac*) jusqu'à *Jardin Botanique* (24 arrêts)
 
 ### Quelques hébergements possibles (à titre indicatif)
 
