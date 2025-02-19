@@ -15,17 +15,13 @@ header:
 ### Compas 2025
 
 L'édition **2025** de **Compas** aura lieu du **mardi 24 au vendredi 27 juin**
-2025 à **Bordeaux** ([Campus Bastide de l'Université de
-Bordeaux](https://2025.compas-conference.fr/venue/)).
+2025 à **Bordeaux** ([Campus Bastide de l'Université de Bordeaux](venue)).
 
-La journée du **mardi 24 juin** sera dédiée aux
-[ateliers](https://2025.compas-conference.fr/workshops/) et
-[tutoriels](https://2025.compas-conference.fr/tutoriaux/).
+La journée du **mardi 24 juin** sera dédiée aux [ateliers](workshops) et
+[tutoriels](tutoriaux).
 
-Les [présentations
-scientifiques](https://2025.compas-conference.fr/programme/) se
-dérouleront sur deux jours et demi, *du* **mercredi 25 juin** *au*
-**vendredi 27 juin** *midi*.
+Les [présentations scientifiques](programme) se dérouleront sur deux jours et
+demi, **du mercredi 25 juin au vendredi 27 juin midi**.
 
 La **session poster** aura lieu **mercredi soir**.
 
