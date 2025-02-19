@@ -23,7 +23,7 @@ La journée du **mardi 24 juin** sera dédiée aux [ateliers](workshops) et
 Les [présentations scientifiques](programme) se dérouleront sur deux jours et
 demi, **du mercredi 25 juin au vendredi 27 juin midi**.
 
-La **session poster** aura lieu **mercredi soir**.
+La **session poster** aura lieu **jeudi soir**.
 
 ### Compas
 
