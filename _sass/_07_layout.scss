@@ -283,11 +283,15 @@ body.video cite { color: #fff; }
         text-transform: uppercase;
     }
 
-    #footer .sponsors a {
-        text-decoration: none;
-        border: none;
+    #footer .sponsors {
+        text-align: center;
+
     }
 
+        #footer .sponsors a {
+            text-decoration: none;
+            border: none;
+        }
 
 
 /* Subfooter
