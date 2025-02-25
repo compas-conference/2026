@@ -21,6 +21,7 @@ header:
 + Nathalie Furmento (CNRS / Inria Bordeaux)
 + Catherine Mégrat (Inria Bordeaux)
 + Marie-Mélissandre Roy (Inria Bordeaux)
++ Laurent Réveillère (Université de Bordeaux)
 + François Rue (Inria Bordeaux)
 
 <!-- <\!-- #### Comité de pilotage -->
