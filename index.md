@@ -41,7 +41,7 @@ avec une emphase sur l'**intégration des jeunes chercheurs**.
 
 ### Dates importantes
 
-* Date limite de soumission d'**articles** et de **résumés** : ~~vendredi 28 février 2025~~ **vendredi 14 mars 2025**
+* Date limite de soumission d'**articles** et de **résumés** : ~~vendredi 28 février 2025~~ **vendredi 14 mars 2025** (Il n'y aura pas d'autre extension)
 * Date limite de soumission d'**ateliers** et **tutoriels** : **vendredi 14 mars 2025**
 * Notification : vendredi 18 avril 2025
 * Ouverture des inscriptions : vendredi 25 avril 2025
