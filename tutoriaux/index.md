@@ -19,8 +19,8 @@ La première journée (**mardi 24 juin**) de la conférence est dédiée aux
 [charte](https://www.compas-conference.fr/organisation/charte/)).
 
 Cette année la conférence propose [1
-atelier](https://2025.compas-conference.fr/workshops/) et **5
-tutoriels**. Cette page présente les 5 tutoriels. Vous pouvez
+atelier](https://2025.compas-conference.fr/workshops/) et **6
+tutoriels**. Cette page présente les 6 tutoriels. Vous pouvez
 retrouver l'atelier
 [là](https://2025.compas-conference.fr/workshops/).
 
