@@ -32,7 +32,7 @@ démonstrations pratiques, avec un objectif de formation progressive
 plutôt que d’échange ou de recherche avancée. Il dure typiquement une
 demi-journée (3h).
 
-###  Rajout de périphériques sur un cœur RISC-V CVA6
+###  Tutoriel RISC-V: Rajout de périphériques sur un cœur RISC-V CVA6
 
 #### Organisateur
 - Nicolas Derumigny (Telecom SudParis, Inria, Saclay, France)
