@@ -35,7 +35,7 @@ demi-journée (3h).
 ###  Rajout de périphériques sur un cœur RISC-V CVA6
 
 #### Organisateur
-- Nicolas Derumigny (Telecom SudParis, Inria, Paris, France)
+- Nicolas Derumigny (Telecom SudParis, Inria, Saclay, France)
 
 #### Objectif
 
