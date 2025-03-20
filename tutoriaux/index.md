@@ -82,7 +82,7 @@ matériel adressé directement sur un bus commun.
 <!-- - modification de l'image de boot (pour y rajouter les pilotes) -->
 <!-- - programmation du FPGA et test -->
 
-### ScratchVM - Comprendre la virtualisation par la pratique
+### Tutoriel ScratchVM: Comprendre la virtualisation par la pratique
 
 #### Organisateurs
 - Yves KONE (Toulouse INP, Toulouse, France)
@@ -114,7 +114,7 @@ Voici le programme envisagé:
   - sauvegarde et restauration de la machine virtuelle sur la même machine physique
   - sauvegarde et restauration de la machine virtuelle sur une machine différente
 
-### Analyse de performance d'applications parallèles avec EZTrace
+### Tutoriel EZTrace: Analyse de performance d'applications parallèles avec EZTrace
 
 #### Organisateur:
 - François Trahay (Telecom SudParis, Inria, Saclay, France)
@@ -136,7 +136,7 @@ application plus complexe. Ils devront créer un module EZTrace afin
 d'instrumenter certaines fonctions, et ils modifieront l'application
 en insérant des sondes à des points d'intérêt.
 
-### Environnements distribués reproductibles avec NixOS-Compose
+### Tutoriel NixOS-Compose: Environnements distribués reproductibles avec NixOS-Compose
 
 #### Organisateurs
 - Quentin Guilloteau (Univ. Lyon, Inria, CNRS, ENS de Lyon, Lyon, France);
@@ -158,7 +158,7 @@ tester rapidement sur le banc d’essai Grid’5000 en utilisant kexec,
 avant de générer un tarball de système complet et déployer avec
 Kadeploy.
 
-### Initiation à Guix et Org-mode
+### Tutoriel Guix-Org-mode: Initiation à Guix et Org-mode
 
 #### Organisateur
 - Marek Felšöci (LIP6, Sorbonne Université, Paris, France)
@@ -179,7 +179,7 @@ que de la conservation à long terme des éléments d'une étude
 expérimentale. Je prévois de me baser sur un tutoriel donné à
 [Nancy](https://tuto-techno-guix-hpc.gitlabpages.inria.fr/guidelines/guidelines.pdf).
 
-### Déployer sur les centres de calcul nationaux avec Guix
+### Tutoriel Guix-deploy: Déployer sur les centres de calcul nationaux avec Guix
 
 #### Organisateurs
 - Ludovic Courtès (Inria, Bordeaux, France)

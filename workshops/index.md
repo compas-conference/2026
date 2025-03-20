@@ -30,7 +30,7 @@ l'échange de connaissances et l’expérimentation sur des thèmes
 à contribution ou directement inviter plusieurs orateurs. Il dure
 typiquement une journée (2 * 3h).
 
-### Atelier **Open-Source Software et Matériel Open-SourcE** (**OSSMOSE**)
+### Atelier OSSMOSE: **Open-Source Software et Matériel Open-SourcE**
 
 #### Organisateurs
 
