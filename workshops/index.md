@@ -12,14 +12,40 @@ header:
 
 ## **Ateliers**
 
-Mise en ligne prévue le vendredi 25 avril 2025.
+La première journée (**mardi 24 juin**) de la conférence est dédiée aux
+[ateliers](https://2025.compas-conference.fr/workshops/) et
+[tutoriels](https://2025.compas-conference.fr/tutoriaux/). (cf.
+[charte](https://www.compas-conference.fr/organisation/charte/)).
 
-<!-- ### **OSSMOSE** -->
+Cette année la conférence propose 1 *atelier* et 5 *tutoriels*. Cette
+page présente l'atelier proposé (OSSMOSE). Vous pouvez retrouvez les
+tutoriels [là](https://2025.compas-conference.fr/tutoriaux/).
 
-<!-- #### **Open-Source Software et Matériel Open-SourcE** -->
+Un *atelier* (*workshop*) est un évènement associé à la conférence, où
+des experts et participants explorent un sujet précis à travers des
+présentations, des discussions et des exercices pratiques. Il favorise
+l'échange de connaissances et l’expérimentation sur des thèmes
+émergents ou techniques avancées. Il peut lui-même organiser un appel
+à contribution ou directement inviter plusieurs orateurs. Il dure
+typiquement une journée (2 * 3h).
 
-<!-- 2 juillet 2024 -->
+### Atelier **Open-Source Software et Matériel Open-SourcE** (**OSSMOSE**)
 
-<!-- L’objectif de l'atelier est de mettre en évidence les interactions réciproques entre le matériel et le logiciel, à travers des outils et des architectures matérielles open-source. L’idée est de mixer des présentations avec une ou plusieurs sessions de manipulation. -->
+#### Organisateurs
+
+- Thibaut Marty (INSA Rennes, Rennes, France)
+- Olivier Weppe (INSA Rennes, Rennes, France)
+
+#### Objectif
+
+L'objectif de l'atelier est de mettre en évidence les interactions
+réciproques entre le matériel et le logiciel, à travers des outils et
+des architectures matérielles open-source. L’idée est de mixer des
+présentations avec une ou plusieurs sessions de manipulation.
+
+Cet atlelier reprend [celui de l'an
+passé](https://www.gdr-soc.cnrs.fr/2024/04/15/ossmose/), en se
+tournant également sur les aspect *FreeRTOS* / *runtime* / *outils
+HOC*.
 
 <!-- [Consulter le programme de l'atelier](https://www.gdr-soc.cnrs.fr/2024/04/15/ossmose/) -->
