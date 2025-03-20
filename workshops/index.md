@@ -44,7 +44,7 @@ réciproques entre le matériel et le logiciel, à travers des outils et
 des architectures matérielles open-source. L’idée est de mixer des
 présentations avec une ou plusieurs sessions de manipulation.
 
-Cet atlelier reprend [celui de l'an
+Cet atelier reprend [celui de l'an
 passé](https://www.gdr-soc.cnrs.fr/2024/04/15/ossmose/), en se
 tournant également sur les aspect *FreeRTOS* / *runtime* / *outils
 HOC*.
