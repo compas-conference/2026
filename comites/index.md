@@ -14,15 +14,15 @@ header:
 ### Comité d'organisation
 
 
-+ Emmanuel Agullo (Co-président, Inria Bordeaux)
-+ Philippe Swartvagher (Co-président, Bordeaux INP, Inria Bordeaux)
++ Emmanuel Agullo (Co-président -- Inria Bordeaux)
++ Philippe Swartvagher (Co-président -- Bordeaux INP, Inria Bordeaux)
 
-+ Alexandre Denis (Inria Bordeaux)
-+ Nathalie Furmento (CNRS / Inria Bordeaux)
-+ Catherine Mégrat (Inria Bordeaux)
-+ Marie-Mélissandre Roy (Inria Bordeaux)
-+ Laurent Réveillère (Université de Bordeaux)
-+ François Rue (Inria Bordeaux)
++ Alexandre Denis (Site de soumission -- Inria Bordeaux)
++ Nathalie Furmento (Communication -- CNRS / Inria Bordeaux)
++ Catherine Mégrat (Administration -- Inria Bordeaux)
++ Marie-Mélissandre Roy (Administration -- Inria Bordeaux)
++ Laurent Réveillère (Évènements -- Université de Bordeaux)
++ François Rue (Ateliers et Tutoriels -- Inria Bordeaux)
 
 <!-- <\!-- #### Comité de pilotage -->
 <!--  + Bertrand Le Gal (Représentant Architecture, Bordeaux) -->
