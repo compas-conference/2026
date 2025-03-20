@@ -117,7 +117,7 @@ Voici le programme envisagé:
 ### Analyse de performance d'applications parallèles avec EZTrace
 
 #### Organisateur:
-- François Trahay
+- François Trahay (Telecom SudParis, Inria, Saclay, France)
 
 #### Objectif
 
