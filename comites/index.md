@@ -42,6 +42,7 @@ header:
 
 **Président** : Cédric Killian (Université Jean-Monnet de Saint-Étienne, Laboratoire Hubert Curien)
 
++ Ghattas Akkad (Université Côte d'Azur)
 + Christophe Alias (ENS Lyon)
 + Liliana Andrade (TIMA - Grenoble)
 + Alberto Bosio (École Centrale de Lyon)
