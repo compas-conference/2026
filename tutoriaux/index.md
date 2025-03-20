@@ -18,8 +18,10 @@ La première journée (**mardi 24 juin**) de la conférence est dédiée aux
 [tutoriels](https://2025.compas-conference.fr/tutoriaux/). (cf.
 [charte](https://www.compas-conference.fr/organisation/charte/)).
 
-Cette année la conférence propose 1 *atelier* et 5 *tutoriels*. Cette
-page présente les 5 tutoriels. Vous pouvez retrouver l'atelier
+Cette année la conférence propose [1
+atelier](https://2025.compas-conference.fr/workshops/) et **5
+tutoriels**. Cette page présente les 5 tutoriels. Vous pouvez
+retrouver l'atelier
 [là](https://2025.compas-conference.fr/workshops/).
 
 Un *tutoriel* (*tutorial*) est également un évènement associé à la

@@ -17,8 +17,9 @@ La première journée (**mardi 24 juin**) de la conférence est dédiée aux
 [tutoriels](https://2025.compas-conference.fr/tutoriaux/). (cf.
 [charte](https://www.compas-conference.fr/organisation/charte/)).
 
-Cette année la conférence propose 1 *atelier* et 5 *tutoriels*. Cette
-page présente l'atelier proposé (OSSMOSE). Vous pouvez retrouvez les
+Cette année la conférence propose **1 atelier** et [5
+tutoriels](https://2025.compas-conference.fr/tutoriaux/). Cette page
+présente l'atelier proposé (OSSMOSE). Vous pouvez retrouvez les
 tutoriels [là](https://2025.compas-conference.fr/tutoriaux/).
 
 Un *atelier* (*workshop*) est un évènement associé à la conférence, où
