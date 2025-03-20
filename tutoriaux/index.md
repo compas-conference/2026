@@ -39,33 +39,48 @@ demi-journée (3h).
 
 #### Objectif
 
-Découvrir les interactions matérielle-logicielles par le prisme du
-rajout de matériel adressé directement sur un bus commun.
 
-Logiciels : Vivado (archive fournie), Git, éditeur de texte
+CVA6 est un projet open-source consistant en une famille
+d'architecture de CPU compatibles avec le jeu d'instruction RISC-V.
+Bien que le cœur soit personnalisable (versions 32 et 64-bit,
+ajout/suppression d'extensions), son intégration au sein d'un design
+plus complet comprenant RAM, console sur port série, disque et réseau
+est un processus manuel chronophage. Dans cet atelier, nous étudierons
+les différentes étapes permettant d'adapter le cœur dans sa version
+Ariane à une carte de développement ZCU104 et/ou PYNQ-Z2 basée sur un
+FPGA AMD. En particulier, nous rajouterons plusieurs périphériques
+d'IO et de debug sur le bus commun AXI utilisé lors des accès à
+l'espace d'adressage, en les reliant aux connecteurs physiques de la
+carte. En parallèle des modifications du design, nous aborderons les
+changements nécessaires à l'exécution correcte de Linux sur l'image de
+démarrage, en particulier au niveau du device tree. Découvrir les
+interactions matérielle-logicielles par le prisme du rajout de
+matériel adressé directement sur un bus commun.
 
-Matériel (actuellement disponible dans notre équipe) : à minima une ZCU104 (code testé et fonctionnel), éventuellement des PYNQ-Z2 suivant l'avancement du portage du CVA6 dessus. Divers module d'extensions. Cartes SD.
+<!-- Logiciels : Vivado (archive fournie), Git, éditeur de texte -->
 
-Les participants partiront d'un CVA6 nu fonctionnant à 50 MHz et
-pourront intégrer un ou plusieurs des périphériques suivant:
-- LED (GPIO)
-- Bouttons (GPIO)
-- Console (via un adaptateur PMOD / serial externe, ou en utilisant
-  une interface sur la ZCU104)
-- Ethernet (ZCU104 uniquement)
-- Carte SD
+<!-- Matériel (actuellement disponible dans notre équipe) : à minima une ZCU104 (code testé et fonctionnel), éventuellement des PYNQ-Z2 suivant l'avancement du portage du CVA6 dessus. Divers module d'extensions. Cartes SD. -->
 
-Il sera également possible de modifier la fréquence du CVA6 pour la
-fixer à 100 MHz.
+<!-- Les participants partiront d'un CVA6 nu fonctionnant à 50 MHz et -->
+<!-- pourront intégrer un ou plusieurs des périphériques suivant: -->
+<!-- - LED (GPIO) -->
+<!-- - Bouttons (GPIO) -->
+<!-- - Console (via un adaptateur PMOD / serial externe, ou en utilisant -->
+<!--   une interface sur la ZCU104) -->
+<!-- - Ethernet (ZCU104 uniquement) -->
+<!-- - Carte SD -->
 
-L'ajout de périphériques tout comme la modification de fréquence
-passera par les étapes suivantes:
-- rajout du module sur le design via Vivado
-- spécification des contraintes (mapping des IO du module sur des pins
-  physiques du FPGA)
-- modification du device tree
-- modification de l'image de boot (pour y rajouter les pilotes)
-- programmation du FPGA et test
+<!-- Il sera également possible de modifier la fréquence du CVA6 pour la -->
+<!-- fixer à 100 MHz. -->
+
+<!-- L'ajout de périphériques tout comme la modification de fréquence -->
+<!-- passera par les étapes suivantes: -->
+<!-- - rajout du module sur le design via Vivado -->
+<!-- - spécification des contraintes (mapping des IO du module sur des pins -->
+<!--   physiques du FPGA) -->
+<!-- - modification du device tree -->
+<!-- - modification de l'image de boot (pour y rajouter les pilotes) -->
+<!-- - programmation du FPGA et test -->
 
 ### ScratchVM - Comprendre la virtualisation par la pratique
 
