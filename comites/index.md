@@ -76,6 +76,7 @@ header:
 + Arnaud Giersch (FEMTO-ST - Besançon)
 + Pierre Jacquet (École de Technologie Supérieure - Montréal)
 + Julien Jaeger (CEA)
++ Oguz Kaya (Université Paris Saclay, LISN)
 + Sidi Mahmoudi (Université de Mons)
 + Jean Privat (Université du Québec à Montréal)
 + Lucas Schnorr (UFRGS - Brésil)
