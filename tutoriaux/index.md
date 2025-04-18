@@ -116,7 +116,7 @@ Voici le programme envisagé:
 
 ### Tutoriel EZTrace: Analyse de performance d'applications parallèles avec EZTrace
 
-#### Organisateur:
+#### Organisateur
 - François Trahay (Telecom SudParis, Inria, Saclay, France)
 
 #### Objectif
