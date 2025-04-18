@@ -21,13 +21,10 @@ L'inscription comprend :
 
 #### Tarifs
 
+* Non-permanent (stagiaire, doctorant, post-doc, CDD, ...) : 260 €
+* Permanent (MCF/Prof, CR/DR, ingénieur fonctionnaire ou en CDI, ...) : 360 €
 
-| Statut                                                              | Jusqu'au vendredi 23 mai | Après le vendredi 23 mai |
-| ------------------------------------------------------------------- | -----------------------: | -----------------------: |
-| Non-permanent (stagiaire, doctorant, post-doc, CDD, ...)            | 260 €                    | 370 €                    |
-| Permanent (MCF/Prof, CR/DR, ingénieur fonctionnaire ou en CDI, ...) | 360 €                    | 470 €                    |
-
-**Clôture des inscriptions le vendredi 6 juin**.
+**Clôture des inscriptions le vendredi 23 mai**.
 
 Le paiement est possible par carte bancaire.
 
