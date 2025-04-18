@@ -41,13 +41,14 @@ avec une emphase sur l'**intégration des jeunes chercheurs**.
 
 ### Dates importantes
 
-* Date limite de soumission d'**articles** et de **résumés** : ~~vendredi 28 février 2025~~ **vendredi 14 mars 2025** (Il n'y aura pas d'autre extension)
+* Date limite de soumission d'**articles** et de **résumés** : ~~vendredi 28
+* février 2025~~ vendredi 14 mars 2025 (Il n'y aura pas d'autre extension)
 * Date limite de soumission
 d'[ateliers](https://2025.compas-conference.fr/workshops/) et de
-[tutoriels](https://2025.compas-conference.fr/tutoriaux/) : **vendredi
-14 mars 2025**
+[tutoriels](https://2025.compas-conference.fr/tutoriaux/) : vendredi
+14 mars 2025
 * Notification : vendredi 18 avril 2025
-* Ouverture des inscriptions : vendredi 25 avril 2025
-* Date limite d'inscription : vendredi 23 mai 2025
+* Ouverture des inscriptions : **vendredi 18 avril 2025**
+* Date limite d'inscription : **vendredi 6 juin 2025 (plein tarif)**
 
 {: style="text-align: justify;"}
