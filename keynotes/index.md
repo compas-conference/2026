@@ -13,7 +13,7 @@ header:
 
 ## **Keynotes**
 
-Mise en ligne prévue le vendredi 25 avril 2025.
+Mise en ligne prévue le lundi 5 mai 2025.
 
 <!-- ### Samuel Thibault[](#samuel-thibault) -->
 

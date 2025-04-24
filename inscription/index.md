@@ -30,7 +30,7 @@ L'inscription comprend :
 
 ### Calendrier
 
-* Ouverture des inscriptions : vendredi 25 avril
+* Ouverture des inscriptions : lundi 5 mai
 * Clôture des inscriptions : vendredi 23 mai
 
 <!--Le paiement est possible par carte bancaire.-->

@@ -12,5 +12,5 @@ header:
 
 # **Programme**
 
-Mise en ligne prévue le 25 avril 2025.
+Mise en ligne prévue le 5 mai 2025.
 
