@@ -48,7 +48,7 @@ d'[ateliers](https://2025.compas-conference.fr/workshops/) et de
 [tutoriels](https://2025.compas-conference.fr/tutoriaux/) : vendredi
 14 mars 2025
 * Notification : vendredi 18 avril 2025
-* Ouverture des inscriptions : **lundi 5 mai 2025**
+* Ouverture des inscriptions : **vendredi 25 avril 2025**
 * Date limite d'inscription : **vendredi 23 mai 2025**
 
 {: style="text-align: justify;"}

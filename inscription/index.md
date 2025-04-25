@@ -30,11 +30,11 @@ L'inscription comprend :
 
 ### Calendrier
 
-* Ouverture des inscriptions : lundi 5 mai
+* Ouverture des inscriptions : vendredi 25 avril
 * Clôture des inscriptions : vendredi 23 mai
 
-<!--Le paiement est possible par carte bancaire.-->
+Le paiement est possible par carte bancaire.
 
 
-<!--* [Nouvelle inscription](/inscription/nouvelle)-->
-<!--* [Gérer mon inscription](/inscription/gestion)-->
+* [Nouvelle inscription](/inscription/nouvelle)
+* [Gérer mon inscription](/inscription/gestion)
