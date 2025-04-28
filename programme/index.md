@@ -348,6 +348,6 @@ Président : *à venir*
     *D. Redon; B. Derbel; P. Fortin*
 
 
-### 11h45 Clôture - Amphi B
+### 11h45 Clôture - Amphi A
 
 ### 12h Distribution des paniers repas
