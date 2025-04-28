@@ -285,17 +285,17 @@ Président : *à venir*
 
 Président : *à venir*
 
-- Isolation et Protection des SoC : Les TEE dans les Applications Embarquées
+- Isolation et Protection des SoC : Les TEE dans les Applications Embarquées<br>
     *S. Baissat-Chavent; L. Bossuet; C. Killian*
-- Architecting Value Prediction around In-Order Prediction
+- Architecting Value Prediction around In-Order Prediction<br>
     *P. Ravenel; A. Perais; F. Pétrot; B. de Dinechin*
-- Distribution de l’électronique de contrôle des Qubits dans et en dehors du cryostat
+- Distribution de l’électronique de contrôle des Qubits dans et en dehors du cryostat<br>
     *G. Zerbib*
-- Towards optimal reconfigurable constant multipliers
+- Towards optimal reconfigurable constant multipliers<br>
     *B. Barbe; X. Peng; A. Volkova; F. De Dinechin*
-- Conception et validation de multicoeur hétérogènes avec NOC et accélérateurs matériels sur Système sur Puce FPGA
+- Conception et validation de multicoeur hétérogènes avec NOC et accélérateurs matériels sur Système sur Puce FPGA<br>
     *O. Hammami*
-- Méduse : reproduire des circuits obsolètes
+- Méduse : reproduire des circuits obsolètes<br>
     *C. Collange*
 
 
