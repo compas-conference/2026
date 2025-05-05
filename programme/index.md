@@ -46,7 +46,7 @@ Tutoriels et ateliers de 9h à 17h15, pauses à 10h30, 12h15 et 15h30.
 
 ### 9h10 Présentation plénière - Amphi A
 
-- [Romain Rouvoy](/keynotes/#romain-rouvoy)
+- [Laura Grigori](/keynotes/#laura-grigori)
 
 ### 10h Pause
 
@@ -176,8 +176,7 @@ Président : *à venir*
 
 ### 9h Présentation plénière - Amphi A
 
-- [A Day in the Life of Instruction Fetch](/keynotes/#arthur-perais)<br>
-    *A. Perais*
+- [Romain Rouvoy](/keynotes/#romain-rouvoy)
 
 ### 10h Pause
 
@@ -313,7 +312,8 @@ Président : *à venir*
 
 ### 9h Présentation plénière - Amphi A
 
-- [Laura Grigori](/keynotes/#laura-grigori)
+- [A Day in the Life of Instruction Fetch](/keynotes/#arthur-perais)<br>
+    *A. Perais*
 
 ### 10h Pause
 

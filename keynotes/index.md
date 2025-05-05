@@ -13,9 +13,15 @@ header:
 
 ## **Présentations plénières**
 
-### Romain Rouvoy
+### Laura Grigori
 
 Mercredi 25 juin
+
+Détails à venir
+
+### Romain Rouvoy
+
+Jeudi 26 juin
 
 **Cloud computing: sharing is caring**
 
@@ -46,7 +52,7 @@ de la performance à n’importe quel prix.*
 
 ### Arthur Perais
 
-Jeudi 26 juin
+Vendredi 27 juin
 
 **A Day in the Life of Instruction Fetch**
 
@@ -70,9 +76,3 @@ Qualcomm Datacenter Technologies (Raleigh, US) then at Microsoft (Raleigh, US),
 working on custom ARM microarchitectures. He obtained his PhD in 2015 from
 Université de Rennes 1.*
 
-
-### Laura Grigori
-
-Vendredi 27 juin
-
-Détails à venir
