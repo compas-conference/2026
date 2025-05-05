@@ -281,7 +281,7 @@ Président : *à venir*
     *C. Peaucelle*
 
 
-#### Processeur - Amphi B
+#### Conception matérielle - Amphi B
 
 Président : *à venir*
 
