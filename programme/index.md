@@ -12,6 +12,12 @@ header:
 
 # **Programme prévisionnel**
 
+## Articles
+
+Vous pouvez consulter la [collection HAL dédiée à Compas
+2025](https://hal.science/COMPAS2025/) groupant les articles des les
+auteurs ayant choisi de les partager publiquement.
+
 ## Mardi 24 juin
 
 Tutoriels et ateliers de 9h à 17h15, pauses à 10h30, 12h15 et 15h30.

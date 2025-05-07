@@ -41,7 +41,7 @@ avec une emphase sur l'**intégration des jeunes chercheurs**.
 
 ### Dates importantes
 
-* Date limite de soumission d'**articles** et de **résumés** : ~~vendredi 28
+* Date limite de soumission d'[**articles**](https://hal.science/COMPAS2025/) et de **résumés** : ~~vendredi 28
   février 2025~~ vendredi 14 mars 2025 (Il n'y aura pas d'autre extension)
 * Date limite de soumission
 d'[ateliers](https://2025.compas-conference.fr/workshops/) et de

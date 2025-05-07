@@ -18,7 +18,7 @@ ComPAS 2025 propose deux options pour la soumission de contributions, afin de r�
 
 ### **Option 1 : Article**
 {: style="text-align: center;"}
-Les articles classiques feront l’objet d’une évaluation poussée par le comité de lecture, qui fournira des rapports détaillés. Un article classique fait 6 pages, auxquelles peuvent être ajoutées jusqu’à 6 pages de matériel complémentaire (références, annexes, preuves détaillées, etc.). Les articles classiques sont un moyen d’obtenir un retour écrit détaillé sur des travaux et sont donc particulièrement conseillés pour les doctorants ou chercheurs visant une publication ultérieure dans une conférence internationale ou un journal.
+Les [articles](https://hal.science/COMPAS2025/) classiques feront l’objet d’une évaluation poussée par le comité de lecture, qui fournira des rapports détaillés. Un article classique fait 6 pages, auxquelles peuvent être ajoutées jusqu’à 6 pages de matériel complémentaire (références, annexes, preuves détaillées, etc.). Les articles classiques sont un moyen d’obtenir un retour écrit détaillé sur des travaux et sont donc particulièrement conseillés pour les doctorants ou chercheurs visant une publication ultérieure dans une conférence internationale ou un journal.
 
 {: style="text-align: justify;"}
 
@@ -54,7 +54,7 @@ ComPAS n’a pas pour objectif de remplacer une publication dans une conférence
 
 Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/misc/compas-2025-style.zip)** (en utilisant uniquement la partie abstract pour les résumés) et être déposées sur le [site de soumission](https://crp.info.ucl.ac.be/compas2025/).
 
-La date limite de soumission des **résumés** et **articles** est le  ~~vendredi 28 février 2025~~ **vendredi 14 mars 2025**
+La date limite de soumission des **résumés** et [**articles**](https://hal.science/COMPAS2025/) est le  ~~vendredi 28 février 2025~~ **vendredi 14 mars 2025**
 
 ### **Ateliers et tutoriels**
 {: style="text-align: center;"}
