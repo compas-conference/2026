@@ -186,7 +186,7 @@ Président : *à venir*
 
 Président : *à venir*
 
-- [Adecwatt : wattmères innovants pour mesures performantes](https://www.adecwatts.fr/)<br>
+- [Adecwatts : wattmètres innovants pour mesures performantes](https://www.adecwatts.fr/recherche-et-enseignement)<br>
     *N. Nolibos*
 - Rejeu de leviers environnementaux dans des infrastructures de Clouds et continuums<br>
     *T. Stavis; L. Lefèvre; A. Orgerie*
