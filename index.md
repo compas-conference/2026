@@ -52,3 +52,9 @@ d'[ateliers](https://2025.compas-conference.fr/workshops/) et de
 * Date limite d'inscription : **vendredi 23 mai 2025**
 
 {: style="text-align: justify;"}
+
+
+### Contact
+
+Pour toute question, il est possible d'écrire à
+*compas-2025-organisation-locale [chez] inria.fr*

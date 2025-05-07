@@ -20,6 +20,9 @@ L'inscription comprend :
   * les déjeuners, et différentes pauses,
   * le gala, cocktails et autres évenements.
 
+Pour toute question, il est possible d'écrire à
+*compas-2025-organisation-locale [chez] inria.fr*
+
 
 #### Tarifs
 
