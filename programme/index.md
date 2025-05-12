@@ -62,8 +62,6 @@ Tutoriels et ateliers de 9h à 17h15, pauses à 10h30, 12h15 et 15h30.
 
 Président : *à venir*
 
-- LAMP: Une Approche Efficace pour la Détection de Fautes dans les Systèmes Distribués<br>
-    *L. Hassini; J. Bruneaux-Queyreix; L. Réveillère*
 - AUPE : Protocole collaboratif d’échantillonnage de pairs tolérant aux fautes byzantines<br>
     *A. Mukam; J. Bruneau-Queyreix; L. Réveillère*
 - An analysis for the design of an efficient replica management strategy<br>
