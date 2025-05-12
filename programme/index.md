@@ -182,7 +182,8 @@ Président : *à venir*
 
 ### 9h Présentation plénière - Amphi A
 
-- [Romain Rouvoy](/keynotes/#romain-rouvoy)
+- [Cloud computing: sharing is caring](/keynotes/#romain-rouvoy)<br>
+    *R. Rouvoy*
 
 ### 10h Pause
 
