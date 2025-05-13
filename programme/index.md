@@ -308,7 +308,12 @@ Président : *à venir*
 
 ### 18h30 - Session posters et cocktail
 
-
+*Les auteurs de poster acceptés peuvent venir avec leur propre poster
+ou bien, s'ils le souhaitent, déléguer l'impression et la mise en
+place du poster. Dans ce dernier cas, il faut suivre le patron et les
+instructions disponibles
+[là](https://gitlab.inria.fr/compas2025/poster).
+*
 
 ## Vendredi 27 juin
 
