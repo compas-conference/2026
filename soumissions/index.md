@@ -38,6 +38,12 @@ Tant les articles que les résumés donnent accès à un slot de présentation d
 
 Tous les auteurs d’un article ou d’un résumé accepté pourront s’ils le souhaitent présenter un poster lors de la conférence. Il n’y aura pas d’appel à poster spécifique. Les auteurs souhaitant présenter uniquement un poster sont invités à soumettre un résumé et à indiquer leur préférence de ne pas faire de présentation orale.
 
+Les auteurs de poster acceptés peuvent venir avec leur propre poster
+ou bien, s'ils le souhaitent, déléguer l'impression et la mise en
+place du poster. Dans ce dernier cas, il faut suivre le patron et les
+instructions disponibles
+[là](https://gitlab.inria.fr/compas2025/poster).
+
 ### **Langue**
 {: style="text-align: center;"}
 
