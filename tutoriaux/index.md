@@ -32,13 +32,12 @@ démonstrations pratiques, avec un objectif de formation progressive
 plutôt que d’échange ou de recherche avancée. Il dure typiquement une
 demi-journée (3h).
 
-###  Tutoriel RISC-V: Rajout de périphériques sur un cœur RISC-V CVA6
+###  [Tutoriel RISC-V: Rajout de périphériques sur un cœur RISC-V CVA6](https://perso.ens-lyon.fr/nicolas.derumigny/COMPAS-Tutorial.html)
 
 #### Organisateur
 - Nicolas Derumigny (Telecom SudParis, Inria, Saclay, France)
 
 #### Objectif
-
 
 CVA6 est un projet open-source consistant en une famille
 d'architecture de CPU compatibles avec le jeu d'instruction RISC-V.
