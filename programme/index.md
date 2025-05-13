@@ -289,6 +289,8 @@ Président : *à venir*
 
 Président : *à venir*
 
+- Méduse : reproduire des circuits obsolètes<br>
+    *C. Collange*
 - Isolation et Protection des SoC : Les TEE dans les Applications Embarquées<br>
     *S. Baissat-Chavent; L. Bossuet; C. Killian*
 - Architecting Value Prediction around In-Order Prediction<br>
@@ -299,8 +301,6 @@ Président : *à venir*
     *B. Barbe; X. Peng; A. Volkova; F. De Dinechin*
 - Conception et validation de multicoeur hétérogènes avec NOC et accélérateurs matériels sur Système sur Puce FPGA<br>
     *O. Hammami*
-- Méduse : reproduire des circuits obsolètes<br>
-    *C. Collange*
 
 
 ### 17h45 - Assemblée Générale de ComPAS - Amphi A
