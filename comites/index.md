@@ -23,6 +23,9 @@ header:
 + Marie-Mélissandre Roy (Administration -- Inria Bordeaux)
 + Laurent Réveillère (Évènements -- Université de Bordeaux)
 + François Rue (Ateliers et Tutoriels -- Inria Bordeaux)
++ Stojche Nakov (Posters -- Inria Bordeaux)
++ Laure Bourgois (Posters -- Inria Academy)
++ Olga  Kieffer (Posters -- Inria Academy)
 
 <!-- <\!-- #### Comité de pilotage -->
 <!--  + Bertrand Le Gal (Représentant Architecture, Bordeaux) -->
