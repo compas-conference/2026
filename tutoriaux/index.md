@@ -140,7 +140,7 @@ en insérant des sondes à des points d'intérêt.
 #### Organisateurs
 - Quentin Guilloteau (Univ. Lyon, Inria, CNRS, ENS de Lyon, Lyon, France);
 - Millian Poquet (Univ. Toulouse, CNRS, IRIT, Toulouse, France);
-- Olivier Richard3 (Univ. Grenoble Alpes, Inria, CNRS, LIG, Grenoble, France);
+- Olivier Richard (Univ. Grenoble Alpes, Inria, CNRS, LIG, Grenoble, France);
 
 #### Objectif
 
