@@ -265,7 +265,7 @@ Président : *à venir*
 ### 15h30 Pause
 
 
-### 16h30
+### 16h
 
 #### Algèbre linéaire - Amphi A
 
