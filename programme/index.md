@@ -122,7 +122,7 @@ Président : *à venir*
 
 Président : *à venir*
 
-- Eviden<br>
+- Les défis de l'optimisation d'un benchmark jusqu'à l'installation d'un Supercalculateur Exaflopique<br>
     *D. Goudin*
 - Modélisation et projection de performances d'applications parallèles sur environnement GPU<br>
     *L. Van Lanker; H. Taboada; E. Brunet; F. Trahay*
