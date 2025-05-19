@@ -12,10 +12,17 @@ header:
 
 # **Programme prévisionnel**
 
+## Présentations orales
+
+En dehors des présentations plénières, chaque présentation aura un
+créneau de 15 minutes, présentation et questions compris. Nous
+invitons les orateurs à prévoir une **présentation de 10 minutes**
+pour garder du temps pour les questions.
+
 ## Articles
 
 Vous pouvez consulter la [collection HAL dédiée à Compas
-2025](https://hal.science/COMPAS2025/) groupant les articles des les
+2025](https://hal.science/COMPAS2025/) groupant les articles des
 auteurs ayant choisi de les partager publiquement.
 
 ## Mardi 24 juin
