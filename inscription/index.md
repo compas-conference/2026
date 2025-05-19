@@ -24,12 +24,18 @@ Pour toute question, il est possible d'écrire à
 *compas-2025-organisation-locale [chez] inria.fr*
 
 
-#### Tarifs
+#### Tarifs jusqu'au vendredi 23 mai
 
 * Non-permanent (stagiaire, doctorant, post-doc, CDD, ...) : 260 €
 * Permanent (MCF/Prof, CR/DR, ingénieur fonctionnaire ou en CDI, ...) : 360 €
 
+#### Tarifs majorés jusqu'au vendredi 6 juin
 
+Attention, après le vendredi 23 mai, l'inscription est encore possible
+(jusqu'au 6 juin) mais sera majorée :
+
+* Non-permanent (stagiaire, doctorant, post-doc, CDD, ...) : 370 €
+* Permanent (MCF/Prof, CR/DR, ingénieur fonctionnaire ou en CDI, ...) : 470 €
 
 ### Calendrier
 
