@@ -55,9 +55,9 @@ Tutoriels et ateliers de 9h à 17h15, pauses à 10h30, 12h15 et 15h30.
 
 ### 8h30 Accueil
 
-### 9h Ouverture - Amphi A
+### 9h Ouverture - Amphi 3
 
-### 9h10 Présentation plénière - Amphi A
+### 9h10 Présentation plénière - Amphi 3
 
 - [Laura Grigori](/keynotes/#laura-grigori)
 
@@ -65,7 +65,7 @@ Tutoriels et ateliers de 9h à 17h15, pauses à 10h30, 12h15 et 15h30.
 
 ### 10h30
 
-#### Systèmes distribués et tolérance aux fautes - Amphi A
+#### Systèmes distribués et tolérance aux fautes - Amphi 3
 
 Président : *à venir*
 
@@ -80,7 +80,7 @@ Président : *à venir*
 - FedE-ator : A framework for energy consumption analysis of federated learning in distributed systems<br>
     *M. Do; M. Poquet; G. Da Costa*
 
-#### Modèles de programmation parallèle - Amphi B
+#### Modèles de programmation parallèle - Amphi 1
 
 Président : *à venir*
 
@@ -101,7 +101,7 @@ Président : *à venir*
 
 ### 14h
 
-#### Cloud et continuum - Amphi A
+#### Cloud et continuum - Amphi 3
 
 Président : *à venir*
 
@@ -118,7 +118,7 @@ Président : *à venir*
 - Vers un système de réservation de ressources basée sur NDN pour le computing continuum<br>
     *T. Arrabal; J. Caposiena; F. Le Mouël; S. Frénot*
 
-#### Analyse de performances - Amphi B
+#### Analyse de performances - Amphi 1
 
 Président : *à venir*
 
@@ -139,7 +139,7 @@ Président : *à venir*
 
 ### 16h
 
-#### Virtualisation - Amphi A
+#### Virtualisation - Amphi 3
 
 Président : *à venir*
 
@@ -154,7 +154,7 @@ Président : *à venir*
 - A software-controlled hardware cache for memory disaggregation<br>
     *N. Vasilevska; J. Dumas; N. Derumigny; G. Thomas*
 
-#### Applications - Amphi B
+#### Applications - Amphi 1
 
 Président : *à venir*
 
@@ -172,7 +172,7 @@ Président : *à venir*
     *M. Trochon*
 
 
-### 17h45 Assemblée Générale de l'ASF - Amphi A
+### 17h45 Assemblée Générale de l'ASF - Amphi 3
 
 ### 19h Événement festif
 
@@ -185,7 +185,7 @@ Président : *à venir*
 ### 8h30 Accueil
 
 
-### 9h Présentation plénière - Amphi A
+### 9h Présentation plénière - Amphi 3
 
 - [Cloud computing: sharing is caring](/keynotes/#romain-rouvoy)<br>
     *R. Rouvoy*
@@ -194,7 +194,7 @@ Président : *à venir*
 
 ### 10h30
 
-#### Énergie - Amphi A
+#### Énergie - Amphi 3
 
 Président : *à venir*
 
@@ -214,7 +214,7 @@ Président : *à venir*
     *N. Osta; P. Roose; J. Gaysse; E. Anton; F. Le Mouël*
 
 
-#### Analyse de données - Amphi B
+#### Analyse de données - Amphi 1
 
 Président : *à venir*
 
@@ -235,7 +235,7 @@ Président : *à venir*
 
 ### 14h
 
-#### MPI - Amphi A
+#### MPI - Amphi 3
 
 Président : *à venir*
 
@@ -253,7 +253,7 @@ Président : *à venir*
     *C. Goedefroit; A. Denis; B. Goglin; M. Barbe; G. Pichon*
 
 
-#### Apprentissage - Amphi B
+#### Apprentissage - Amphi 1
 
 Président : *à venir*
 
@@ -274,7 +274,7 @@ Président : *à venir*
 
 ### 16h
 
-#### Algèbre linéaire - Amphi A
+#### Algèbre linéaire - Amphi 3
 
 Président : *à venir*
 
@@ -292,7 +292,7 @@ Président : *à venir*
     *C. Peaucelle*
 
 
-#### Conception matérielle - Amphi B
+#### Conception matérielle - Amphi 1
 
 Président : *à venir*
 
@@ -310,7 +310,7 @@ Président : *à venir*
     *O. Hammami*
 
 
-### 17h45 - Assemblée Générale de ComPAS - Amphi A
+### 17h45 - Assemblée Générale de ComPAS - Amphi 3
 
 
 ### 18h30 - Session posters et cocktail
@@ -326,7 +326,7 @@ instructions disponibles
 ### 8h30 Accueil
 
 
-### 9h Présentation plénière - Amphi A
+### 9h Présentation plénière - Amphi 3
 
 - [A Day in the Life of Instruction Fetch](/keynotes/#arthur-perais)<br>
     *A. Perais*
@@ -335,7 +335,7 @@ instructions disponibles
 
 ### 10h30
 
-#### Compilation - Amphi A
+#### Compilation - Amphi 3
 
 Président : *à venir*
 
@@ -350,7 +350,7 @@ Président : *à venir*
 - Contraintes d’OpenMP pour la parallélisation automatique à base de tâches<br>
     *J. Gaupp; B. Bramas*
 
-#### Ordonnancement - Amphi B
+#### Ordonnancement - Amphi 1
 
 Président : *à venir*
 
@@ -364,6 +364,6 @@ Président : *à venir*
     *D. Redon; B. Derbel; P. Fortin*
 
 
-### 11h45 Clôture - Amphi A
+### 11h45 Clôture - Amphi 3
 
 ### 12h Distribution des paniers repas
