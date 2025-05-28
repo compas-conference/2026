@@ -16,7 +16,7 @@ header:
 <br>
 
 L'inscription comprend :
-  * l'accès complet à la conférence du 24 au 27 juin 2025 (ateliers, sessions, keynotes, ...),
+  * l'accès complet à la conférence du 24 au 27 juin 2025 (tutoriels, sessions, keynotes, ...),
   * les déjeuners, et différentes pauses,
   * le gala, cocktails et autres évenements.
 

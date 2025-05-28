@@ -17,8 +17,7 @@ header:
 L'édition **2025** de **Compas** aura lieu du **mardi 24 au vendredi 27 juin**
 2025 à **Bordeaux** ([Campus Bastide de l'Université de Bordeaux](venue)).
 
-La journée du **mardi 24 juin** sera dédiée aux [ateliers](workshops) et
-[tutoriels](tutoriaux).
+La journée du **mardi 24 juin** sera dédiée aux [tutoriels](tutoriaux).
 
 Les [présentations scientifiques](programme) se dérouleront sur deux jours et
 demi, **du mercredi 25 juin au vendredi 27 juin midi**.
@@ -43,9 +42,8 @@ avec une emphase sur l'**intégration des jeunes chercheurs**.
 
 * Date limite de soumission d'[**articles**](https://hal.science/COMPAS2025/) et de **résumés** : ~~vendredi 28
   février 2025~~ vendredi 14 mars 2025 (Il n'y aura pas d'autre extension)
-* Date limite de soumission
-d'[ateliers](https://2025.compas-conference.fr/workshops/) et de
-[tutoriels](https://2025.compas-conference.fr/tutoriaux/) : vendredi
+* Date limite de soumission de
+  [tutoriels](tutoriaux) : vendredi
 14 mars 2025
 * Notification : vendredi 18 avril 2025
 * Ouverture des inscriptions : **vendredi 25 avril 2025**

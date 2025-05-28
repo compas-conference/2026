@@ -10,10 +10,6 @@
   url: "/soumissions"
   side: left
 
-- title: Ateliers
-  url: "/workshops"
-  side: left
-
 - title: Keynotes
   url: "/keynotes"
   side: left

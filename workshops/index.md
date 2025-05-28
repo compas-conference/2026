@@ -30,23 +30,3 @@ l'échange de connaissances et l’expérimentation sur des thèmes
 à contribution ou directement inviter plusieurs orateurs. Il dure
 typiquement une journée (2 * 3h).
 
-### Atelier OSSMOSE: **Open-Source Software et Matériel Open-SourcE**
-
-#### Organisateurs
-
-- Thibaut Marty (INSA Rennes, Rennes, France)
-- Olivier Weppe (INSA Rennes, Rennes, France)
-
-#### Objectif
-
-L'objectif de l'atelier est de mettre en évidence les interactions
-réciproques entre le matériel et le logiciel, à travers des outils et
-des architectures matérielles open-source. L’idée est de mixer des
-présentations avec une ou plusieurs sessions de manipulation.
-
-Cet atelier reprend [celui de l'an
-passé](https://www.gdr-soc.cnrs.fr/2024/04/15/ossmose/), en se
-tournant également sur les aspect *FreeRTOS* / *runtime* / *outils
-HOC*.
-
-<!-- [Consulter le programme de l'atelier](https://www.gdr-soc.cnrs.fr/2024/04/15/ossmose/) -->
