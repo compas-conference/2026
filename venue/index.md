@@ -49,6 +49,8 @@ Un *bus relais* est prévu. Alternativement, depuis *Porte de
 Bourgogne*, la traversée [à pieds](https://www.openstreetmap.org/directions?engine=graphhopper_foot&route=44.83724%2C-0.56624%3B44.84498%2C-0.55753#map=16/44.84114/-0.56206&layers=H) du pont puis la marche jusqu'au site
 est d'environ 20 minutes.
 
+Le réseau de transports en commun TBM a [une page dédiée](https://tbm2025.infotbm.com/) à l'impact de ces travaux.
+
 ### Venir depuis ...
 
 #### ... la gare Bordeaux Saint-Jean
