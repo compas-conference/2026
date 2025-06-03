@@ -354,8 +354,8 @@ Président : *à venir*
     *N. Tirel; P. Roose; S. Ilarri; O. Le Goaër; A. Noureddine*
 - Coarse-grain Congestion Regulation Using Control Theory<br>
     *T. Collignon; K. Halitim; R. Bleuse; S. Cerf; B. Robu; E. Rutten; L. Seinturier; A. Van Kempen*
-- Robust and Efficient Task Allocation in Large-Scale Distributed Systems: Bridging Theory and Practice<br>
-    *Q. Delamea; J. Burman; J. Gurhem; S. Vialle*
+<!-- - Robust and Efficient Task Allocation in Large-Scale Distributed Systems: Bridging Theory and Practice<br> -->
+<!--     *Q. Delamea; J. Burman; J. Gurhem; S. Vialle* -->
 - Scaling the SOO Global Blackbox Optimizer on a 128-core Architecture<br>
     *D. Redon; B. Derbel; P. Fortin*
 
