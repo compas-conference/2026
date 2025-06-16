@@ -173,7 +173,7 @@ que de la conservation à long terme des éléments d'une étude
 expérimentale. Je prévois de me baser sur un tutoriel donné à
 [Nancy](https://tuto-techno-guix-hpc.gitlabpages.inria.fr/guidelines/guidelines.pdf).
 
-### Tutoriel Guix-deploy: Déployer sur les centres de calcul nationaux avec Guix
+### [Tutoriel Guix-deploy: Déployer sur les centres de calcul nationaux avec Guix](https://guix-hpc.gitlabpages.inria.fr/compas-tutorial-2025/)
 
 #### Organisateurs
 - Ludovic Courtès (Inria, Bordeaux, France)
