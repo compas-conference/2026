@@ -262,7 +262,7 @@ Président : *à venir*
 - MLKAPS : Machine Learning and Adaptive Sampling for HPC Kernel Auto-tuning<br>
     *M. Jam; E. Petit; P. Castro; D. Defour; G. Henry; W. Jalby*
 - Towards Designing an Energy Aware Data Replication Strategy for Cloud Systems Using Reinforcement Learning<br>
-    *M. Jam; E. Petit; P. Castro; D. Defour; G. Henry; W. Jalby*
+    *A. Najjar; R. Mokadem; J. Pierson*
 
 
 ### 15h30 Pause
