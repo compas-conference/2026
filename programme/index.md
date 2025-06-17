@@ -306,7 +306,7 @@ Président : *à venir*
     *O. Hammami*
 
 
-### 17h45 - Assemblée Générale de ComPAS - Amphi 3
+### 17h45 - Assemblée Générale de Compas - Amphi 3
 
 
 ### 18h30 - Session posters et cocktail

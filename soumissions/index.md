@@ -11,9 +11,9 @@ header:
 ---
 
 
-ComPAS est la Conférence francophone en informatique autour des thématiques du parallélisme, de l’architecture et des systèmes. Depuis de nombreuses années, ComPAS offre la possibilité à la communauté francophone ou travaillant en France sur ces thématiques d’échanger autour d’un programme riche et varié. ComPAS a pour but premier de favoriser la rencontre de chercheurs confirmés, de jeunes chercheurs et d’industriels. ComPAS permet de renforcer les liens entre équipes de recherche du monde francophone et favorise l’émergence de nouveaux sujets de recherche et collaborations, avec une emphase sur l’intégration des jeunes chercheurs.
+Compas est la Conférence francophone en informatique autour des thématiques du parallélisme, de l’architecture et des systèmes. Depuis de nombreuses années, Compas offre la possibilité à la communauté francophone ou travaillant en France sur ces thématiques d’échanger autour d’un programme riche et varié. Compas a pour but premier de favoriser la rencontre de chercheurs confirmés, de jeunes chercheurs et d’industriels. Compas permet de renforcer les liens entre équipes de recherche du monde francophone et favorise l’émergence de nouveaux sujets de recherche et collaborations, avec une emphase sur l’intégration des jeunes chercheurs.
 
-ComPAS 2025 propose deux options pour la soumission de contributions, afin de répondre aux besoins exprimés par la communauté :
+Compas 2025 propose deux options pour la soumission de contributions, afin de répondre aux besoins exprimés par la communauté :
 {: style="text-align: justify;"}
 
 ### **Option 1 : Article**
@@ -52,7 +52,7 @@ Les articles et résumés soumis peuvent utiliser indifféremment le français o
 ### **Politique de publication**
 {: style="text-align: center;"}
 
-ComPAS n’a pas pour objectif de remplacer une publication dans une conférence internationale. Les articles et résumés acceptés seront mis à disposition des participants. Les auteurs seront invités, s’ils le souhaitent, à mettre à disposition leur article ou résumé en accès ouvert sur HAL, dans une collection dédiée à la conférence. Ceci n’est pas une obligation afin de ne pas compromettre une publication de mêmes travaux dans un forum international.
+Compas n’a pas pour objectif de remplacer une publication dans une conférence internationale. Les articles et résumés acceptés seront mis à disposition des participants. Les auteurs seront invités, s’ils le souhaitent, à mettre à disposition leur article ou résumé en accès ouvert sur HAL, dans une collection dédiée à la conférence. Ceci n’est pas une obligation afin de ne pas compromettre une publication de mêmes travaux dans un forum international.
 {: style="text-align: justify;"}
 
 ### **Procédure de soumission des résumés et articles**
