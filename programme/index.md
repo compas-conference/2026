@@ -274,17 +274,17 @@ Président : *à venir*
 
 Président : *à venir*
 
-- Partitionnement hiérarchique de graphe pour la compression H-matrice
+- Partitionnement hiérarchique de graphe pour la compression H-matrice<br>
     *D. Walther*
-- Generic Tiled Layouts for High-Performance Multidimensional Data Structures
+- Generic Tiled Layouts for High-Performance Multidimensional Data Structures<br>
     *G. Santos; C. Chevalier; H. Taboada; M. Pérache*
-- Scalable Domain Decomposition Methods for Large Sparse Linear Systems on Modern Architectures
+- Scalable Domain Decomposition Methods for Large Sparse Linear Systems on Modern Architectures<br>
     *S. Nakov; E. Agullo; L. Giraud; G. Marait; A. Buttari*
-- High Performance Solver for Aeroacoustic Simulations for Airbus
+- High Performance Solver for Aeroacoustic Simulations for Airbus<br>
     *E. Agullo; E. Korkmaz; G. Sylvand*
-- Vers une abstraction composable des méthodes hiérarchiques pour l’accélération de produits matrice-vecteur
+- Vers une abstraction composable des méthodes hiérarchiques pour l’accélération de produits matrice-vecteur<br>
     *A. Gicquel*
-- Compression en virgule flottante appliquée aux H-Matrices
+- Compression en virgule flottante appliquée aux H-Matrices<br>
     *C. Peaucelle*
 
 
