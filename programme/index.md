@@ -237,8 +237,6 @@ Président : *à venir*
 
 - ArmoniK : une solution open source pour l’orchestration et la distribution de calculs<br>
     *J. Gurhem; W. Kirschenmann*
-- Un modèle d’intelligence artificielle pour détecter et corriger des erreurs dans du code MPI<br>
-    *A. Auville*
 - Distributed Topological Data Analysis with TTK and MPI<br>
     *E. Le Guillou*
 - Anticipation des communications réseau grâce à la connaissance du futur dans le parallélisme à tâches<br>
@@ -263,6 +261,8 @@ Président : *à venir*
     *M. Jam; E. Petit; P. Castro; D. Defour; G. Henry; W. Jalby*
 - Towards Designing an Energy Aware Data Replication Strategy for Cloud Systems Using Reinforcement Learning<br>
     *A. Najjar; R. Mokadem; J. Pierson*
+- Un modèle d’intelligence artificielle pour détecter et corriger des erreurs dans du code MPI<br>
+    *A. Auville*
 
 
 ### 15h30 Pause
