@@ -108,7 +108,7 @@ Voici le programme envisagé:
   - sauvegarde et restauration de la machine virtuelle sur la même machine physique
   - sauvegarde et restauration de la machine virtuelle sur une machine différente
 
-### Tutoriel EZTrace: Analyse de performance d'applications parallèles avec EZTrace
+### [Tutoriel EZTrace: Analyse de performance d'applications parallèles avec EZTrace](https://gitlab.com/eztrace/tutorials/compas-2025)
 
 #### Organisateur
 - François Trahay (Telecom SudParis, Inria, Saclay, France)
