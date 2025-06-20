@@ -1,6 +1,6 @@
 import json
 
-input_file = "index.json"
+input_file = "soumissions.json"
 output_file = "index.md"
 
 with open(input_file, "r", encoding="utf-8") as f:
