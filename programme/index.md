@@ -294,7 +294,7 @@ Président : *Pierre Fortin*
 
 #### Conception matérielle - Amphi 1
 
-Président : *à venir*
+Présidente : *Caroline Collange*
 
 - Méduse : reproduire des circuits obsolètes<br>
     *C. Collange*
