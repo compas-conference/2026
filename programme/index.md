@@ -55,6 +55,8 @@ Tutoriels de 9h à 17h15, pauses à 10h30, 12h15 et 15h30.
 
 ### 9h10 Présentation plénière - Amphi 3
 
+Président : *François Trahay*
+
 - [Laura Grigori](/keynotes/#laura-grigori)
 
 ### 10h Pause
@@ -78,7 +80,7 @@ Président : *à venir*
 
 #### Modèles de programmation parallèle - Amphi 1
 
-Président : *à venir*
+Président : *Marek Felšöci*
 
 - Implémentation et évaluation de l'algorithme AKAZE en SYCL<br>
     *S. Haddouche; E. Fabiani; L. Lagadec; F. Danober; R. Lembach; C. Guillet*
@@ -99,7 +101,7 @@ Président : *à venir*
 
 #### Cloud et continuum - Amphi 3
 
-Président : *à venir*
+Président : *Quentin Guilloteau*
 
 - Bridding OT and PaaS in Edge-to-Cloud Continuum<br>
     *C. Barrios Hernandez; Y. Denneulin*
@@ -183,6 +185,8 @@ Président : *à venir*
 
 ### 9h Présentation plénière - Amphi 3
 
+Présidente : *Vania Marangozova*
+
 - [Cloud computing: sharing is caring](/keynotes/#romain-rouvoy)<br>
     *R. Rouvoy*
 
@@ -233,7 +237,7 @@ Président : *à venir*
 
 #### MPI - Amphi 3
 
-Président : *à venir*
+Président : *Thomas Hérault*
 
 - ArmoniK : une solution open source pour l’orchestration et la distribution de calculs<br>
     *J. Gurhem; W. Kirschenmann*
@@ -249,7 +253,7 @@ Président : *à venir*
 
 #### Apprentissage - Amphi 1
 
-Président : *à venir*
+Présidente : *Julia Gusak*
 
 - Classifieur acoustique multi-sources embarqué pour milieu sous-marin<br>
     *M. Hamadouche; C. Dezan; E. Fabiani; H. Bars; M. Lajaunie; D. Dellong*
@@ -272,7 +276,7 @@ Président : *à venir*
 
 #### Algèbre linéaire - Amphi 3
 
-Président : *à venir*
+Président : *Pierre Fortin*
 
 - Partitionnement hiérarchique de graphe pour la compression H-matrice<br>
     *D. Walther*
@@ -324,6 +328,8 @@ instructions disponibles
 
 ### 9h Présentation plénière - Amphi 3
 
+Président : *Cédric Killian*
+
 - [A Day in the Life of Instruction Fetch](/keynotes/#arthur-perais)<br>
     *A. Perais*
 
@@ -333,7 +339,7 @@ instructions disponibles
 
 #### Compilation - Amphi 3
 
-Président : *à venir*
+Présidente : *Emmanuelle Saillard*
 
 - Co-conception sécurisante entre le back-end d’un compilateur et un système matériel<br>
     *C. Bourgeais; L. Gonnord; D. Hély*
@@ -348,7 +354,7 @@ Président : *à venir*
 
 #### Ordonnancement - Amphi 1
 
-Président : *à venir*
+Président : *Lionel Eyraud-Dubois*
 
 - La Quête du Scheduling Parfait : Jouer sur Tous les Tableaux<br>
     *N. Tirel; P. Roose; S. Ilarri; O. Le Goaër; A. Noureddine*
