@@ -79,7 +79,7 @@ Président : *à venir*
 
 #### Modèles de programmation parallèle - Amphi 1
 
-Président : *Marek Felšöci* -- Technique : Brieux Nicolas
+Président : *Marek Felšöci* -- Technique : Brieuc Nicolas
 
 - Implémentation et évaluation de l'algorithme AKAZE en SYCL<br>
     *S. Haddouche; E. Fabiani; L. Lagadec; F. Danober; R. Lembach; C. Guillet*
