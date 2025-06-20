@@ -1,7 +1,7 @@
 import json
 
-input_file = "submissions.json"
-output_file = "submissions.md"
+input_file = "index.json"
+output_file = "index.md"
 
 with open(input_file, "r", encoding="utf-8") as f:
     submissions = json.load(f)
