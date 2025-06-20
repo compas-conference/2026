@@ -139,7 +139,7 @@ Président : *à venir*
 
 #### Virtualisation - Amphi 3
 
-Président : *à venir*
+Président : *Olivier Richard*
 
 - Fork-nox: a new virtualization technique to enforce system security<br>
     *J. Dumollard; N. Derumigny; M. Bacou; G. Thomas*
@@ -196,7 +196,7 @@ Présidente : *Vania Marangozova*
 
 #### Énergie - Amphi 3
 
-Président : *à venir*
+Président : *Nicolas Bouzat*
 
 - [Adecwatts : wattmètres innovants pour mesures performantes](https://www.adecwatts.fr/recherche-et-enseignement)<br>
     *N. Nolibos*
