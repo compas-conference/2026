@@ -69,7 +69,7 @@ Président : *François Trahay*
 
 Président : *à venir*
 
-- [AUPE : Protocole collaboratif d’échantillonnage de pairs tolérant aux fautes byzantines](../resumes/index.md#soumission-2)<br>
+- [AUPE : Protocole collaboratif d’échantillonnage de pairs tolérant aux fautes byzantines](../resumes/index.html#soumission-2)<br>
     *A. Mukam; J. Bruneau-Queyreix; L. Réveillère*
 - An analysis for the design of an efficient replica management strategy<br>
     *C. Si Mohammed; A. Lebre; A. Van Kempen*
