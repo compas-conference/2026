@@ -34,6 +34,10 @@
   url: "/tutoriaux"
   side: left
 
+- title: Résumés
+  url: "/resumes"
+  side: left
+  
 # - title: Programme
 #   url: "/programme"
 #   side: left
