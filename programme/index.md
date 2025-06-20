@@ -29,7 +29,6 @@ auteurs ayant choisi de les partager publiquement.
 
 Tutoriels de 9h à 17h15, pauses à 10h30, 12h15 et 15h30.
 
-
 ### Salle A
 
 - 9h-12h15 : [Tutoriel RISC-V: Rajout de périphériques sur un cœur RISC-V CVA6](/tutoriaux/#tutoriel-risc-v-rajout-de-périphériques-sur-un-cœur-risc-v-cva6)
@@ -80,7 +79,7 @@ Président : *à venir*
 
 #### Modèles de programmation parallèle - Amphi 1
 
-Président : *Marek Felšöci*
+Président : *Marek Felšöci* -- Technique : Brieux Nicolas
 
 - Implémentation et évaluation de l'algorithme AKAZE en SYCL<br>
     *S. Haddouche; E. Fabiani; L. Lagadec; F. Danober; R. Lembach; C. Guillet*
@@ -118,7 +117,7 @@ Président : *Quentin Guilloteau*
 
 #### Analyse de performances - Amphi 1
 
-Président : *à venir*
+Président : *à venir* -- Technique : Pierre Clouzet et Mihail Popov
 
 - Les défis de l'optimisation d'un benchmark jusqu'à l'installation d'un Supercalculateur Exaflopique<br>
     *D. Goudin*
@@ -154,7 +153,7 @@ Président : *Olivier Richard*
 
 #### Applications - Amphi 1
 
-Président : *à venir*
+Président : *à venir* -- Technique : Samuel Mendoza
 
 - Increasing parallelism through software decomposition of individual-based simulations : A case study of the Aevol genome evolution simulator<br>
     *R. Gallé; J. Rouzaud-Cornabas; T. Gautier*
@@ -196,7 +195,7 @@ Présidente : *Vania Marangozova*
 
 #### Énergie - Amphi 3
 
-Président : *Nicolas Bouzat*
+Président : *Nicolas Bouzat* -- Technique : Pierre Clouzet et Mihail Popov
 
 - [Adecwatts : wattmètres innovants pour mesures performantes](https://www.adecwatts.fr/recherche-et-enseignement)<br>
     *N. Nolibos*
@@ -216,7 +215,7 @@ Président : *Nicolas Bouzat*
 
 #### Analyse de données - Amphi 1
 
-Président : *à venir*
+Président : *à venir* -- Technique : Alexandre Malhéné
 
 - (Don’t you) Forget about me : de l’importance du temps dans les données<br>
     *R. Raes; A. Luxey-Bitri; R. Rouvoy; F. Taïani; D. Frey*
@@ -253,7 +252,7 @@ Président : *Thomas Hérault*
 
 #### Apprentissage - Amphi 1
 
-Présidente : *Julia Gusak*
+Présidente : *Julia Gusak* -- Technique : Alexandre Malhéné
 
 - Classifieur acoustique multi-sources embarqué pour milieu sous-marin<br>
     *M. Hamadouche; C. Dezan; E. Fabiani; H. Bars; M. Lajaunie; D. Dellong*
@@ -276,7 +275,7 @@ Présidente : *Julia Gusak*
 
 #### Algèbre linéaire - Amphi 3
 
-Président : *Pierre Fortin*
+Président : *Pierre Fortin* -- Technique : Alexandre Malhéné
 
 - Partitionnement hiérarchique de graphe pour la compression H-matrice<br>
     *D. Walther*
@@ -294,7 +293,7 @@ Président : *Pierre Fortin*
 
 #### Conception matérielle - Amphi 1
 
-Présidente : *Caroline Collange*
+Présidente : *Caroline Collange* -- Technique : Pierre Clouzet
 
 - Méduse : reproduire des circuits obsolètes<br>
     *C. Collange*
@@ -339,7 +338,7 @@ Président : *Cédric Killian*
 
 #### Compilation - Amphi 3
 
-Présidente : *Emmanuelle Saillard*
+Présidente : *Emmanuelle Saillard* -- Technique : Antoine Gicquel
 
 - Co-conception sécurisante entre le back-end d’un compilateur et un système matériel<br>
     *C. Bourgeais; L. Gonnord; D. Hély*
@@ -354,7 +353,7 @@ Présidente : *Emmanuelle Saillard*
 
 #### Ordonnancement - Amphi 1
 
-Président : *Lionel Eyraud-Dubois*
+Président : *Lionel Eyraud-Dubois* -- Technique : Brieuc Nicolas
 
 - La Quête du Scheduling Parfait : Jouer sur Tous les Tableaux<br>
     *N. Tirel; P. Roose; S. Ilarri; O. Le Goaër; A. Noureddine*
