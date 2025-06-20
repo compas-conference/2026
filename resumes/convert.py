@@ -30,10 +30,10 @@ with open(output_file, "w", encoding="utf-8") as f:
         # Format
         format_ = sub.get("format", "").strip()
 
-        f.write(f"# Submission #{number}\n\n")
-        f.write(f"## Titre\n\n{title}\n\n")
-        f.write(f"## Résumé\n\n{abstract}\n\n")
-        f.write(f"## Auteurs\n\n{authors_md}\n\n")
-        f.write(f"## Sujet\n\n{topics_md}\n\n")
-        f.write(f"## Type de présentation\n\n{format_}\n\n")
+        f.write(f"## Soumission #{number}\n\n")
+        f.write(f"### Titre\n\n{title}\n\n")
+        f.write(f"### Résumé\n\n{abstract}\n\n")
+        f.write(f"### Auteurs\n\n{authors_md}\n\n")
+        f.write(f"### Sujet\n\n{topics_md}\n\n")
+        f.write(f"### Type de présentation\n\n{format_}\n\n")
         f.write("---\n\n")
