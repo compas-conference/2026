@@ -19,6 +19,9 @@ créneau de 15 minutes, présentation et questions compris. Nous
 invitons les orateurs à prévoir une **présentation de 10 minutes**
 pour garder du temps pour les questions.
 
+Les résumés associés aux présentations sont accessibles
+[ici](../resumes/submissions.md).
+
 ## Articles
 
 Vous pouvez consulter la [collection HAL dédiée à Compas
