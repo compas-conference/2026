@@ -120,7 +120,7 @@ Président : *Quentin Guilloteau*
 
 #### Analyse de performances - Amphi 1
 
-Président : *à venir* -- Technique : Pierre Clouzet et Mihail Popov
+Président : *à venir* -- Technique : Pierre Clouzet
 
 - Les défis de l'optimisation d'un benchmark jusqu'à l'installation d'un Supercalculateur Exaflopique<br>
     *D. Goudin*
@@ -198,7 +198,7 @@ Présidente : *Vania Marangozova*
 
 #### Énergie - Amphi 3
 
-Président : *Nicolas Bouzat* -- Technique : Pierre Clouzet et Mihail Popov
+Président : *Nicolas Bouzat* -- Technique : Pierre Clouzet
 
 - [Adecwatts : wattmètres innovants pour mesures performantes](https://www.adecwatts.fr/recherche-et-enseignement)<br>
     *N. Nolibos*
