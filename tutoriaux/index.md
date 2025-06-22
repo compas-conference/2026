@@ -152,7 +152,7 @@ tester rapidement sur le banc d’essai Grid’5000 en utilisant kexec,
 avant de générer un tarball de système complet et déployer avec
 Kadeploy.
 
-### Tutoriel Guix-Org-mode: Initiation à Guix et Org-mode
+### [Tutoriel Guix-Org-mode: Initiation à Guix et Org-mode](https://guix-org-tutorial-compas-2025.gitlab.io/tutorial/)
 
 #### Organisateur
 - Marek Felšöci (LIP6, Sorbonne Université, Paris, France)
