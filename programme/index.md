@@ -218,7 +218,7 @@ Président : *Nicolas Bouzat* -- Technique : Pierre Clouzet
 
 #### Analyse de données - Amphi 1
 
-Président : *à venir* -- Technique : Alexandre Malhéné
+Président : *Alessio Pagliari* -- Technique : Alexandre Malhéné
 
 - [(Don’t you) Forget about me : de l’importance du temps dans les données](../resumes/index.html#soumission-51)<br>
     *R. Raes; A. Luxey-Bitri; R. Rouvoy; F. Taïani; D. Frey*
