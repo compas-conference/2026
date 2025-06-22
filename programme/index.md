@@ -32,17 +32,17 @@ auteurs ayant choisi de les partager publiquement.
 
 Tutoriels de 9h à 17h15, pauses à 10h30, 12h15 et 15h30.
 
-### Salle A
+### Salle C206
 
 - 9h-12h15 : [Tutoriel RISC-V: Rajout de périphériques sur un cœur RISC-V CVA6](/tutoriaux/#tutoriel-risc-v-rajout-de-périphériques-sur-un-cœur-risc-v-cva6)
 - 14h-17h15 : [Tutoriel ScratchVM: Comprendre la virtualisation par la pratique](/tutoriaux/#tutoriel-scratchvm-comprendre-la-virtualisation-par-la-pratique)
 
-### Salle B
+### Salle C202
 
 - 9h-12h15 : [Tutoriel NixOS-Compose: Environnements distribués reproductibles avec NixOS-Compose](/tutoriaux/#tutoriel-nixos-compose-environnements-distribués-reproductibles-avec-nixos-compose)
 - 14h-17h15 : [Tutoriel EZTrace: Analyse de performance d’applications parallèles avec EZTrace](/tutoriaux/#tutoriel-eztrace-analyse-de-performance-dapplications-parallèles-avec-eztrace)
 
-### Salle C
+### Salle C204
 
 - 9h-12h15 : [Tutoriel Guix-Org-mode: Initiation à Guix et Org-mode](/tutoriaux/#tutoriel-guix-org-mode-initiation-à-guix-et-org-mode)
 - 14h-17h15 : [Tutoriel Guix-deploy: Déployer sur les centres de calcul nationaux avec Guix](/tutoriaux/#tutoriel-guix-deploy-déployer-sur-les-centres-de-calcul-nationaux-avec-guix)
