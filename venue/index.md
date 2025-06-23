@@ -25,8 +25,8 @@ Pôle universitaire des sciences de gestion<br>
 L'[entrée](https://maps.app.goo.gl/2g4kc4Bubz1oJgDs8) se fait par l'**Avenue Abadie**.
 {: style="text-align: center;"}
 
-Voir détails: [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.844978&amp;mlon=-0.557524#map=19/44.844978/-0.557524) / [Google Maps](https://maps.app.goo.gl/2g4kc4Bubz1oJgDs8)
-{: style="text-align: center;"}
+<!-- Voir détails: [OpenStreetMap](  https://www.openstreetmap.org/?mlat=44.844978&amp;mlon=-0.557524#map=19/44.844978/-0.557524) / [Google Maps](https://maps.app.goo.gl/2g4kc4Bubz1oJgDs8) -->
+<!-- {: style="text-align: center;"} -->
 
 ## Arrêt de tram le plus proche
 
