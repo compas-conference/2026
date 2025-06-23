@@ -91,14 +91,14 @@ Vous pouvez consulter les horaires des prochains passages:
 
 Depuis Stalingrad (ponton Yves Parlier), [la conférence est à 7 minutes de marche](https://graphhopper.com/maps/?point=44.841837%2C-0.563262_Ponton+Yves+Parlier%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&point=44.844685%2C-0.558008_Avenue+Abadie+35%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&profile=foot&layer=OpenStreetMap).
 
-### Depuis la gare Bordeaux Saint-Jean
+<!-- ### Depuis la gare Bordeaux Saint-Jean -->
 
-1. Prendre le Tram C (direction *Gare de Blanquefort* ou *Parc de expositions*) ou D (direction *Eysines*) jusqu'à *Porte de Bourgogne* (4 arrêts)
-2. Puis le Tram A (diretion *Bassens* ou *Floirac*) jusqu'à *Jardin Botanique* (2 arrêts)
+<!-- 1. Prendre le Tram C (direction *Gare de Blanquefort* ou *Parc de expositions*) ou D (direction *Eysines*) jusqu'à *Porte de Bourgogne* (4 arrêts) -->
+<!-- 2. Puis le Tram A (diretion *Bassens* ou *Floirac*) jusqu'à *Jardin Botanique* (2 arrêts) -->
 
-### Depuis l'aéroport Bordeaux Mérignac
+<!-- ### Depuis l'aéroport Bordeaux Mérignac -->
 
-- Prendre le Tram A (diretion *Bassens* ou *Floirac*) jusqu'à *Jardin Botanique* (24 arrêts)
+<!-- - Prendre le Tram A (diretion *Bassens* ou *Floirac*) jusqu'à *Jardin Botanique* (24 arrêts) -->
 
 ## Quelques hébergements possibles (à titre indicatif)
 
