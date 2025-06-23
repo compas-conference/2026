@@ -112,7 +112,7 @@ conférence](https://graphhopper.com/maps/?point=44.843017%2C-0.555711_Jardin+Bo
 
 #### Via Ligne 16 (11 minutes de marche, Ligne 16, puis 8 minutes de marche)
 
-Une troisième option envisageable (notamment si le Bus C est trop bondé)
+Voici une troisième option envisageable (notamment si le Bus C est trop bondé):
 - [11 minutes de marche jusqu'à arrêt Sainte-Croix (Quai Sainte-Croix)](https://graphhopper.com/maps/?point=44.825817%2C-0.556073_Gare+de+Bordeaux+Saint-Jean%2C+Rue+Charles+Domercq%2C+33800+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&point=44.832154%2C-0.559822&profile=foot&layer=OpenStreetMap);
 - [Ligne 16](https://www.infotbm.com/fr/lignes/line:BMA:16) depuis Saint-Croix jusqu'à Collège Lenoir;
 - [8 minutes de marche jusqu'au site de la conférence](https://graphhopper.com/maps/?point=44.840527%2C-0.553704&point=44.844685%2C-0.558008_Avenue+Abadie+35%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&profile=foot&layer=OpenStreetMap).
