@@ -59,7 +59,8 @@ Tutoriels de 9h à 17h15, pauses à 10h30, 12h15 et 15h30.
 
 Président : *François Trahay*
 
-- [Laura Grigori](/keynotes/#laura-grigori)
+- [Solving large scale problems through randomization](/keynotes/#laura-grigori)<br>
+    *L. Grigori*
 
 ### 10h Pause
 

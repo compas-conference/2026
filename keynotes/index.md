@@ -17,7 +17,35 @@ header:
 
 Mercredi 25 juin
 
-Détails à venir
+**Solving large scale problems through randomization**
+
+In this talk we discuss recent progress in using randomization for solving
+large scale linear algebra problems as solving linear systems of equations or
+eigenvalue problems. We discuss first sketching techniques that allow to embed
+large dimensional subspaces while preserving geometrical properties and their
+parallel implementations. We then present randomized versions of processes for
+orthogonalizing a set of vectors and their usage in the Arnoldi iteration.  We
+discuss associated Krylov subspace methods for solving large scale linear
+systems of equations and eigenvalue problems. The new methods retain the
+numerical stability of classic Krylov methods while reducing communication and
+being more efficient on modern massively parallel computers.
+
+*Laura Grigori is a Full Professor in applied and computational mathematics at
+EPFL and PSI and Chair of high performance Numerical algorithms and
+simulations. From 2013 to 2023 she has lead Alpines group, a joint group
+between INRIA and J.L. Lions Laboratory, Sorbonne University, in Paris.  She is
+a SIAM Fellow, the recipient of an ERC Synergy Grant, and the recipient of the
+SIAM SIAG on Supercomputing Career Prize 2024. Her field of expertise is in
+numerical linear, multilinear algebra, randomized algorithms, and high
+performance scientific computing for challenging applications ranging from
+astrophysics to molecular simulations. For her work on communication avoiding
+algorithms she was awarded with her co-authors the SIAM Siag on Supercomputing
+Best Paper Prize 2016 for the most outstanding paper published in 2012-2015 in
+a journal in the field of high performance computing. She was the chair of
+PRACE Scientific Steering Committee, the Program Director of the SIAM special
+interest group on supercomputing, January 2014 - December 2015, then the Chair
+of this interest group, January 2016 - December 2017. She is currently the
+chair of the SIAM interest group on numerical linear algebra.*
 
 ### Romain Rouvoy
 
