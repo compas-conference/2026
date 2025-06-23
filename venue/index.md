@@ -30,7 +30,7 @@ L'entrée ([voir photo](https://maps.app.goo.gl/2g4kc4Bubz1oJgDs8)) se fait au *
 ## Arrêt de tram le plus proche
 
 L'arrêt de tram correspondant est l'arrêt *Jardin Botanique* sur la
-ligne de Tram **A** (l'arrêt est à [5 minutes à pieds du site de la
+ligne de Tram **A** (l'arrêt est à [5 minutes à pied du site de la
 conférence](https://graphhopper.com/maps/?point=44.843017%2C-0.555711_Jardin+Botanique%2C+Avenue+Thiers%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&point=44.844685%2C-0.558008_Avenue+Abadie+35%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&profile=foot&layer=OpenStreetMap)).
 
 **Attention, en raison de travaux
@@ -65,14 +65,14 @@ travaux](https://tbm2025.infotbm.com/wp-content/uploads/2025/03/TRAJETS-MALINS-s
 
 ### Depuis le centre ville (rive gauche)
 
-#### À pieds (16 minutes depuis Porte de Bourgogne)
+#### À pied (16 minutes depuis Porte de Bourgogne)
 
 Si vous n'êtes pas trop chargé et que le temps le permet, du fait des
 travaux, le plus simple et efficace est sans doute la traversée à
-pieds du Pont de Pierre. Par exemple, depuis *Porte de Bourgogne*, la
+pied du Pont de Pierre. Par exemple, depuis *Porte de Bourgogne*, la
 [traversée du pont puis la marche jusqu'au
 site](https://graphhopper.com/maps/?point=44.836333%2C-0.566256_Porte+de+Bourgogne%2C+Place+Bir-Hakeim%2C+33000+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&point=44.844685%2C-0.558008_Avenue+Abadie+35%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&profile=foot&layer=OpenStreetMap)
-est d'environ 16 minutes à pieds. À noter que vous pouvez également
+est d'environ 16 minutes à pied. À noter que vous pouvez également
 utiliser un [vélo TBM](https://www.infotbm.com/fr/le-velo).
 
 #### En Bato (depuis Quinconces) puis 7 minutes de marche
@@ -83,28 +83,28 @@ rallier Quinconces à Stalingrad (Bato 2) avec un [service renforcé
 pendant les
 travaux](https://www.infotbm.com/fr/perturbations/ligne/line:BMA:952/94e0af7e-3a26-11f0-8792-0a58a9feac02).
 
-Depuis la station Stalingrad (ponton Yves Parlier), [la conférence est à 7 minutes de marche](https://graphhopper.com/maps/?point=44.841837%2C-0.563262_Ponton+Yves+Parlier%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&point=44.844685%2C-0.558008_Avenue+Abadie+35%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&profile=foot&layer=OpenStreetMap)
+Depuis la station Stalingrad (ponton Yves Parlier), [la conférence est à 7 minutes de marche](https://graphhopper.com/maps/?point=44.841837%2C-0.563262_Ponton+Yves+Parlier%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&point=44.844685%2C-0.558008_Avenue+Abadie+35%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&profile=foot&layer=OpenStreetMap).
 
 Vous pouvez consulter les horaires des prochains passages:
 - [pour aller à la conférence (depuis Quinconces vers Stalingrad (ponton Yves Parlier))](https://www.infotbm.com/fr/horaires/detail/line:BMA:952/route:BMA:952_R/stop_point:BMA:SP:6902);
-- [pour revnir de la conférence (depuis Stalingrad (ponton Yves Parlier) vers Quinconces)](https://www.infotbm.com/fr/horaires/detail/line:BMA:952/route:BMA:952/stop_point:BMA:SP:6903);
+- [pour revenir de la conférence (depuis Stalingrad (ponton Yves Parlier) vers Quinconces)](https://www.infotbm.com/fr/horaires/detail/line:BMA:952/route:BMA:952/stop_point:BMA:SP:6903);
 
 Depuis Stalingrad (ponton Yves Parlier), [la conférence est à 7 minutes de marche](https://graphhopper.com/maps/?point=44.841837%2C-0.563262_Ponton+Yves+Parlier%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&point=44.844685%2C-0.558008_Avenue+Abadie+35%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&profile=foot&layer=OpenStreetMap).
 
 ### Depuis la gare Bordeaux Saint-Jean
 
-#### Bus C (puis 15 minutes à pieds par le Pont de Pierre)
+#### Bus C (puis 15 minutes à pied par le Pont de Pierre)
 
 L'option la plus simple est sans doute de rejoindre la Porte de
 Bourgogne via le bus C (en substitution au Tram C) puis, comme indiqué
-plus haut, [d'effectuer à pieds la traversée du pont et continuer à la
+plus haut, [d'effectuer à pied la traversée du pont et continuer à la
 marche jusqu'au
 site](https://graphhopper.com/maps/?point=44.836333%2C-0.566256_Porte+de+Bourgogne%2C+Place+Bir-Hakeim%2C+33000+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&point=44.844685%2C-0.558008_Avenue+Abadie+35%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&profile=foot&layer=OpenStreetMap)
 
 #### Via Liane 31 puis Tram A (puis 5 minutes de marche)
 
 Si vous êtes chargé, l'itinéraire le plus plus confortable (limitant
-la marche à pieds) est sans doute via la Liane 31 puis le Tram A :
+la marche à pied) est sans doute via la Liane 31 puis le Tram A :
 - Depuis derrière la gare (sortie Belcier), prendre la [la Liane
 31](https://www.infotbm.com/fr/lignes/31)
 - Changement à Galin pour le tram A jusqu'à Jardin Botanique
