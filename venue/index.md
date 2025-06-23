@@ -22,8 +22,7 @@ Pôle universitaire des sciences de gestion<br>
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.5591788887977601%2C44.84413423785574%2C-0.5568359792232515%2C44.845235346740786&amp;layer=hot&amp;marker=44.844684794929094%2C-0.5580074340105057" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=44.8446848&amp;mlon=-0.5580074#map=20/44.8446848/-0.5580074&amp;layers=H">View Larger Map</a></small>
 
-L'[entrée](https://maps.app.goo.gl/2g4kc4Bubz1oJgDs8) se fait par l'**Avenue Abadie**.
-{: style="text-align: center;"}
+L'entrée [voir photo](https://maps.app.goo.gl/2g4kc4Bubz1oJgDs8) se fait par l'**Avenue Abadie**.
 
 <!-- Voir détails: [OpenStreetMap](  https://www.openstreetmap.org/?mlat=44.844978&amp;mlon=-0.557524#map=19/44.844978/-0.557524) / [Google Maps](https://maps.app.goo.gl/2g4kc4Bubz1oJgDs8) -->
 <!-- {: style="text-align: center;"} -->
