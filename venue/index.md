@@ -10,7 +10,7 @@ header:
     permalink: "/"
 ---
 
-### **Lieu de la conférence**
+## **Lieu de la conférence**
 
 L'édition 2025 de Compas aura lieu du mardi 24 au vendredi 27 juin
 2025 à Bordeaux, sur le [Campus Bastide de l'Université de
@@ -25,33 +25,49 @@ Pôle universitaire des sciences de gestion<br>
 Voir détails: [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.844978&amp;mlon=-0.557524#map=19/44.844978/-0.557524) / [Google Maps](https://maps.app.goo.gl/2g4kc4Bubz1oJgDs8)
 {: style="text-align: center;"}
 
-### Tram
+## Arrêt de tram le plus proche
 
-#### Arrêt de tram
-
-L'arrêt de tram correspondant est l'arrêt *Jardin Botanique* sur la ligne **A**, qui dessert le centre-ville (voir [plan du réseau tram](https://www.infotbm.com/sites/default/files/medias/images/GD_PLAN_TRAM_2023_HD_0.jpg)).
-
-L'arrêt est à [5
+L'arrêt de tram correspondant est l'arrêt *Jardin Botanique* sur la
+ligne de Tram **A** (l'arrêt est à [5
 minutes](https://www.openstreetmap.org/directions?engine=graphhopper_foot&route=44.842973%2C-0.555348%3B44.844652%2C-0.557808)
-à pieds du site de la conférence.
+à pieds du site de la conférence ). Attention, en raison de travaux
+importants, cette ligne est coupée depuis centre-ville.
 
-#### Maintenance de la ligne A
+## Travaux importants (lignes A, C, D)
 
-**Attention** : une **maintenance** de la ligne **A** est prévue pendant
-la durée de la conférence au niveau du [Pont de
-Pierre](https://www.infotbm.com/sites/default/files/medias/images/GD_PLAN_TRAM_2023_HD_0.jpg)
-reliant le coeur du centre ville de Bordeaux (rive gauche) à la rive
-droite où se situe la conférence. Cela correspond à la partie entre
-les arrêts consécutifs *Porte de Bourgogne* (rive gauche) et
-*Stalingrad* (rive droite).
+Des [travaux
+importants](https://www.bordeaux.fr/le-mag/travaux-du-pont-de-pierre-les-ligne-a-c-et-d-du-tramway-impactees)
+sont en cours impactant fortement la ligne de Tram A mais également
+les lignes C et D. En particulier, les travaux sur le Pont de Pierre
+coupent la ville de Bordeaux en deux entre le coeur du centre ville de
+Bordeaux (rive gauche) et la rive droite où se situe la conférence,
+le pont ne restant ouvert qu'aux piétons et aux cyclistes.
 
-Un *bus relais* est prévu. Alternativement, depuis *Porte de
-Bourgogne*, la traversée [à pieds](https://www.openstreetmap.org/directions?engine=graphhopper_foot&route=44.83724%2C-0.56624%3B44.84498%2C-0.55753#map=16/44.84114/-0.56206&layers=H) du pont puis la marche jusqu'au site
-est d'environ 20 minutes.
+Voici le [plan de référence pendant ces
+travaux](https://tbm2025.infotbm.com/wp-content/uploads/2025/03/TRAJETS-MALINS-scaled.jpg).
 
-Le réseau de transports en commun TBM a [une page dédiée](https://tbm2025.infotbm.com/) à l'impact de ces travaux.
+### Sugestions de trajets
 
-### Venir depuis ...
+<!-- #### Maintenance de la ligne A -->
+
+<!-- **Attention** : une **maintenance** de la ligne **A** est prévue pendant -->
+<!-- la durée de la conférence au niveau du [Pont de -->
+<!-- Pierre](https://www.infotbm.com/sites/default/files/medias/images/GD_PLAN_TRAM_2023_HD_0.jpg) -->
+<!-- reliant le coeur du centre ville de Bordeaux (rive gauche) à la rive -->
+<!-- droite où se situe la conférence. Cela correspond à la partie entre -->
+<!-- les arrêts consécutifs *Porte de Bourgogne* (rive gauche) et -->
+<!-- *Stalingrad* (rive droite). -->
+
+<!-- Un *bus relais* est prévu. -->
+
+#### Depuis le centre ville (rive gauche)
+
+Si vous n'êtes pas trop chargé et que le temps le permet, étant donné
+les travaux, le plus simple et efficace est sans doute la traversée à
+pieds ou à [vélo](https://www.infotbm.com/fr/le-velo) du Pont de
+Pierre. Par exemple, depuis *Porte de Bourgogne*, la
+[traversée](https://www.openstreetmap.org/directions?engine=graphhopper_foot&route=44.83724%2C-0.56624%3B44.84498%2C-0.55753#map=16/44.84114/-0.56206&layers=H)
+du pont puis la marche jusqu'au site est d'environ 20 minutes à pieds.
 
 #### ... la gare Bordeaux Saint-Jean
 
