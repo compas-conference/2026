@@ -159,8 +159,8 @@ Président : *Olivier Richard*
 
 Président : *Gil Utard* -- Technique : Samuel Mendoza
 
-- [Increasing parallelism through software decomposition of individual-based simulations : A case study of the Aevol genome evolution simulator](../resumes/index.html#soumission-19)<br>
-    *R. Gallé; J. Rouzaud-Cornabas; T. Gautier*
+<!-- - [Increasing parallelism through software decomposition of individual-based simulations : A case study of the Aevol genome evolution simulator](../resumes/index.html#soumission-19)<br> -->
+<!--     *R. Gallé; J. Rouzaud-Cornabas; T. Gautier* -->
 - [Portage sur GPU du calcul des forces internes d'un code basé sur la méthode des éléments finis spectraux](../resumes/index.html#soumission-33)<br>
     *T. Budon; E. Melin; S. Limet; F. de Martin; S. Jubertie*
 - [A Probabilistic Approach to Explore Spatial and Temporal Locality for Lossless Compression in CFD Simulations](../resumes/index.html#soumission-60)<br>
