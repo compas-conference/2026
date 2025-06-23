@@ -34,7 +34,7 @@ ligne de Tram **A** (l'arrêt est à [5 minutes à pieds du site de la
 conférence](https://graphhopper.com/maps/?point=44.843017%2C-0.555711_Jardin+Botanique%2C+Avenue+Thiers%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&point=44.844685%2C-0.558008_Avenue+Abadie+35%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&profile=foot&layer=OpenStreetMap)).
 
 **Attention, en raison de travaux
-importants, cette ligne est coupée depuis centre-ville. Voir ci-dessous**.
+importants, cette ligne est coupée depuis le centre-ville. Voir ci-dessous**.
 
 ## Travaux importants (lignes A, C, D)
 
