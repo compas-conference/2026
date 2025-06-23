@@ -68,7 +68,7 @@ Président : *François Trahay*
 
 #### Systèmes distribués et tolérance aux fautes - Amphi 3
 
-Président : *à venir*
+Président : *à venir* -- Technique : Abdraman Mahamat Younous
 
 - [AUPE : Protocole collaboratif d’échantillonnage de pairs tolérant aux fautes byzantines](../resumes/index.html#soumission-2)<br>
     *A. Mukam; J. Bruneau-Queyreix; L. Réveillère*
@@ -240,7 +240,7 @@ Président : *Alessio Pagliari* -- Technique : Alexandre Malhéné
 
 #### MPI - Amphi 3
 
-Président : *Thomas Hérault*
+Président : *Thomas Hérault* -- Technique : Gaël Valade
 
 - [ArmoniK : une solution open source pour l’orchestration et la distribution de calculs](../resumes/index.html#soumission-15)<br>
     *J. Gurhem; W. Kirschenmann*
