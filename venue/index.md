@@ -30,9 +30,8 @@ L'entrée ([voir photo](https://maps.app.goo.gl/2g4kc4Bubz1oJgDs8)) se fait par 
 ## Arrêt de tram le plus proche
 
 L'arrêt de tram correspondant est l'arrêt *Jardin Botanique* sur la
-ligne de Tram **A** (l'arrêt est à [5
-minutes](https://graphhopper.com/maps/?point=44.843017%2C-0.555711_Jardin+Botanique%2C+Avenue+Thiers%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&point=44.844685%2C-0.558008_Avenue+Abadie+35%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&profile=foot&layer=OpenStreetMap)
-à pieds du site de la conférence ).
+ligne de Tram **A** (l'arrêt est à [5 minutes à pieds du site de la
+conférence](https://graphhopper.com/maps/?point=44.843017%2C-0.555711_Jardin+Botanique%2C+Avenue+Thiers%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&point=44.844685%2C-0.558008_Avenue+Abadie+35%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&profile=foot&layer=OpenStreetMap)).
 
 **Attention, en raison de travaux
 importants, cette ligne est coupée depuis centre-ville. Voir ci-dessous**
@@ -66,6 +65,8 @@ travaux](https://tbm2025.infotbm.com/wp-content/uploads/2025/03/TRAJETS-MALINS-s
 
 ### Depuis le centre ville (rive gauche)
 
+#### À pieds (16 minutes depuis Porte de Bourgogne)
+
 Si vous n'êtes pas trop chargé et que le temps le permet, étant donné
 les travaux, le plus simple et efficace est sans doute la traversée à
 pieds du Pont de Pierre. Par exemple, depuis *Porte de Bourgogne*, la
@@ -73,6 +74,22 @@ pieds du Pont de Pierre. Par exemple, depuis *Porte de Bourgogne*, la
 site](https://graphhopper.com/maps/?point=44.836333%2C-0.566256_Porte+de+Bourgogne%2C+Place+Bir-Hakeim%2C+33000+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&point=44.844685%2C-0.558008_Avenue+Abadie+35%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&profile=foot&layer=OpenStreetMap)
 est d'environ 16 minutes à pieds. À noter que vous pouvez également
 utiliser un [vélo TBM](https://www.infotbm.com/fr/le-velo).
+
+#### En Bato (depuis Quinconces) puis 7 minutes de marche
+
+Le [service de traversée de la Garonne en
+Bato](https://www.infotbm.com/fr/le_bato_par_tbm.html) ([(voir plan)](https://www.infotbm.com/sites/default/files/medias/images/plan-lebato-nov2024-01.png)) permet de
+rallier Quinconces à Stalingrad (Bato 2) avec un [service renforcé
+pendant les
+travaux](https://www.infotbm.com/fr/perturbations/ligne/line:BMA:952/94e0af7e-3a26-11f0-8792-0a58a9feac02).
+
+Depuis la station Stalingrad (ponton Yves Parlier), [la conférence est à 7 minutes de marche](https://graphhopper.com/maps/?point=44.841837%2C-0.563262_Ponton+Yves+Parlier%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&point=44.844685%2C-0.558008_Avenue+Abadie+35%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&profile=foot&layer=OpenStreetMap)
+
+Vous pouvez consulter les horaires des prochains passages:
+- [pour aller à la conférence (depuis Quinconces vers Stalingrad (ponton Yves Parlier))](https://www.infotbm.com/fr/horaires/detail/line:BMA:952/route:BMA:952_R/stop_point:BMA:SP:6902);
+- [pour revnir de la conférence (depuis Stalingrad (ponton Yves Parlier) vers Quinconces)](https://www.infotbm.com/fr/horaires/detail/line:BMA:952/route:BMA:952/stop_point:BMA:SP:6903);
+
+Depuis Stalingrad (ponton Yves Parlier), [la conférence est à 7 minutes de marche](https://graphhopper.com/maps/?point=44.841837%2C-0.563262_Ponton+Yves+Parlier%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&point=44.844685%2C-0.558008_Avenue+Abadie+35%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&profile=foot&layer=OpenStreetMap).
 
 ### Depuis la gare Bordeaux Saint-Jean
 
