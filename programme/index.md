@@ -156,7 +156,7 @@ Président : *Olivier Richard*
 
 #### Applications - Amphi 1
 
-Président : *à venir* -- Technique : Samuel Mendoza
+Président : *Gil Utard* -- Technique : Samuel Mendoza
 
 - [Increasing parallelism through software decomposition of individual-based simulations : A case study of the Aevol genome evolution simulator](../resumes/index.html#soumission-19)<br>
     *R. Gallé; J. Rouzaud-Cornabas; T. Gautier*
