@@ -124,7 +124,6 @@ Voici une troisième option envisageable (notamment si le Bus C est trop bondé)
 
 ### Depuis l'aéroport Bordeaux Mérignac
 
-Depuis l'aéroport:
 - prendre le Tram A;
 - changer à Palais de Justice ([voir plan de référence pendant ces
   travaux](https://tbm2025.infotbm.com/wp-content/uploads/2025/03/TRAJETS-MALINS-scaled.jpg))
