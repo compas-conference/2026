@@ -78,7 +78,7 @@ utiliser un [vélo TBM](https://www.infotbm.com/fr/le-velo).
 #### En Bato (depuis Quinconces) puis 7 minutes de marche
 
 Le [service de traversée de la Garonne en
-Bato](https://www.infotbm.com/fr/le_bato_par_tbm.html) ([(voir plan)](https://www.infotbm.com/sites/default/files/medias/images/plan-lebato-nov2024-01.png)) permet de
+Bato](https://www.infotbm.com/fr/le_bato_par_tbm.html) ([voir plan](https://www.infotbm.com/sites/default/files/medias/images/plan-lebato-nov2024-01.png)) permet de
 rallier Quinconces à Stalingrad (Bato 2) avec un [service renforcé
 pendant les
 travaux](https://www.infotbm.com/fr/perturbations/ligne/line:BMA:952/94e0af7e-3a26-11f0-8792-0a58a9feac02).
