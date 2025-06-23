@@ -22,7 +22,7 @@ Pôle universitaire des sciences de gestion<br>
 
 <iframe width="100%" height="450" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.5601525306701661%2C44.843765295110906%2C-0.5548954010009767%2C44.84619000442194&amp;layer=mapnik&amp;marker=44.844977662523654%2C-0.5575239658355713" style="border: 1px solid black"></iframe>
 
-[Afficher une carte plus grande](https://www.openstreetmap.org/?mlat=44.844978&amp;mlon=-0.557524#map=19/44.844978/-0.557524)
+Voir détails: [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.844978&amp;mlon=-0.557524#map=19/44.844978/-0.557524) / [Google Maps](https://maps.app.goo.gl/2g4kc4Bubz1oJgDs8)
 {: style="text-align: center;"}
 
 ### Tram
