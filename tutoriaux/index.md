@@ -130,7 +130,7 @@ application plus complexe. Ils devront créer un module EZTrace afin
 d'instrumenter certaines fonctions, et ils modifieront l'application
 en insérant des sondes à des points d'intérêt.
 
-### Tutoriel NixOS-Compose: Environnements distribués reproductibles avec NixOS-Compose
+### [Tutoriel NixOS-Compose: Environnements distribués reproductibles avec NixOS-Compose](https://notes.inria.fr/ErKsSxuSRUWDqoBQzBGeKg)
 
 #### Organisateurs
 - Quentin Guilloteau (Univ. Lyon, Inria, CNRS, ENS de Lyon, Lyon, France);
