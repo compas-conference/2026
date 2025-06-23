@@ -30,7 +30,8 @@ auteurs ayant choisi de les partager publiquement.
 
 ## Mardi 24 juin
 
-Tutoriels de 9h à 17h15, pauses à 10h30, 12h15 et 15h30.
+- Accueil à partir de 8:30
+- Tutoriels de 9h à 17h15, pauses à 10h30, 12h15 et 15h30.
 
 ### Salle C206
 
