@@ -20,9 +20,10 @@ Pôle universitaire des sciences de gestion<br>
 35 Avenue Abadie<br>
 33072 Bordeaux
 
-<iframe width="100%" height="450" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.5601525306701661%2C44.843765295110906%2C-0.5548954010009767%2C44.84619000442194&amp;layer=mapnik&amp;marker=44.844977662523654%2C-0.5575239658355713" style="border: 1px solid black"></iframe>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.5591788887977601%2C44.84413423785574%2C-0.5568359792232515%2C44.845235346740786&amp;layer=hot&amp;marker=44.844684794929094%2C-0.5580074340105057" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=44.8446848&amp;mlon=-0.5580074#map=20/44.8446848/-0.5580074&amp;layers=H">View Larger Map</a></small>
 
 L'[entrée](https://maps.app.goo.gl/2g4kc4Bubz1oJgDs8) se fait par l'**Avenue Abadie**.
+{: style="text-align: center;"}
 
 Voir détails: [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.844978&amp;mlon=-0.557524#map=19/44.844978/-0.557524) / [Google Maps](https://maps.app.goo.gl/2g4kc4Bubz1oJgDs8)
 {: style="text-align: center;"}
@@ -31,9 +32,11 @@ Voir détails: [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.844978&amp
 
 L'arrêt de tram correspondant est l'arrêt *Jardin Botanique* sur la
 ligne de Tram **A** (l'arrêt est à [5
-minutes](https://www.openstreetmap.org/directions?engine=graphhopper_foot&route=44.842973%2C-0.555348%3B44.844652%2C-0.557808)
-à pieds du site de la conférence ). Attention, en raison de travaux
-importants, cette ligne est coupée depuis centre-ville.
+minutes](https://graphhopper.com/maps/?point=44.843017%2C-0.555711_Jardin+Botanique%2C+Avenue+Thiers%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&point=44.844685%2C-0.558008_Avenue+Abadie+35%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&profile=foot&layer=OpenStreetMap)
+à pieds du site de la conférence ).
+
+**Attention, en raison de travaux
+importants, cette ligne est coupée depuis centre-ville. Voir ci-dessous**
 
 ## Travaux importants (lignes A, C, D)
 
@@ -48,7 +51,7 @@ le pont ne restant ouvert qu'aux piétons et aux cyclistes.
 Voici le [plan de référence pendant ces
 travaux](https://tbm2025.infotbm.com/wp-content/uploads/2025/03/TRAJETS-MALINS-scaled.jpg).
 
-### Sugestions de trajets
+### Suggestions de trajets
 
 <!-- #### Maintenance de la ligne A -->
 
@@ -66,10 +69,11 @@ travaux](https://tbm2025.infotbm.com/wp-content/uploads/2025/03/TRAJETS-MALINS-s
 
 Si vous n'êtes pas trop chargé et que le temps le permet, étant donné
 les travaux, le plus simple et efficace est sans doute la traversée à
-pieds ou à [vélo](https://www.infotbm.com/fr/le-velo) du Pont de
-Pierre. Par exemple, depuis *Porte de Bourgogne*, la
-[traversée](https://www.openstreetmap.org/directions?engine=graphhopper_foot&route=44.83724%2C-0.56624%3B44.84498%2C-0.55753#map=16/44.84114/-0.56206&layers=H)
-du pont puis la marche jusqu'au site est d'environ 20 minutes à pieds.
+pieds du Pont de Pierre. Par exemple, depuis *Porte de Bourgogne*, la
+[traversée du pont puis la marche jusqu'au
+site](https://graphhopper.com/maps/?point=44.836333%2C-0.566256_Porte+de+Bourgogne%2C+Place+Bir-Hakeim%2C+33000+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&point=44.844685%2C-0.558008_Avenue+Abadie+35%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&profile=foot&layer=OpenStreetMap)
+est d'environ 16 minutes à pieds. À noter que vous pouvez également
+utiliser un [vélo TBM](https://www.infotbm.com/fr/le-velo).
 
 #### ... la gare Bordeaux Saint-Jean
 
