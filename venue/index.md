@@ -67,8 +67,8 @@ travaux](https://tbm2025.infotbm.com/wp-content/uploads/2025/03/TRAJETS-MALINS-s
 
 #### À pieds (16 minutes depuis Porte de Bourgogne)
 
-Si vous n'êtes pas trop chargé et que le temps le permet, étant donné
-les travaux, le plus simple et efficace est sans doute la traversée à
+Si vous n'êtes pas trop chargé et que le temps le permet, du fait des
+travaux, le plus simple et efficace est sans doute la traversée à
 pieds du Pont de Pierre. Par exemple, depuis *Porte de Bourgogne*, la
 [traversée du pont puis la marche jusqu'au
 site](https://graphhopper.com/maps/?point=44.836333%2C-0.566256_Porte+de+Bourgogne%2C+Place+Bir-Hakeim%2C+33000+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&point=44.844685%2C-0.558008_Avenue+Abadie+35%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&profile=foot&layer=OpenStreetMap)
