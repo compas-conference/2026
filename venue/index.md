@@ -91,14 +91,47 @@ Vous pouvez consulter les horaires des prochains passages:
 
 Depuis Stalingrad (ponton Yves Parlier), [la conférence est à 7 minutes de marche](https://graphhopper.com/maps/?point=44.841837%2C-0.563262_Ponton+Yves+Parlier%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&point=44.844685%2C-0.558008_Avenue+Abadie+35%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&profile=foot&layer=OpenStreetMap).
 
+### Depuis la gare Bordeaux Saint-Jean
+
+#### Bus C (puis 15 minutes à pieds par le Pont de Pierre)
+
+L'option la plus simple est sans doute de rejoindre la Porte de
+Bourgogne via le bus C (en substitution au Tram C) puis, comme indiqué
+plus haut, [d'effectuer à pieds la traversée du pont et continuer à la
+marche jusqu'au
+site](https://graphhopper.com/maps/?point=44.836333%2C-0.566256_Porte+de+Bourgogne%2C+Place+Bir-Hakeim%2C+33000+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&point=44.844685%2C-0.558008_Avenue+Abadie+35%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&profile=foot&layer=OpenStreetMap)
+
+#### Via Liane 31 puis Tram A (puis 5 minutes de marche)
+
+Si vous êtes chargé, l'itinéraire le plus plus confortable (limitant
+la marche à pieds) est sans doute via la Liane 31 puis le Tram A :
+- Depuis derrière la gare (sortie Belcier), prendre la [la Liane
+31](https://www.infotbm.com/fr/lignes/31)
+- Changement à Galin pour le tram A jusqu'à Jardin Botanique
+- [5 minutes de marche jusqu'au site de la
+conférence](https://graphhopper.com/maps/?point=44.843017%2C-0.555711_Jardin+Botanique%2C+Avenue+Thiers%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&point=44.844685%2C-0.558008_Avenue+Abadie+35%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&profile=foot&layer=OpenStreetMap).
+
+#### Via Ligne 16 (11 minutes de marche, Ligne 16, puis 8 minutes de marche)
+
+Une troisième option envisageable (notamment si le Bus C est trop bondé)
+- [11 minutes de marche jusqu'à arrêt Sainte-Croix (Quai Sainte-Croix)](https://graphhopper.com/maps/?point=44.825817%2C-0.556073_Gare+de+Bordeaux+Saint-Jean%2C+Rue+Charles+Domercq%2C+33800+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&point=44.832154%2C-0.559822&profile=foot&layer=OpenStreetMap)
+- [Ligne 16](https://www.infotbm.com/fr/lignes/line:BMA:16) depuis Saint-Croix jusqu'à Collège Lenoir
+- [https://graphhopper.com/maps/?point=44.840527%2C-0.553704&point=44.844685%2C-0.558008_Avenue+Abadie+35%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&profile=foot&layer=OpenStreetMap](8 minutes de marche jusqu'au site de la conférence)
+
 <!-- ### Depuis la gare Bordeaux Saint-Jean -->
 
 <!-- 1. Prendre le Tram C (direction *Gare de Blanquefort* ou *Parc de expositions*) ou D (direction *Eysines*) jusqu'à *Porte de Bourgogne* (4 arrêts) -->
 <!-- 2. Puis le Tram A (diretion *Bassens* ou *Floirac*) jusqu'à *Jardin Botanique* (2 arrêts) -->
 
-<!-- ### Depuis l'aéroport Bordeaux Mérignac -->
+### Depuis l'aéroport Bordeaux Mérignac
 
-<!-- - Prendre le Tram A (diretion *Bassens* ou *Floirac*) jusqu'à *Jardin Botanique* (24 arrêts) -->
+Depuis l'aéroport:
+- prendre le Tram A;
+- changer à Palais de Justice ([voir plan de référence pendant ces
+  travaux](https://tbm2025.infotbm.com/wp-content/uploads/2025/03/TRAJETS-MALINS-scaled.jpg))
+  pour la [Ligne 16](https://www.infotbm.com/fr/lignes/line:BMA:16)
+  jusqu'à Collège Lenoir;
+- [https://graphhopper.com/maps/?point=44.840527%2C-0.553704&point=44.844685%2C-0.558008_Avenue+Abadie+35%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&profile=foot&layer=OpenStreetMap](8 minutes de marche jusqu'au site de la conférence).
 
 ## Quelques hébergements possibles (à titre indicatif)
 
