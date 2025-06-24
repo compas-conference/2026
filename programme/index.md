@@ -116,7 +116,7 @@ Président : *Marek Felšöci* -- Technique : Brieuc Nicolas
 
 #### Cloud et continuum - Amphi 3
 
-Président : *Quentin Guilloteau*
+Président : *Quentin Guilloteau* -- Technique : Augusta Mukam et Lamyae Hassini
 
 - [Bridding OT and PaaS in Edge-to-Cloud Continuum](../resumes/index.html#soumission-72)<br>
     *C. Barrios Hernandez; Y. Denneulin*
@@ -154,7 +154,7 @@ Président : *à venir* -- Technique : Pierre Clouzet
 
 #### Virtualisation - Amphi 3
 
-Président : *Olivier Richard*
+Président : *Olivier Richard* -- Technique : Augusta Mukam et Lamyae Hassini
 
 - [Fork-nox: a new virtualization technique to enforce system security](../resumes/index.html#soumission-69)<br>
     *J. Dumollard; N. Derumigny; M. Bacou; G. Thomas*
