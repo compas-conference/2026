@@ -80,7 +80,7 @@ Président : *François Trahay*
 
 #### Systèmes distribués et tolérance aux fautes - Amphi 3
 
-Président : *à venir* -- Technique : Abdraman Mahamat Younous
+Président : *Pierre Sens* -- Technique : Abdraman Mahamat Younous
 
 - [AUPE : Protocole collaboratif d’échantillonnage de pairs tolérant aux fautes byzantines](../resumes/index.html#soumission-2)<br>
     *A. Mukam; J. Bruneau-Queyreix; L. Réveillère*
@@ -133,7 +133,7 @@ Président : *Quentin Guilloteau* -- Technique : Augusta Mukam et Lamyae Hassini
 
 #### Analyse de performances - Amphi 1
 
-Président : *à venir* -- Technique : Pierre Clouzet
+Président : *Hugo Brunie* -- Technique : Pierre Clouzet
 
 - [Les défis de l'optimisation d'un benchmark jusqu'à l'installation d'un Supercalculateur Exaflopique](https://eviden.com/fr-fr/)<br>
     *D. Goudin*
