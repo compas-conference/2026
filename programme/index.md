@@ -12,6 +12,17 @@ header:
 
 # **Programme**
 
+## Accès Wifi
+
+Le réseau Eduroam fonctionne.
+
+Si vous n'avez pas de compte Eduroam, vous pouvez sélectionner le réseau `UBx-invites` avec la configuration suivante :
+- Sécurité : WPA/WPA2 Entreprise
+- Authentification : Tunneled TLS
+- Cocher "Aucun certificat n'est requis"
+- Authentification interne : PAP
+- Nom d'utilisateur et mot de passe sont au dos de votre badge
+
 ## Présentations orales
 
 En dehors des présentations plénières, chaque présentation aura un
