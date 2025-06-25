@@ -189,7 +189,16 @@ Président : *Gil Utard* -- Technique : Samuel Mendoza
 
 ### 19h Événement festif
 
+Pour les personnes inscrites à l'événement festif.
 
+[Péniche Le Royal](https://www.penicheleroyal.fr/)
+
+Embarcadère Montesquieu 33 quai des Queyries<br>
+33100 Bordeaux
+
+Rendez-vous à **19h**.
+
+![Itinéraire vers la péniche](/assets/img/itineraire_peniche.png)
 
 
 
