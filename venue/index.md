@@ -117,10 +117,6 @@ Voici une troisième option envisageable (notamment si le Bus C est trop bondé)
 - [Ligne 16](https://www.infotbm.com/fr/lignes/line:BMA:16) depuis Saint-Croix jusqu'à Collège Lenoir;
 - [8 minutes de marche jusqu'au site de la conférence](https://graphhopper.com/maps/?point=44.840527%2C-0.553704&point=44.844685%2C-0.558008_Avenue+Abadie+35%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&profile=foot&layer=OpenStreetMap).
 
-<!-- ### Depuis la gare Bordeaux Saint-Jean -->
-
-<!-- 1. Prendre le Tram C (direction *Gare de Blanquefort* ou *Parc de expositions*) ou D (direction *Eysines*) jusqu'à *Porte de Bourgogne* (4 arrêts) -->
-<!-- 2. Puis le Tram A (diretion *Bassens* ou *Floirac*) jusqu'à *Jardin Botanique* (2 arrêts) -->
 
 ### Depuis l'aéroport Bordeaux Mérignac
 
@@ -130,6 +126,20 @@ Voici une troisième option envisageable (notamment si le Bus C est trop bondé)
   pour la [Ligne 16](https://www.infotbm.com/fr/lignes/line:BMA:16)
   jusqu'à Collège Lenoir;
 - [8 minutes de marche jusqu'au site de la conférence](https://graphhopper.com/maps/?point=44.840527%2C-0.553704&point=44.844685%2C-0.558008_Avenue+Abadie+35%2C+33100+Bordeaux%2C+Nouvelle-Aquitaine%2C+France&profile=foot&layer=OpenStreetMap).
+
+## Évènement festif mercredi 19h
+
+Pour les personnes inscrites à l'événement festif.
+
+[Péniche Le Royal](https://www.penicheleroyal.fr/)
+
+Embarcadère Montesquieu 33 quai des Queyries<br>
+33100 Bordeaux
+
+Rendez-vous à **19h**.
+
+![Itinéraire depuis le site de la conférence jusqu'à la péniche](/assets/img/itineraire_peniche.png)
+
 
 ## Quelques hébergements possibles (à titre indicatif)
 
@@ -145,21 +155,4 @@ Voici une troisième option envisageable (notamment si le Bus C est trop bondé)
 - [Hôtel de l'Opéra](https://opera.hotel-bordeaux-centre.com/) (05 56 81 41 27), 35 rue Esprit des Lois, 33000 Bordeaux
 - [Hôtel des 4 sœurs](http://hotel-bordeaux-centre.com/) (05 57 81 19 20) - 6 cr du 30 juillet, 33000 Bordeaux
 - [Auberge de jeunesse & Hotel Bordeaux](https://centralhostel.fr/nos-destinations/bordeaux/dortoir-bordeaux/) (05 57 83 61 63), 2 place Saint-Projet, 33000 Bordeaux
-
-<!-- ### **Venir à Nantes** -->
-
-<!-- Le plus simple est de venir en train. La gare SNCF de Nantes est située à 2 arrêts de tramway du lieu de la conférence. Prendre le [tramway](https://naolib.fr) direction François Mitterand ou Jamet. -->
-
-<!-- L'aéroport de Nantes est situé au sud-ouest de la ville. [Une navette permet de rejoindre le centre-ville. Le bus est également possible.](https://www.nantes.aeroport.fr/fr/acces-et-transports/navette-aeroport) -->
-
-<!-- ### **Se loger** -->
-
-<!-- Le lieu de la conférence est situé en bas et au centre de la carte ci-dessous **Nantes Université UFR Médecine** dans l'ovale rouge. -->
-
-<!-- ![Image](/venue/hotels.jpg) -->
-
-<!-- Une [liste des hôtels du centre de Nantes est disponible](https://www.levoyageanantes.fr/sorganiser/ou-dormir/hotels-du-centre-ville/) sur le site du Voyage à Nantes. -->
-
-<!-- Les hôtels sont en moyenne à 10-15 minutes de marche (5 minutes en bus). -->
-<!-- Ils sont classés par nombre d'étoiles et les tarifs sont en conséquence. -->
 
