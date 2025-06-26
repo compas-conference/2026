@@ -17,7 +17,8 @@ La première journée (**mardi 24 juin**) de la conférence est dédiée aux
 [tutoriels](https://2025.compas-conference.fr/tutoriaux/) (cf.
 [charte](https://www.compas-conference.fr/organisation/charte/)).
 
-Cette année la conférence propose **6 tutoriels**.
+Cette année la conférence propose **6 tutoriels** sur cette journée
+du mardi.
 
 Un *tutoriel* (*tutorial*) est également un évènement associé à la
 conférence. Il vise à initier ou approfondir les connaissances des
@@ -26,6 +27,27 @@ participants sur un sujet spécifique. Animé par un expert ou une
 démonstrations pratiques, avec un objectif de formation progressive
 plutôt que d’échange ou de recherche avancée. Il dure typiquement une
 demi-journée (3h).
+
+En sus, nous proposons un *tutoriel à la demande* sur *scikit-learn*
+(ci-dessous)
+
+### [Tutoriel Scikit-learn : la boîte à outils pour l'apprentissage automatique (à la demande)](https://www.inria-academy.fr/formation/scikit-learn-la-boite-a-outils-de-lapprentissage-automatique)
+
+#### Organisatrice
+- [Laure Bourgois](https://www.inria-academy.fr/portrait-de-formatrice-laure-bourgois/) (Inria Academy)
+
+
+Ce tutoriel couvrira les notions de base de l’apprentissage
+statistique (machine learning) et leur réalisation avec scikit-learn.
+Nous étudierons comment charger un jeu de données pour l’exposer à
+scikit-learn, quels sont les types de questions auxquelles
+l’apprentissage statistique peut répondre, et comment utiliser
+scikit-learn pour y répondre. Spécifiquement, nous couvrirons
+l’apprentissage supervisé, avec la sélection et de modèles. S’il le
+temps nous le permet, et en fonction du niveau des participants, nous
+étudierons aussi de façon plus détaillée l’assemblage de pipelines de
+mise en forme de données, et quelques modèles en particulier ainsi que
+la validation croisée.
 
 ###  [Tutoriel RISC-V: Rajout de périphériques sur un cœur RISC-V CVA6](https://perso.ens-lyon.fr/nicolas.derumigny/COMPAS-Tutorial.html)
 
@@ -202,7 +224,6 @@ partie de l’outil de déploiement Guix pour rapidement déployer et
 faire tourner, de manière fiable et reproductible, des codes HPC sur
 des supercalculateurs tels que Adastra (CINES), Jean-Zay (IDRIS) et
 Irène (TGCC).
-
 
 
 <!-- Les tutoriels seront organisés le 2 Juillet 2024, avant la conférence pour une durée d'environ 3h00 (possibilité de demander deux créneaux pour un tutoriel de 6h sur la journée). La participation aux tutoriels est gratuite pour tous les participants à la conférence COMPAS 2024. -->
