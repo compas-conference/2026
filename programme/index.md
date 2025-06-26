@@ -224,6 +224,8 @@ Président : *Nicolas Bouzat* -- Technique : Pierre Clouzet
 
 - [Adecwatts : wattmètres innovants pour mesures performantes](https://www.adecwatts.fr/recherche-et-enseignement)<br>
     *N. Nolibos*
+- [Denergium: More FLOPS per Watt](https://www.denergium.fr/)<br>
+    *H. Mathieu*
 - [Rejeu de leviers environnementaux dans des infrastructures de Clouds et continuums](../resumes/index.html#soumission-67)<br>
     *T. Stavis; L. Lefèvre; A. Orgerie*
 - [Improving energy efficiency of HPC applications using unbalanced GPU power capping](../resumes/index.html#soumission-34)<br>
