@@ -13,19 +13,37 @@ header:
 
 ### Comité d'organisation
 
+#### Co-Présidents
 
-+ Emmanuel Agullo (Co-président -- Inria Bordeaux)
-+ Philippe Swartvagher (Co-président -- Bordeaux INP, Inria Bordeaux)
++ Emmanuel Agullo (Co-Président -- Inria Bordeaux)
++ Philippe Swartvagher (Co-Président -- Bordeaux INP, Inria Bordeaux)
 
+#### Responsables
+
++ Catherine Mégrat (Administration et accueil -- Inria Bordeaux)
++ Marie-Mélissandre Roy (Administration et accueil -- Inria Bordeaux)
 + Alexandre Denis (Site de soumission -- Inria Bordeaux)
 + Nathalie Furmento (Communication -- CNRS / Inria Bordeaux)
-+ Catherine Mégrat (Administration -- Inria Bordeaux)
-+ Marie-Mélissandre Roy (Administration -- Inria Bordeaux)
 + Laurent Réveillère (Évènements -- Université de Bordeaux)
 + François Rue (Ateliers et Tutoriels -- Inria Bordeaux)
 + Stojche Nakov (Posters -- Inria Bordeaux)
 + Laure Bourgois (Posters -- Inria Academy)
 + Olga  Kieffer (Posters -- Inria Academy)
+
+#### Accueil et technique
+
+- Pierre Clouzet
+- Antoine Gicquel
+- Lamyae Hassini
+- Alice Lasserre
+- Alexandre Malhéné
+- Gilles Marait
+- Samuel Mendoza
+- Augusta Mukam
+- Brieuc Nicolas
+- Gaël Valade
+- Abdraman Mahamat Younous
+
 
 <!-- <\!-- #### Comité de pilotage -->
 <!--  + Bertrand Le Gal (Représentant Architecture, Bordeaux) -->
