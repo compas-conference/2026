@@ -6,14 +6,14 @@ layout: page
 title: "Appel à Contributions"
 teaser: ""
 header:
-   image_fullwidth: "bordeaux-small.jpeg"
+   image_fullwidth: "biarritz-small.jpeg"
    permalink: "/"
 ---
 
 
 Compas est la Conférence francophone en informatique autour des thématiques du parallélisme, de l’architecture et des systèmes. Depuis de nombreuses années, Compas offre la possibilité à la communauté francophone ou travaillant en France sur ces thématiques d’échanger autour d’un programme riche et varié. Compas a pour but premier de favoriser la rencontre de chercheurs confirmés, de jeunes chercheurs et d’industriels. Compas permet de renforcer les liens entre équipes de recherche du monde francophone et favorise l’émergence de nouveaux sujets de recherche et collaborations, avec une emphase sur l’intégration des jeunes chercheurs.
 
-Compas 2025 propose deux options pour la soumission de contributions, afin de répondre aux besoins exprimés par la communauté :
+Compas 2026 propose deux options pour la soumission de contributions, afin de répondre aux besoins exprimés par la communauté :
 {: style="text-align: justify;"}
 
 ### **Option 1 : Article**
@@ -60,14 +60,14 @@ Compas n’a pas pour objectif de remplacer une publication dans une conférence
 
 Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/misc/compas-2025-style.zip)** (en utilisant uniquement la partie abstract pour les résumés) et être déposées sur le [site de soumission](https://crp.info.ucl.ac.be/compas2025/).
 
-La date limite de soumission des **résumés** et [**articles**](https://hal.science/COMPAS2025/) est le  ~~vendredi 28 février 2025~~ **vendredi 14 mars 2025**
+La date limite de soumission des **résumés** et [**articles**](https://hal.science/COMPAS2025/) est le **XX 2026**
 
 ### **Tutoriels**
 {: style="text-align: center;"}
 
-La conférence comprend des tutoriels sélectionnés par le comité d’organisation. Il se dérouleront le mardi de la semaine de la conférence. Merci de proposer vos tutoriels directement par mail à [compas2025@inria.fr](mailto:compas2025@inria.fr).
+La conférence comprend des tutoriels sélectionnés par le comité d’organisation. Il se dérouleront le mardi de la semaine de la conférence. Merci de proposer vos tutoriels directement par mail à [compas2026@inria.fr](mailto:compas2026@inria.fr).
 
-La date limite de soumission de **tutoriels** est le **vendredi 14 mars 2025**
+La date limite de soumission de **tutoriels** est le **XX 2026**
 
 
 {: style="text-align: justify;"}

@@ -6,7 +6,7 @@ layout: page
 title: ""
 teaser: ""
 header:
-    image_fullwidth: "bordeaux-small.jpeg"
+    image_fullwidth: "biarritz-small.jpeg"
     permalink: "/"
 ---
 
@@ -14,13 +14,13 @@ header:
 
 La première journée (**mardi 24 juin**) de la conférence est dédiée aux
 [ateliers](https://2025.compas-conference.fr/workshops/) et
-[tutoriels](https://2025.compas-conference.fr/tutoriaux/). (cf.
+[tutoriels](https://2025.compas-conference.fr/tutoriels/). (cf.
 [charte](https://www.compas-conference.fr/organisation/charte/)).
 
 Cette année la conférence propose **1 atelier** et [6
-tutoriels](https://2025.compas-conference.fr/tutoriaux/). Cette page
+tutoriels](https://2025.compas-conference.fr/tutoriels/). Cette page
 présente l'atelier proposé (OSSMOSE). Vous pouvez retrouvez les
-tutoriels [là](https://2025.compas-conference.fr/tutoriaux/).
+tutoriels [là](https://2025.compas-conference.fr/tutoriels/).
 
 Un *atelier* (*workshop*) est un évènement associé à la conférence, où
 des experts et participants explorent un sujet précis à travers des

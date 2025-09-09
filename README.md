@@ -1,4 +1,4 @@
-2025.compas-conference.fr
+2026.compas-conference.fr
 
 # Installation
 

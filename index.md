@@ -3,26 +3,25 @@ layout: page
 #
 # Content
 #
-title: "Conférence francophone d'informatique en Parallélisme, Architecture et Système (COMPAS 2025)"
+title: "Conférence francophone d'informatique en Parallélisme, Architecture et Système (COMPAS 2026)"
 header:
-   image_fullwidth: "bordeaux-small.jpeg"
+   image_fullwidth: "biarritz-small.jpeg"
    permalink: "/"
 ---
 
 
 <BR>&nbsp;<BR>
 
-### Compas 2025
+### Compas 2026
 
-L'édition **2025** de **Compas** aura lieu du **mardi 24 au vendredi 27 juin**
-2025 à **Bordeaux** ([Campus Bastide de l'Université de Bordeaux](venue)).
+L'édition **2026** de **Compas** aura lieu du **30 juin au 04 juillet**
+2026 à **Anglet** ([Campus Montaury de l'Université de Pau et des Pays de l'Adour](venue)).
 
-La journée du **mardi 24 juin** sera dédiée aux [tutoriels](tutoriaux).
+La journée du **XX juin** sera dédiée aux [tutoriels](tutoriels).
 
-Les [présentations scientifiques](programme) se dérouleront sur deux jours et
-demi, **du mercredi 25 juin au vendredi 27 juin midi**.
+Les [présentations scientifiques](programme) se dérouleront sur XX jours, **du XX juin au XX juillet**.
 
-La **session poster** aura lieu **jeudi soir**.
+La **session poster** aura lieu **XX**.
 
 ### Compas
 
@@ -40,14 +39,11 @@ avec une emphase sur l'**intégration des jeunes chercheurs**.
 
 ### Dates importantes
 
-* Date limite de soumission d'[**articles**](https://hal.science/COMPAS2025/) et de **résumés** : ~~vendredi 28
-  février 2025~~ vendredi 14 mars 2025 (Il n'y aura pas d'autre extension)
-* Date limite de soumission de
-  [tutoriels](tutoriaux) : vendredi
-14 mars 2025
-* Notification : vendredi 18 avril 2025
-* Ouverture des inscriptions : **vendredi 25 avril 2025**
-* Date limite d'inscription : **vendredi 23 mai 2025** (inscription *majorée* possible jusqu'au vendredi 6 juin inclus)
+* Date limite de soumission d'[**articles**](https://hal.science/COMPAS2025/) et de **résumés** : XX 2026
+* Date limite de soumission de [tutoriels](tutoriels) : XX 2026
+* Notification : XX 2026
+* Ouverture des inscriptions : **XX 2026**
+* Date limite d'inscription : **XX 2026**
 
 {: style="text-align: justify;"}
 
@@ -55,4 +51,4 @@ avec une emphase sur l'**intégration des jeunes chercheurs**.
 ### Contact
 
 Pour toute question, il est possible d'écrire à
-*compas-2025-organisation-locale [chez] inria.fr*
+*compas-2026-organisation-locale [chez] inria.fr*

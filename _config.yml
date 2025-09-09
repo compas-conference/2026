@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: "Compas 2025"
+title: "Compas 2026"
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: "Conférence d'informatique en Parallélisme, Architecture et Système"
@@ -21,7 +21,7 @@ author: smonnet
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://2025.compas-conference.fr'
+url: 'https://2026.compas-conference.fr'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -37,7 +37,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 urlimg: '/images/'
 
 # Logo size is 600x80 pixels
-logo: "logo-2025.svg"
+logo: "logo-2026.svg"
 
 
 # Paginates all X entries
