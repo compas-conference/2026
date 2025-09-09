@@ -6,12 +6,9 @@ layout: page
 title: "Inscription"
 teaser: ""
 header:
-    image_fullwidth: "biarritz-small.jpeg"
+    image_fullwidth: "paysbasque.jpg"
     permalink: "/"
 ---
-
-
-<br>
 
 L'inscription comprend :
   * l'accès complet à la conférence du XX au XX 2026 (tutoriels, sessions, keynotes, ...),

@@ -6,7 +6,7 @@ layout: page
 title: "Gérer mon inscription"
 teaser: ""
 header:
-    image_fullwidth: "biarritz-small.jpeg"
+    image_fullwidth: "paysbasque.jpg"
     permalink: "/"
 ---
 

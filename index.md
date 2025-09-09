@@ -5,7 +5,7 @@ layout: page
 #
 title: "Conférence francophone d'informatique en Parallélisme, Architecture et Système (COMPAS 2026)"
 header:
-   image_fullwidth: "biarritz-small.jpeg"
+   image_fullwidth: "paysbasque.jpg"
    permalink: "/"
 ---
 
@@ -14,7 +14,7 @@ header:
 
 ### Compas 2026
 
-L'édition **2026** de **Compas** aura lieu du **30 juin au 04 juillet**
+L'édition **2026** de **Compas** aura lieu du **30 juin au 03 juillet**
 2026 à **Anglet** ([Campus Montaury de l'Université de Pau et des Pays de l'Adour](venue)).
 
 La journée du **XX juin** sera dédiée aux [tutoriels](tutoriels).

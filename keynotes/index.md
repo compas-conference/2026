@@ -6,7 +6,7 @@ layout: page
 title: "Présentations plénières"
 teaser: ""
 header:
-    image_fullwidth: "biarritz-small.jpeg"
+    image_fullwidth: "paysbasque.jpg"
     permalink: "/"
 ---
 

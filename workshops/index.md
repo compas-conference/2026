@@ -3,21 +3,19 @@ layout: page
 #
 # Content
 #
-title: ""
+title: "Ateliers"
 teaser: ""
 header:
-    image_fullwidth: "biarritz-small.jpeg"
+    image_fullwidth: "paysbasque.jpg"
     permalink: "/"
 ---
 
-## **Ateliers**
-
-La première journée (**mardi 24 juin**) de la conférence est dédiée aux
+La première journée (**XX**) de la conférence est dédiée aux
 [ateliers](https://2025.compas-conference.fr/workshops/) et
 [tutoriels](https://2025.compas-conference.fr/tutoriels/). (cf.
 [charte](https://www.compas-conference.fr/organisation/charte/)).
 
-Cette année la conférence propose **1 atelier** et [6
+Cette année la conférence propose **X ateliers** et [6
 tutoriels](https://2025.compas-conference.fr/tutoriels/). Cette page
 présente l'atelier proposé (OSSMOSE). Vous pouvez retrouvez les
 tutoriels [là](https://2025.compas-conference.fr/tutoriels/).

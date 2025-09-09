@@ -3,14 +3,13 @@ layout: page
 #
 # Content
 #
-title: ""
+title: "Lieu de la conférence"
 teaser: ""
 header:
-    image_fullwidth: "biarritz-small.jpeg"
+    image_fullwidth: "paysbasque.jpg"
     permalink: "/"
 ---
 
-### **Lieu de la conférence**
 
 L'édition 2026 de Compas aura lieu du mardi 30 juin au samedi 04 juillet
 2026 à Anglet, sur le [Campus Montaury d'Anglet](https://organisation.univ-pau.fr/fr/decouvrir-l-uppa/les-campus/campus-d-anglet.html).
