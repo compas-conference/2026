@@ -60,14 +60,14 @@ Compas n’a pas pour objectif de remplacer une publication dans une conférence
 
 Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/misc/compas-2025-style.zip)** (en utilisant uniquement la partie abstract pour les résumés) et être déposées sur le [site de soumission](https://crp.info.ucl.ac.be/compas2025/).
 
-La date limite de soumission des **résumés** et [**articles**](https://hal.science/COMPAS2025/) est le **XX 2026**
+La date limite de soumission des **résumés** et **articles** est le **vendredi 27 février 2026**
 
 ### **Tutoriels**
 {: style="text-align: center;"}
 
 La conférence comprend des tutoriels sélectionnés par le comité d’organisation. Il se dérouleront le mardi de la semaine de la conférence. Merci de proposer vos tutoriels directement par mail à [compas2026@inria.fr](mailto:compas2026@inria.fr).
 
-La date limite de soumission de **tutoriels** est le **XX 2026**
+La date limite de soumission d'**ateliers** et **tutoriels** est le **vendredi 13 mars 2026**
 
 
 {: style="text-align: justify;"}

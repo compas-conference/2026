@@ -39,11 +39,12 @@ avec une emphase sur l'**intégration des jeunes chercheurs**.
 
 ### Dates importantes
 
-* Date limite de soumission d'[**articles**](https://hal.science/COMPAS2025/) et de **résumés** : XX 2026
-* Date limite de soumission de [tutoriels](tutoriels) : XX 2026
-* Notification : XX 2026
-* Ouverture des inscriptions : **XX 2026**
-* Date limite d'inscription : **XX 2026**
+* Date limite de soumission d'**articles** et de **résumés** : vendredi 27 février 2026
+* Date limite de soumission d'**atelier** et [tutoriels](tutoriels) : vendredi 13 mars 2026
+* Notification : vendredi 17 avril 2026
+* Ouverture des inscriptions : **vendredi 24 avril 2026**
+* Early registration : vendredi 29 mai 2026
+* Late : vendredi 12 juin 2026 
 
 {: style="text-align: justify;"}
 

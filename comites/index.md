@@ -13,21 +13,12 @@ header:
 
 ### Comité d'organisation
 
-#### Président
-
-+ Philippe Roose (LIUPPA - Anglet)
-
-#### Responsables
-
-
-
-#### Accueil et technique
-
-- Yasmina Bouizem (LIUPPA - Anglet)
-- Zhongwei Ma (LIUPPA - Anglet)
-- Léo Mendiboure (Université Gustave Eiffel - Bordeaux)
-- Nicolas Tirel (LIUPPA - Anglet)
-- Yunji Zhang (LIUPPA - Anglet)
+- Philippe Roose (LIUPPA, E2S, IUT de Bayonne, UPPA) 
+- Léo Mendiboure (LIUPPA, E2S, ISA NUM, UPPA)
+- Nicolas Tirel (LIUPPA, E2S, IUT de Bayonne, UPPA) 
+- Yasmina Bouizem (LIUPPA, E2S, IUT de Bayonne, UPPA) 
+- Yunji Zhang (LIUPPA, E2S, IUT de Bayonne, UPPA) 
+- Zhongwei Ma (LIUPPA, E2S, IUT de Bayonne, UPPA) 
 
 
 <!-- <\!-- #### Comité de pilotage -->

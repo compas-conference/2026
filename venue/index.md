@@ -11,7 +11,7 @@ header:
 ---
 
 
-L'édition 2026 de Compas aura lieu du mardi 30 juin au samedi 04 juillet
+L'édition 2026 de Compas aura lieu du mardi 30 juin au vendredi 03 juillet
 2026 à Anglet, sur le [Campus Montaury d'Anglet](https://organisation.univ-pau.fr/fr/decouvrir-l-uppa/les-campus/campus-d-anglet.html).
 
 IUT de Bayonne et du Pays Basque<br>
