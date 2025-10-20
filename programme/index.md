@@ -6,7 +6,7 @@ layout: page
 title: "Programme"
 teaser: ""
 header:
-    image_fullwidth: "paysbasque.jpg"
+    image_fullwidth: "biarritz.jpg"
     permalink: "/"
 ---
 

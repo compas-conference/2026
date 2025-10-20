@@ -5,7 +5,7 @@ layout: page
 #
 title: "Conférence francophone d'informatique en Parallélisme, Architecture et Système (COMPAS 2026)"
 header:
-   image_fullwidth: "paysbasque.jpg"
+   image_fullwidth: "biarritz.jpg"
    permalink: "/"
 ---
 
