@@ -30,13 +30,13 @@ Toutes les thématiques relevant de la conférence (Architecture, Systèmes et P
 
 ### Dates importantes
 
-- Date limite de soumission des tutoriels : 27/02/2025
-- Notification auteurs et affichage tutoriels acceptés : XX/XX/2025
-- Résumés des tutoriels et pages web : XX/XX/2025
+- Date limite de soumission des tutoriels : 27/02/2026
+- Notification auteurs et affichage tutoriels acceptés : XX/XX/2026
+- Résumés des tutoriels et pages web : XX/XX/2026
 
 ### Instructions de soumission
 
-Les propositions de tutoriels doivent être soumises par email à XX.
+Les propositions de tutoriels doivent être soumises par email à [compas2026@inria.fr](mailto:compas2026@inria.fr)..
 
 Les propositions doivent être soumises dans un seul mail contenant les informations suivantes :
 

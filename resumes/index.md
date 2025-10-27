@@ -12,4 +12,4 @@ header:
 
 # Résumés
 
-A venir
+À venir.

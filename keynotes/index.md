@@ -10,5 +10,4 @@ header:
     permalink: "/"
 ---
 
-
-A venir
+À venir.
