@@ -91,4 +91,4 @@ Il y a de nombreux hotels localisé à 30 minutes à pied autour du lieu de la c
 - [Hôtel Des Basses Pyrénées – Bayonne](https://www.hotel-bassespyrenees-bayonne.com/) (+33559257088) - 13 Rue Tour de Sault, 64100 Bayonne, France (3.2 km)
 
 
-[Airbnb](airbnb.fr) also offers many local accommodations.
+[Airbnb](airbnb.fr) offre aussi de nombreuses hébérgements locaux.
