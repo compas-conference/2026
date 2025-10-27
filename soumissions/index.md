@@ -38,11 +38,12 @@ Tant les articles que les résumés donnent accès à un slot de présentation d
 
 Tous les auteurs d’un article ou d’un résumé accepté pourront s’ils le souhaitent présenter un poster lors de la conférence. Il n’y aura pas d’appel à poster spécifique. Les auteurs souhaitant présenter uniquement un poster sont invités à soumettre un résumé et à indiquer leur préférence de ne pas faire de présentation orale.
 
+<!-- 
 Les auteurs de poster acceptés peuvent venir avec leur propre poster
 ou bien, s'ils le souhaitent, déléguer l'impression et la mise en
 place du poster. Dans ce dernier cas, il faut suivre le patron et les
 instructions disponibles
-[là](https://gitlab.inria.fr/compas2025/poster).
+[là](https://gitlab.inria.fr/compas2025/poster). -->
 
 ### **Langue**
 {: style="text-align: center;"}
@@ -58,7 +59,8 @@ Compas n’a pas pour objectif de remplacer une publication dans une conférence
 ### **Procédure de soumission des résumés et articles**
 {: style="text-align: center;"}
 
-Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/misc/compas-2025-style.zip)** (en utilisant uniquement la partie abstract pour les résumés) et être déposées sur le [site de soumission](https://crp.info.ucl.ac.be/compas2025/).
+<!--
+Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/misc/compas-2025-style.zip)** (en utilisant uniquement la partie abstract pour les résumés) et être déposées sur le [site de soumission](https://crp.info.ucl.ac.be/compas2025/). -->
 
 La date limite de soumission des **résumés** et **articles** est le **vendredi 27 février 2026**
 
