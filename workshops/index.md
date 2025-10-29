@@ -11,8 +11,8 @@ header:
 ---
 
 La première journée (**mardi 30 juin**) de la conférence est dédiée aux
-[ateliers](https://2025.compas-conference.fr/workshops/) et
-[tutoriels](https://2025.compas-conference.fr/tutoriels/). (cf.
+[ateliers](https://2026.compas-conference.fr/workshops/) et
+[tutoriels](https://2026.compas-conference.fr/tutoriels/). (cf.
 [charte](https://www.compas-conference.fr/organisation/charte/)).
 
 <!-- Cette année la conférence propose **X ateliers** et [X

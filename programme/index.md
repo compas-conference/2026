@@ -31,7 +31,7 @@ Les résumés associés aux présentations sont accessibles
 <!-- ### Articles 
 
  Vous pourrez consulter la [collection HAL dédiée à Compas
-2026](https://hal.science/COMPAS2025/) groupant les articles des
+2026](https://hal.science/COMPAS2026/) groupant les articles des
 auteurs ayant choisi de les partager publiquement. -->
 
 

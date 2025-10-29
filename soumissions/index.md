@@ -29,7 +29,7 @@ Les présentations sur la base de résumé feront l’objet d’une évaluation 
 
 
 ### Style
-Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/misc/compas-2025-style.zip)** (en utilisant uniquement la partie abstract pour les résumés) et être déposées sur le site de soumission (bientôt disponible).
+Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/misc/compas-2026-style.zip)** (en utilisant uniquement la partie abstract pour les résumés) et être déposées sur le site de soumission (bientôt disponible).
 
 ### Langue
 
@@ -56,7 +56,7 @@ Les auteurs de poster acceptés peuvent venir avec leur propre poster
 ou bien, s'ils le souhaitent, déléguer l'impression et la mise en
 place du poster. Dans ce dernier cas, il faut suivre le patron et les
 instructions disponibles
-[là](https://gitlab.inria.fr/compas2025/poster). -->
+[là](https://gitlab.inria.fr/compas2026/poster). -->
 
 ## 3. Politique de publication
 

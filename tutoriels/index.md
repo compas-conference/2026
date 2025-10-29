@@ -12,7 +12,7 @@ header:
 
 
 
-Les tutoriels seront organisés le mardi 30 juin 2026, avant la conférence pour une durée d'environ 3h00 (possibilité de demander deux créneaux pour un tutoriel de 6h sur la journée). La participation aux tutoriels est gratuite pour tous les participants à la conférence COMPAS 2025.
+Les tutoriels seront organisés le mardi 30 juin 2026, avant la conférence pour une durée d'environ 3h00 (possibilité de demander deux créneaux pour un tutoriel de 6h sur la journée). La participation aux tutoriels est gratuite pour tous les participants à la conférence COMPAS 2026.
 
 ### Objectifs
 
