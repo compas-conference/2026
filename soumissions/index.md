@@ -27,19 +27,21 @@ Les articles classiques feront l’objet d’une évaluation poussée par le com
 
 Les présentations sur la base de résumé feront l’objet d’une évaluation plus simple fondée sur l’adéquation thématique. Un résumé comprend **au maximum 350 mots**. Un résumé peut par exemple présenter des travaux préliminaires, un plan de thèse pour une doctorant ou un doctorant débutant·e, mais aussi des résultats significatifs publiés dans un forum international (conférence ou journal), susceptibles d’intéresser la communauté. Les présentations sur la base de résumé sont un moyen de présenter des travaux lors de la conférence, mais **ne reçoivent pas de commentaires écrits** du comité de lecture.
 
+
+### Style
+Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/misc/compas-2025-style.zip)** (en utilisant uniquement la partie abstract pour les résumés) et être déposées sur le site de soumission (bientôt disponible).
+
 ### Langue
 
 Les articles et résumés soumis peuvent utiliser indifféremment le français ou l’anglais. Les auteurs francophones doivent être encouragés à présenter leurs travaux en français quelle que soit la langue utilisée pour la contribution.
 
 ### Tutoriels
 
-La conférence comprend des tutoriels sélectionnés par le comité d’organisation. Il se dérouleront le mardi de la semaine de la conférence. Merci de proposer vos tutoriels directement par mail à [compas2026@inria.fr](mailto:compas2026@inria.fr).
+La conférence comprend des tutoriels sélectionnés par le comité d’organisation. Il se dérouleront le mardi de la semaine de la conférence. <!-- Merci de proposer vos tutoriels directement par mail à [compas2026@inria.fr](mailto:compas2026@inria.fr). -->
 
 La date limite de soumission d'**ateliers** et **tutoriels** est le **vendredi 13 mars 2026**
 
 
-<!--
-Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/misc/compas-2025-style.zip)** (en utilisant uniquement la partie abstract pour les résumés) et être déposées sur le [site de soumission](https://crp.info.ucl.ac.be/compas2025/). -->
 
 ## 2. Présentations
 

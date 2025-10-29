@@ -15,9 +15,10 @@ L'inscription comprend :
   * les déjeuners, et différentes pauses,
   * le gala, cocktails et autres évenements.
 
+<!-- 
 Pour toute question, il est possible d'écrire à
 *compas-2026-organisation-locale [chez] inria.fr*
-
+-->
 #### Tarifs jusqu’au vendredi 29 mai 2026
 
 À venir.

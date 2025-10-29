@@ -12,7 +12,7 @@ header:
 
 
 
-Les tutoriels seront organisés le XX 2026, avant la conférence pour une durée d'environ 3h00 (possibilité de demander deux créneaux pour un tutoriel de 6h sur la journée). La participation aux tutoriels est gratuite pour tous les participants à la conférence COMPAS 2025.
+Les tutoriels seront organisés le mardi 30 juin 2026, avant la conférence pour une durée d'environ 3h00 (possibilité de demander deux créneaux pour un tutoriel de 6h sur la journée). La participation aux tutoriels est gratuite pour tous les participants à la conférence COMPAS 2025.
 
 ### Objectifs
 
@@ -31,13 +31,14 @@ Toutes les thématiques relevant de la conférence (Architecture, Systèmes et P
 ### Dates importantes
 
 - Date limite de soumission des tutoriels : 27/02/2026
-- Notification auteurs et affichage tutoriels acceptés : XX/XX/2026
-- Résumés des tutoriels et pages web : XX/XX/2026
+- Notification auteurs et affichage tutoriels acceptés : à venir
+- Résumés des tutoriels et pages web : à venir
 
 ### Instructions de soumission
 
+<!--
 Les propositions de tutoriels doivent être soumises par email à [compas2026@inria.fr](mailto:compas2026@inria.fr)..
-
+-->
 Les propositions doivent être soumises dans un seul mail contenant les informations suivantes :
 
 - Une description du tutoriel en deux phrases

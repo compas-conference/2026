@@ -17,11 +17,11 @@ header:
 L'édition **2026** de **Compas** aura lieu du **30 juin au 03 juillet**
 2026 à **Anglet** ([Campus Montaury de l'Université de Pau et des Pays de l'Adour](venue)).
 
-La journée du **XX juin** sera dédiée aux [tutoriels](tutoriels).
+La journée du **mardi 30 juin** sera dédiée aux [tutoriels](tutoriels).
 
-Les [présentations scientifiques](programme) se dérouleront sur XX jours, **du XX juin au XX juillet**.
+Les [présentations scientifiques](programme) se dérouleront sur deux jours et demi, **du mercredi 1 juillet au 3 juillet**.
 
-La **session poster** aura lieu **XX**.
+La **session poster** aura lieu **jeudi 2 juillet soir**.
 
 ### Compas
 
@@ -32,7 +32,7 @@ premier de **favoriser la rencontre de chercheuses et chercheurs confirmé·es, 
 chercheuses et chercheurs et d'industriels**. Compas permet de **renforcer les
 liens** entre équipes de recherche du monde francophone et favorise
 l’**émergence de nouveaux sujets** de recherche et collaborations,
-avec une emphase sur l'**intégration des jeunes chercheurs**.
+avec une emphase sur l'**intégration des jeunes chercheuses et chercheurs**.
 
 {: style="text-align: justify;"}
 
@@ -48,8 +48,9 @@ avec une emphase sur l'**intégration des jeunes chercheurs**.
 
 {: style="text-align: justify;"}
 
-
+<!-- 
 ### Contact
 
 Pour toute question, il est possible d'écrire à
 *compas-2026-organisation-locale [chez] inria.fr*
+-->
