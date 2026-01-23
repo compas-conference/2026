@@ -33,11 +33,20 @@ header:
 <!--  + Philippe Roose (Organisateur 2019, Anglet) -->
 <!--    -\-> -->
 
+### Comité de pilotage
+
++ Mihail Popov - Représentant Parallélisme (INRIA - Bordeaux)
++ Fabienne Boyer - Représentant Système (LIG - Grenoble)
++ Mickaeël Dardaillon - Représentant Architecture (IETR - Rennes)
+
+
 ### Comités de lecture
 
 #### Architecture
 
-**Président** : Cédric Killian (Université Jean-Monnet de Saint-Étienne, Laboratoire Hubert Curien)
+TBD
+
+<!-- **Président** : Cédric Killian (Université Jean-Monnet de Saint-Étienne, Laboratoire Hubert Curien)
 
 + Ghattas Akkad (Université Côte d'Azur)
 + Christophe Alias (ENS Lyon)
@@ -58,11 +67,13 @@ header:
 + Quentin Meunier (LIP6 - Paris)
 + Arthur Perais (TIMA - Grenoble)
 + Tanguy Risset (CITI - Lyon)
-+ Simon Rockicki (IRISA - Rennes)
++ Simon Rockicki (IRISA - Rennes) -->
 
 #### Parallélisme
 
-**Présidente** : Camille Coti (École de Technologie Supérieure de l'Université du Québec)
+TBD
+
+<!-- **Présidente** : Camille Coti (École de Technologie Supérieure de l'Université du Québec)
 
 + Heithem Abbes (LaTICE - Tunis)
 + Elisabeth Brunet (Télécom Sud Paris, Inria - Evry)
@@ -80,11 +91,13 @@ header:
 + Hugo Taboada (CEA)
 + Gil Utard (UPJV - Amiens)
 + Gwenolé Lucas (TU Münich)
-+ Jerry Lacmou Zeutouo (UPJV - Amiens)
++ Jerry Lacmou Zeutouo (UPJV - Amiens)-\-> -->
 
 #### Système
 
-**Présidente** : Vania Marangozova (Université Grenoble-Alpes, Laboratoire d'Informatique de Grenoble)
+TBD
+
+<!-- **Présidente** : Vania Marangozova (Université Grenoble-Alpes, Laboratoire d'Informatique de Grenoble)
 
 + Mathieu Bacou (Télécom Sud Paris, Inria - Evry)
 + Joachim Bruneau-Queyreix (Bordeaux INP / LaBRI)
@@ -103,4 +116,4 @@ header:
 + Valerio Schiavoni (Université de Neuchâtel)
 + Pierre Sens (UPMC - Paris)
 + Pierre Sutra (Télécom Sud Paris, Inria - Evry)
-+ François Taiani (Université de Rennes)
++ François Taiani (Université de Rennes) -\-> -->

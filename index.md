@@ -48,6 +48,14 @@ avec une emphase sur l'**intégration des jeunes chercheuses et chercheurs**.
 
 {: style="text-align: justify;"}
 
+### Organisateurs
+
+Université de Pau et des Pays de l'Adour (UPPA), Laboratoire de l'Université de Pau et des Pays de l'Adour (LIUPPA)
+
+
+<a href="https://www.univ-pau.fr"><img src="{{ domain }}/assets/img/Logo_UPPA.png" width="250px" style="margin: 10px 20px;"/></a>
+<a href="https://liuppa.univ-pau.fr/"><img src="{{ domain }}/assets/img/logo-LIUPPA-long-C.png" width="250px" style="margin: 10px 20px;"/></a>
+
 <!-- 
 ### Contact
 
