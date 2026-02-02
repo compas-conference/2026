@@ -14,7 +14,7 @@ header:
 
 La date limite de soumission des **résumés** et **articles** est le **vendredi 27 février 2026**.
 
-Le site de soumission pour les articles et résumés sera bientôt disponible !
+Le site de soumission pour les articles et résumés est [disponible ici](https://crp.info.ucl.ac.be/compas2026/) !
 
 Compas 2026 propose deux options pour la soumission de contributions, afin de répondre aux besoins exprimés par la communauté :
 {: style="text-align: justify;"}
@@ -29,7 +29,7 @@ Les présentations sur la base de résumé feront l’objet d’une évaluation 
 
 
 ### Style
-Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/misc/compas-2026-style.zip)** (en utilisant uniquement la partie abstract pour les résumés) et être déposées sur le site de soumission (bientôt disponible).
+Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/misc/compas-2026-style.zip)** (en utilisant uniquement la partie abstract pour les résumés) et être déposées sur [le site de soumission](https://crp.info.ucl.ac.be/compas2026/).
 
 ### Langue
 
