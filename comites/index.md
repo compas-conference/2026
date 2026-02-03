@@ -44,7 +44,22 @@ header:
 
 #### Architecture
 
-TBD
++ Andrade Liliana (TIMA - Grenoble)
++ Bastien Deveautour (IETR - Nantes)
++ Charles Henri-Pierre( CEA List - Grenoble)
++ Cyrille Chavet (TIMA - Grenoble)
++ Egloff Valentin (LCIS - Valence)
++ Escouteloup Mathieu (IMS - Bordeaux)
++ Kritikakou Angeliki (IRISA - Rennes)
++ Marty Thibaut (IETR - Rennes)
++ MENDEZ REAL Maria (LabStiCC - Lorient)
++ Meunier Quentin (LIP6 - Paris)
++ Perais Arthur (TIMA - Grenoble)
++ Risset Tanguy (CITI - Lyon)
++ Simon Rockicki (IRISA - Rennes)
++ Slavisa Jovanovic (IJL - Nancy)
++ Sylvestre Loïc (IRIT - Toulouse)
++ Volkova Anastasia (CITI - Lyon)
 
 <!-- **Président** : Cédric Killian (Université Jean-Monnet de Saint-Étienne, Laboratoire Hubert Curien)
 
@@ -71,7 +86,26 @@ TBD
 
 #### Parallélisme
 
-TBD
+
++ Gonthier Maxime (University of Chicago - Chicago)
++ Scravaglieri Lana (BSC - Barcelona)
++ Dufaud Thomas (UVSQ - Versailles)
++ Rouzaud-Cornabas Jonathan (Inria Beagle LIRIS INSA Lyon - Lyon)
++ Chevalier Cédric (CEA - Paris)
++ Foyer Clément (Université de Reims - Reims)
++ Gamatié Abdoulaye (LIRMM - Montpellier)
++ Genaud Stephane (ICube - Strasbourg)
++ Giersch Arnaud (FEMTO-ST  - Besançon - Belfort)
++ Kaya Oguz (U. Orsay - Paris Orsay)
++ Taboada Hugo (CEA-DAM - Bruyère le Chatel)
++ Elisabeth Brunet (Télécom Sud Paris, Inria Saclay - Evry)
++ Lucas Gwénolé (TU Munich - Munich)
++ Lacmou Zeutouo Jerry (UPJV - Amiens)
++ Lima Pilla Laércio (CNRS - Bordeaux)
++ Tessier François (Inria - Rennes)
++ Felsoci Marek (UVSQ - Paris)
++ Guilloteau Quentin (Inria - Lyon)
++ Adrien Cassagne (lip6 - Paris)
 
 <!-- **Présidente** : Camille Coti (École de Technologie Supérieure de l'Université du Québec)
 
