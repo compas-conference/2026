@@ -82,6 +82,7 @@ header:
 + Felsoci Marek (UVSQ - Paris)
 + Guilloteau Quentin (Inria - Lyon)
 + Adrien Cassagne (lip6 - Paris)
++ Jean-Baptiste Besnard (DDN  - Paris)
 
 
 #### Système
