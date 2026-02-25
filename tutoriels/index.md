@@ -30,7 +30,7 @@ Toutes les thématiques relevant de la conférence (Architecture, Systèmes et P
 
 ### Dates importantes
 
-- Date limite de soumission des tutoriels : 27/02/2026
+- Date limite de soumission des tutoriels : 13/03/2026
 - Notification auteurs et affichage tutoriels acceptés : à venir
 - Résumés des tutoriels et pages web : à venir
 
