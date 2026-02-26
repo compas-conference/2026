@@ -39,7 +39,7 @@ avec une emphase sur l'**intégration des jeunes chercheuses et chercheurs**.
 
 ### Dates importantes
 
-* Date limite de soumission d'**articles** et de **résumés** : vendredi 27 février 2026
+* Date limite de soumission d'**articles** et de **résumés** : vendredi 13 mars 2026
 * Date limite de soumission d'**atelier** et [tutoriels](tutoriels) : vendredi 13 mars 2026
 * Notification : vendredi 17 avril 2026
 * Ouverture des inscriptions : **vendredi 24 avril 2026**
