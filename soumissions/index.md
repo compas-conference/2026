@@ -12,7 +12,7 @@ header:
 
 ## 1. Procédure de soumission
 
-La date limite de soumission des **résumés** et **articles** est le **vendredi 13 mars 2026**.
+La date limite de soumission des **résumés** et **articles** est le ~~vendredi 27 février 2026~~ **vendredi 13 mars 2026**.
 
 Le site de soumission pour les articles et résumés est [disponible ici](https://crp.info.ucl.ac.be/compas2026/) !
 
