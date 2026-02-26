@@ -41,6 +41,7 @@ La conférence comprend des tutoriels sélectionnés par le comité d’organisa
 
 La date limite de soumission d'**ateliers** et **tutoriels** est le **vendredi 13 mars 2026**
 
+Propositions à envoyer à Philippe.Roose@iutbayonne.univ-pau.fr.
 
 
 ## 2. Présentations

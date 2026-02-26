@@ -36,6 +36,7 @@ Toutes les thématiques relevant de la conférence (Architecture, Systèmes et P
 
 ### Instructions de soumission
 
+Propositions à envoyer à Philippe.Roose@iutbayonne.univ-pau.fr.
 <!--
 Les propositions de tutoriels doivent être soumises par email à [compas2026@inria.fr](mailto:compas2026@inria.fr)..
 -->
