@@ -27,10 +27,10 @@ Pour toute question, il est possible d'écrire à
 * Permanent (MCF/Prof, CR/DR, ingénieur·e fonctionnaire ou en CDI, ...) : 480 €
 * Ateliers/tutoriaux uniquement : 180 €
 
-#### Tarifs majorés jusqu’au vendredi 12 juin 2026
+#### Tarifs majorés après le 29 mai 2026
 
 Attention, après le vendredi 29 mai, l'inscription est encore possible
-(jusqu'au 12 juin) mais sera majorée :
+(jusqu'au 12 juin 2026) mais sera majorée :
 
 * Non-permanent (stagiaire, doctorant·e, post-doc, CDD, ...) : 444 €
 * Permanent (MCF/Prof, CR/DR, ingénieur·e fonctionnaire ou en CDI, ...) : 564 €
