@@ -38,4 +38,4 @@ Dans cette conférence, j'aborde les grands enjeux de la tolérance aux pannes p
 
 *Il s’intéresse tout particulièrement au développement de fondations logicielles robustes et efficaces pour le calcul scientifique de nouvelle génération.*
 
-<img src="{{ domain }}/assets/img/ThomasHerault.jpeg" width="250px" style="margin: 10px 20px;"/>
+<img src="{{ domain }}/assets/img/ThomasHerault.png" width="250px" style="margin: 10px 20px;"/>
