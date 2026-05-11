@@ -177,7 +177,7 @@ Président : *Mihail Popov* (INRIA - Bordeaux)
 
 ### 10h30
 
-#### Distributed systems & parallel prog - Amphi
+#### Distributed systems & parallel programming - Amphi
 
 - Equilibrage de charge élastique entre simulation exascale et analyses in-situ<br>
 *I. LUCAS, B. MARTIN, J. BIGOT, L. COLOMBET*
@@ -254,6 +254,10 @@ Président : *Mihail Popov* (INRIA - Bordeaux)
 
 - Optimisation des applications web par lintégration dun cache analytique local avec DuckDB-Wasm<br>
 *S. MOHAMADOU BACHIROU, J. MENAUD*
+
+### 17h30 Assemblée Générale de Compas - Amphi
+
+### 20h Dîner de Gala
 
 ## Vendredi 3 juillet
 
