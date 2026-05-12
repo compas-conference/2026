@@ -66,7 +66,7 @@ Président : *Fabienne Boyer* (LIG - Grenoble)
 #### Networks, FAAS - Amphi
 
 - Transferts de Données Multi-Sources Éco-Responsables sur HTTP/3<br>
-    *S. ANZIE, G. Rosinosky, R. Koutsiamanis, J. Menaud*
+    *S. Anzie, G. Rosinosky, R. Koutsiamanis, J. Menaud*
 - Network-accelerated consensus made practical<br>
 *M. Anoprenko, G. Thomas*
 - Communication locale : l’état du device-to-device en 2026<br>
@@ -89,7 +89,7 @@ Président : *Fabienne Boyer* (LIG - Grenoble)
 - Analyse des écarts de reproductibilité dans le placement de charges de travail d'IA en HPC<br>
 *P. Y., C. Barrios, O. Carrillo, F. Le Mouël*
 
-- Du carbone enfoui à loptimisation native repenser les micro-centres de données<br>
+- Du carbone enfoui à l'optimisation native : repenser les micro-centres de données<br>
 *N. Osta, P. Roose, F. Le Mouel, E. Anton, J. Gaysse*
 - Portabilité d’applications (du continuum) sur des environnements d’exécution hétérogènes<br>
 *Q. Guilloteau, H. Coullon, C. Perez*
@@ -106,16 +106,16 @@ Président : *Fabienne Boyer* (LIG - Grenoble)
 #### Federated learning, AI opt modeling and dataflow - Salle 124-125
 
 - Automated Data Error Cleaning Impact on Federated Learning Utility and Fairness<br>
-*. Sudlow, B. Naline, S. Bouchenak*
+*J. Sudlow, B. Naline, S. Bouchenak*
 - The Costs of Decentralized Federated Learning: A Survey<br>
-*M. CHAALAL, S. BEN-MOKHTAR, S. BOUCHENAK*
+*M. Chaalal, S. Ben-Mokhtar, S. Bouchenak*
 - Impact of Data Selection on Model Utility and Fairness in Federated Learning<br>
 *A. Pereira, N. Benarba, S. Bouchenak*
 
 - Vers l’exécution distribuée de réseaux de neurones dynamiques : conversion ONNX vers PiSDF et exploration dataflow<br>
-*W. SAADATE, A. Drissi, T. Marty, H. miomandre, J. Nezan, K. Desnos, S. Le Nours*
+*W. Saadate, A. Drissi, T. Marty, H. Miomandre, J. Nezan, K. Desnos, S. Le Nours*
 - Approche flot de données pour le déploiement d’applications basées IA sur un système IoT pour la ville intelligente<br>
-*H. ESSAKALI, J. NEZAN, S. SAHRAOUI, N. BEUVE, H. MIOMANDRE*
+*H. Essakali, J. Nezan, S. Sahraoui, N. Beuve, H. Miomandre*
 
 ### 14h-16h puis 16h30-17h30
 
@@ -124,24 +124,24 @@ Président : *Fabienne Boyer* (LIG - Grenoble)
 - Utilisation d'Intel RAPL comme levier enrironnemental : variabilité, performances et évolution<br>
 *T. Stavis, L. Lefèvre, A. Orgerie*
 - Sufficiency in Data Centers: Energy Aware Resource Recommendation System<br>
-*. Ahmadzada, P. Stolf, J. Pierson, L. Lefèvre*
+*E. Ahmadzada, P. Stolf, J. Pierson, L. Lefèvre*
 - Sélection du profil énergétique pour améliorer les techniques de shifting<br>
 *N. Tirel, P. Roose, S. Ilarri, A. Noureddine, O. Le Goaër*
 - Collecte de données à laide de capteurs sans batterie : Collecter mieux, pas plus<br>
 *H. Reymond, F. Le-Mouel*
 - Heuristique, CSP ou LLM ? Étude comparative du coût énergétique du placement de services multi-composants dans un Cloud hétérogène<br>
-*T. HARDY, F. SALAHT, D. WLADDIMIRO*
+*T. Hardy, F. Salaht, D. Wladdimiro*
 - Modèle prédictif au niveau de l’instruction du coût en énergie de l’exécution de code embarqué<br>
-*B. DESTAL, G. SILBER, C. ANCOURT*
+*B. Destal, G. Silber, C. Ancourt*
 - Energy Monitoring for Cloud Computing<br>
 *D. Orhan*
 - Analyse Expérimentale de la Consommation de Ressources des Algorithmes de Consensus Paxos<br>
-*M. JUST, S. MONNET, S. PLASSART*
+*M. Just, S. Monnet, S. Plassart*
 
 #### Sécurité & Algèbre Linéaire - Salle 126-127
 
-- Back-ends de compilateurs pour la sécurité : cas d’étude par le développement de contremesures contre les attaques par canaux auxiliaires<br>
-*C. Bourgeais, B. Ferres, L. Gonnord, D. HÉLY*
+- Back-ends de compilateurs pour la sécurité: cas d’étude par le développement de contremesures contre les attaques par canaux auxiliaires<br>
+*C. Bourgeais, B. Ferres, L. Gonnord, D. Hély*
 - KESTREL DNS: Kernel Efficient Spoofing Threat Response and Early Limiting<br>
 *E. Le Louët, J. Sopena, A. Blin, K. Haddadou*
 - An Evaluation of Kernel Telemetry for cloud-native Provenance<br>
@@ -151,9 +151,9 @@ Président : *Fabienne Boyer* (LIG - Grenoble)
 - FISEL: Isolate and secure processes from privileged attackers using eBPF<br>
 *L. Piette, G. Rosinosky, M. Südholt*
 - Identité auto-souveraine : enjeux, limites de la blockchain et architecture alternative<br>
-*M. JUST*
+*M. Just*
 - A State-of-the-Art Review of Property Inference Attacks<br>
-*X. XIA, N. Awad, L. Bobelin, S. Bouchenak*
+*X. Xia, N. Awad, L. Bobelin, S. Bouchenak*
 - Stockage confidentiel et vérifiable de données dans le cloud distribué<br>
 *T. Claudel, J. Bruneau-Queyreix, L. Réveillère*
 
@@ -161,6 +161,8 @@ Président : *Fabienne Boyer* (LIG - Grenoble)
 *E. Agullo, E. Korkmaz, G. Sylvand*
 
 ### 17h30 Session Posters + Welcome Cocktail
+
+### 20h Repas du CP
 
 ## Jeudi 2 juillet
 
@@ -180,15 +182,15 @@ Président : *Mihail Popov* (INRIA - Bordeaux)
 #### Distributed systems & parallel programming - Amphi
 
 - Equilibrage de charge élastique entre simulation exascale et analyses in-situ<br>
-*I. LUCAS, B. MARTIN, J. BIGOT, L. COLOMBET*
+*I. Lucas, B. Martin, J. Bigot, L. Colombet*
 - Interruptions en espace utilisateur dans NewMadeleine pour la progression des communications MPI non-bloquantes<br>
 *C. Goedefroit, A. Denis, M. Barbe, B. Goglin, G. Pichon*
 - Nocher, un système géodistribué agnostique<br>
-*C. DION, A. Lèbre, P. Parvedy*
+*C. Dion, A. Lèbre, P. Parvedy*
 - Réduction de l'empreinte mémoire d'un support d'exécution de tâches sur un système distribué<br>
 *A. Denis, T. Riehs, P. Swartvagher, S. Thibault*
 - Optimisation des coûts de reconstruction dans un système de stockage distribué<br>
-*E. EL IDRISSI, C. Diallo, J. Carrier, G. Utard*
+*E. El Idrissi, C. Diallo, J. Carrier, G. Utard*
 - Modélisation et réutilisation de code de gestion des données partitionnées en HPC<br>
 *A. Peigue*
 
@@ -196,14 +198,14 @@ Président : *Mihail Popov* (INRIA - Bordeaux)
 
 - Les systèmes BSD sont-ils prêts pour le HPC ?<br>
 *D. Beserra, P. Ferreira, M. Espie, J. Araujo*
-- Accélération dapplications de traitement du signal sur architectures hétérogènes CPU-GPU<br>
+- Accélération d'applications de traitement du signal sur architectures hétérogènes CPU-GPU<br>
 *Y. Idouar*
 - Modélisation et projection de performance d’applications parallèles sur environnement GPU<br>
-*L. Van Lanker, H. TABOADA, E. Brunet, F. TRAHAY*
-- PALLAS-PYTHON : Analyse de traces massives en Python.<br>
+*L. Van Lanker, H. Taboada, E. Brunet, F. Trahay*
+- PALLAS-PYTHON: Analyse de traces massives en Python.<br>
 *C. Guelque, F. Trahay, V. Delis, L. Schnorr*
 - Modélisation, simulation et validation expérimentale du greenup de la parallélisation idéale dun programme sur architecture multicœur<br>
-*a. solcourt, g. silber*
+*A. Solcourt, G. Silber*
 - IOPS : A generic benchmark orchestration framewor<br>
 *A. Mahamat, F. Boito, L. Teylo, M. Popov*
 
@@ -218,7 +220,7 @@ Président : *Mihail Popov* (INRIA - Bordeaux)
 *M. Lacour, P. Sens, J. Lejeune, J. Sopena*
 - LAMP : Une approche efficace pour la détection de fautes dans les systèmes distribués<br>
 *L. Hassini, J. Bruneau-Queyreix, L. Réveillère*
-- FREERDPS : Freer equational reasoning for distributed and probabilistic systems<br>
+- FREERDPS: Freer equational reasoning for distributed and probabilistic systems<br>
 *H. Forraz, G. Grimaud*
 
 
@@ -232,12 +234,12 @@ Président : *Mihail Popov* (INRIA - Bordeaux)
 *F. Boudjaoui*
 - Modélisation des incertitudes impactant la collecte de resources sur des infrastructures HPC<br>
 *A. Peigue*
-- SaaKM : Scheduler as a Kernel Module<br>
+- SaaKM: Scheduler as a Kernel Module<br>
 *B. Pires, R. Gouicem, S. Dubois, J. Sopena*
 - Ordonnancement tenant compte des émissions de CO2<br>
-*J. EVANS, G. DA COSTA, P. STOLF*
+*J. Evans, G. Da Costa, P. Stolf*
 - Découverte et description automatiques des topologies de placement de SCOTCH<br>
-*M. CHOLLON*
+*M. Chollon*
 
 
 
@@ -246,14 +248,14 @@ Président : *Mihail Popov* (INRIA - Bordeaux)
 - VoliMap: Optimizing Key-Value Store Performance by Leveraging Userland Page Tables<br>
 *T. Aggoun, J. Toljaga, N. Derumigny, J. Lozi, G. Thomas*
 - Vers une Gestion Transparente du Double Swapping dans les Machines Virtuelles<br>
-*L. MAHOP*
-- SPaRe : Réplication sélective et partielle des tables de pages pour les systèmes NUMA<br>
+*L. Mahop*
+- SPaRe: Réplication sélective et partielle des tables de pages pour les systèmes NUMA<br>
 *R. Coëffic-Qabali, J. Sopena, R. Gouicem, J. Coquisart*
 - Towards implementing an efficient GC on disaggregated memory<br>
 *N. Vasilevska, N. Derumigny, J. Dumas, G. Thomas*
 
 - Optimisation des applications web par lintégration dun cache analytique local avec DuckDB-Wasm<br>
-*S. MOHAMADOU BACHIROU, J. MENAUD*
+*S. Mohamadou Bachirou, J. Menaud*
 
 ### 17h30 Assemblée Générale de Compas - Amphi
 
@@ -283,7 +285,7 @@ Président : *Mickaël Dardaillon* (IETR - Rennes)
 - Adéquation algorithme architecture sur microarchitectures RISC-V pour la programmation génétique<br>
 *P. Allaire, M. Dardaillon, T. Marty, A. Rodríguez, A. Otero, K. Desnos*
 - Accélération matérielle de génération des minimiseurs sur FPGA à l’aide de modèles comportementaux<br>
-*N. Chiboub, B. LE GAL, D. CHILLET, P. PETERLONGO*
+*N. Chiboub, B. Le Gal, D. Chillet, P. Peterlongo*
 
 
 #### IO - Salle 124
