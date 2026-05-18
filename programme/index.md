@@ -31,6 +31,10 @@ Les résumés associés aux présentations sont accessibles
 2026](https://hal.science/COMPAS2026/) groupant les articles des
 auteurs ayant choisi de les partager publiquement. -->
 
+## Le programme en un coup d'oeil :
+
+<iframe src="{{ domain }}/assets/misc/programmeCOMPAS2026.pdf#zoom=88" width="950" height="700"></iframe>
+
 
 ## Mardi 30 juin
 
