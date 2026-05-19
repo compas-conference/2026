@@ -33,7 +33,7 @@ auteurs ayant choisi de les partager publiquement. -->
 
 ## Le programme en un coup d'oeil :
 
-<iframe src="{{ domain }}/assets/misc/programmeCOMPAS2026.pdf#zoom=88" width="950" height="700"></iframe>
+<iframe src="{{ domain }}/assets/misc/programmeCOMPAS2026.pdf#zoom=88&toolbar=0&navpanes=0&scrollbar=0" width="950" height="700"></iframe>
 
 
 ## Mardi 30 juin
@@ -52,20 +52,20 @@ auteurs ayant choisi de les partager publiquement. -->
 
 ## Mercredi 1er juillet
 
-### 8h30 Accueil
+### 8h30-9h Accueil
 
-### 9h Ouverture - Amphi
+### 9h-9h10 Ouverture - Amphi
 
-### 9h10 Présentation plénière - Amphi
+### 9h10-10h Présentation plénière - Amphi
 
 Président : *Fabienne Boyer* (LIG - Grenoble)
 
 - [Titre à venir](/keynotes/#sonia-ben-mokhtar)<br>
     *Sonia Ben Mokhtar*
 
-### 10h Pause
+### 10h-10h20 Pause
 
-### 10h30
+### 10h30-12h30
 
 #### Networks, FAAS - Amphi
 
@@ -75,7 +75,6 @@ Président : *Fabienne Boyer* (LIG - Grenoble)
 *M. Anoprenko, G. Thomas*
 - Communication locale : l’état du device-to-device en 2026<br>
 *R. Raes*
-
 - Pile ou FaaS : La Prédiction de branchements conditionnels dans les architectures à base de microservices<br>
 *L. Yerly, A. Perais*
 - On Centralized and Decentralized Control for Reinforcement Learning-Based Multi-Cluster FaaS Scheduling<br>
@@ -103,25 +102,9 @@ Président : *Fabienne Boyer* (LIG - Grenoble)
 *B. Neuville-Burguière, F. Baude, F. Huet*
 
 
-### 12h30 Repas
+### 12h30-14h Repas
 
 ### 14h-16h
-
-#### Federated learning, AI opt modeling and dataflow - Salle 124-125
-
-- Automated Data Error Cleaning Impact on Federated Learning Utility and Fairness<br>
-*J. Sudlow, B. Naline, S. Bouchenak*
-- The Costs of Decentralized Federated Learning: A Survey<br>
-*M. Chaalal, S. Ben-Mokhtar, S. Bouchenak*
-- Impact of Data Selection on Model Utility and Fairness in Federated Learning<br>
-*A. Pereira, N. Benarba, S. Bouchenak*
-
-- Vers l’exécution distribuée de réseaux de neurones dynamiques : conversion ONNX vers PiSDF et exploration dataflow<br>
-*W. Saadate, A. Drissi, T. Marty, H. Miomandre, J. Nezan, K. Desnos, S. Le Nours*
-- Approche flot de données pour le déploiement d’applications basées IA sur un système IoT pour la ville intelligente<br>
-*H. Essakali, J. Nezan, S. Sahraoui, N. Beuve, H. Miomandre*
-
-### 14h-16h puis 16h30-17h30
 
 #### Energy, Ressource, Sustainability - Amphi
 
@@ -137,10 +120,19 @@ Président : *Fabienne Boyer* (LIG - Grenoble)
 *T. Hardy, F. Salaht, D. Wladdimiro*
 - Modèle prédictif au niveau de l’instruction du coût en énergie de l’exécution de code embarqué<br>
 *B. Destal, G. Silber, C. Ancourt*
-- Energy Monitoring for Cloud Computing<br>
-*D. Orhan*
-- Analyse Expérimentale de la Consommation de Ressources des Algorithmes de Consensus Paxos<br>
-*M. Just, S. Monnet, S. Plassart*
+
+#### Federated learning, AI opt modeling and dataflow - Salle 124-125
+
+- Automated Data Error Cleaning Impact on Federated Learning Utility and Fairness<br>
+*J. Sudlow, B. Naline, S. Bouchenak*
+- The Costs of Decentralized Federated Learning: A Survey<br>
+*M. Chaalal, S. Ben-Mokhtar, S. Bouchenak*
+- Impact of Data Selection on Model Utility and Fairness in Federated Learning<br>
+*A. Pereira, N. Benarba, S. Bouchenak*
+- Vers l’exécution distribuée de réseaux de neurones dynamiques : conversion ONNX vers PiSDF et exploration dataflow<br>
+*W. Saadate, A. Drissi, T. Marty, H. Miomandre, J. Nezan, K. Desnos, S. Le Nours*
+- Approche flot de données pour le déploiement d’applications basées IA sur un système IoT pour la ville intelligente<br>
+*H. Essakali, J. Nezan, S. Sahraoui, N. Beuve, H. Miomandre*
 
 #### Sécurité & Algèbre Linéaire - Salle 126-127
 
@@ -156,11 +148,24 @@ Président : *Fabienne Boyer* (LIG - Grenoble)
 *L. Piette, G. Rosinosky, M. Südholt*
 - Identité auto-souveraine : enjeux, limites de la blockchain et architecture alternative<br>
 *M. Just*
+
+### 16h-16h30 Pause
+
+### 16h30-17h30
+
+#### Energy, Ressource, Sustainability - Amphi
+
+- Energy Monitoring for Cloud Computing<br>
+*D. Orhan*
+- Analyse Expérimentale de la Consommation de Ressources des Algorithmes de Consensus Paxos<br>
+*M. Just, S. Monnet, S. Plassart*
+
+#### Sécurité & Algèbre Linéaire - Salle 126-127
+
 - A State-of-the-Art Review of Property Inference Attacks<br>
 *X. Xia, N. Awad, L. Bobelin, S. Bouchenak*
 - Stockage confidentiel et vérifiable de données dans le cloud distribué<br>
 *T. Claudel, J. Bruneau-Queyreix, L. Réveillère*
-
 - High Performance Solver for Aeroacoustic Simulations for Airbus<br>
 *E. Agullo, E. Korkmaz, G. Sylvand*
 
@@ -170,18 +175,18 @@ Président : *Fabienne Boyer* (LIG - Grenoble)
 
 ## Jeudi 2 juillet
 
-### 8h30 Accueil
+### 8h30-9h Accueil
 
-### 9h Présentation plénière - Amphi
+### 9h-10h Présentation plénière - Amphi
 
 Président : *Mihail Popov* (INRIA - Bordeaux)
 
 - [Génération de micro-architectures spéculatives via la Synthèse de Haut Niveau](/keynotes/#steven-derrien)<br>
     *Steven Derrien*
 
-### 10h Pause
+### 10h-10h30 Pause
 
-### 10h30
+### 10h30-12h30
 
 #### Distributed systems & parallel programming - Amphi
 
@@ -210,7 +215,7 @@ Président : *Mihail Popov* (INRIA - Bordeaux)
 *C. Guelque, F. Trahay, V. Delis, L. Schnorr*
 - Modélisation, simulation et validation expérimentale du greenup de la parallélisation idéale dun programme sur architecture multicœur<br>
 *A. Solcourt, G. Silber*
-- IOPS : A generic benchmark orchestration framewor<br>
+- IOPS : A generic benchmark orchestration framework<br>
 *A. Mahamat, F. Boito, L. Teylo, M. Popov*
 
 
@@ -228,14 +233,12 @@ Président : *Mihail Popov* (INRIA - Bordeaux)
 *H. Forraz, G. Grimaud*
 
 
-### 12h30 Repas
+### 12h30-14h Repas
 
-### 14h-16h puis 16h30-17h30
+### 14h-16h
 
 #### Scheduling - Amphi
 
-- AllReduce optimisé pour système distribué hétérogène<br>
-*F. Boudjaoui*
 - Modélisation des incertitudes impactant la collecte de resources sur des infrastructures HPC<br>
 *A. Peigue*
 - SaaKM: Scheduler as a Kernel Module<br>
@@ -244,8 +247,6 @@ Président : *Mihail Popov* (INRIA - Bordeaux)
 *J. Evans, G. Da Costa, P. Stolf*
 - Découverte et description automatiques des topologies de placement de SCOTCH<br>
 *M. Chollon*
-
-
 
 #### Scheduling - Salle 124
 
@@ -257,9 +258,12 @@ Président : *Mihail Popov* (INRIA - Bordeaux)
 *R. Coëffic-Qabali, J. Sopena, R. Gouicem, J. Coquisart*
 - Towards implementing an efficient GC on disaggregated memory<br>
 *N. Vasilevska, N. Derumigny, J. Dumas, G. Thomas*
-
 - Optimisation des applications web par lintégration dun cache analytique local avec DuckDB-Wasm<br>
 *S. Mohamadou Bachirou, J. Menaud*
+
+### 16h-16h30 Pause
+
+### 16h30-17h30
 
 ### 17h30 Assemblée Générale de Compas - Amphi
 
@@ -267,18 +271,18 @@ Président : *Mihail Popov* (INRIA - Bordeaux)
 
 ## Vendredi 3 juillet
 
-### 8h30 Accueil
+### 8h30-9h30 Accueil
 
-### 9h30 Présentation plénière - Amphi
+### 9h30-10h30 Présentation plénière - Amphi
 
 Président : *Mickaël Dardaillon* (IETR - Rennes)
 
 - [Fault-Tolerance in High Performance Computing: from Theory to Practice.](/keynotes/#thomas-herault)<br>
     *Thomas Herault*
 
-### 10h30 Pause
+### 10h30-11h Pause
 
-### 11h
+### 11h-12h
 
 #### Architecture - Amphi
 
