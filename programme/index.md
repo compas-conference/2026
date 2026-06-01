@@ -43,12 +43,12 @@ auteurs ayant choisi de les partager publiquement. -->
 
 ### Amphi
 
-- 9h-13h : [ReproHackathon](/tutoriels/)
-- 14h30-18h : [Orchestration de campagnes de benchmarks avec IOPS](/tutoriels/)
+- 9h-13h : Tutoriel #1 [ReproHackathon](/tutoriels/)
+- 14h30-18h : Tutoriel #3 [Design de périphériques par HLS sur un cœur RISC-V CVA6](/tutoriels/)
 
 ### Salle 124
 
-- 9h-13h : [Design de périphériques par HLS sur un cœur RISC-V CVA6](/tutoriels/)
+- 9h-13h : Tutoriel #2 [Orchestration de campagnes de benchmarks avec IOPS](/tutoriels/)
 
 ## Mercredi 1er juillet
 
@@ -67,7 +67,7 @@ Président : *Fabienne Boyer* (LIG - Grenoble)
 
 ### 10h30-12h30
 
-#### Networks, FAAS - Amphi
+#### Session #1 : Networks, FAAS - Amphi
 
 - Transferts de Données Multi-Sources Éco-Responsables sur HTTP/3<br>
 *S. Anzie, G. Rosinosky, R. Koutsiamanis, J. Menaud*
@@ -81,7 +81,7 @@ Président : *Fabienne Boyer* (LIG - Grenoble)
 *C. KEUKY, D. WLADDIMIRO*
 
 
-#### AI & Energy, Continuum - Salle 124-125
+#### Session #2 : AI & Energy, Continuum - Salle 124-125
 
 - Efficacité énergétique et charge de travail pour les frameworks d'IA<br>
 *A. Mary Huet de Barochez, S. Plassart, S. Monnet*
@@ -104,7 +104,7 @@ Président : *Fabienne Boyer* (LIG - Grenoble)
 
 ### 14h-16h
 
-#### Energy, Ressource, Sustainability - Amphi
+#### Session #4 : Energy, Ressource, Sustainability - Amphi
 
 - Sufficiency in Data Centers: Energy Aware Resource Recommendation System<br>
 *E. Ahmadzada, P. Stolf, J. Pierson, L. Lefèvre*
@@ -117,7 +117,7 @@ Président : *Fabienne Boyer* (LIG - Grenoble)
 - Modèle prédictif au niveau de l’instruction du coût en énergie de l’exécution de code embarqué<br>
 *B. Destal, G. Silber, C. Ancourt*
 
-#### Federated learning, AI opt modeling and dataflow - Salle 124-125
+#### Session #3 : Federated learning, AI opt modeling and dataflow - Salle 124-125
 
 - Automated Data Error Cleaning Impact on Federated Learning Utility and Fairness<br>
 *J. Sudlow, B. Naline, S. Bouchenak*
@@ -128,7 +128,7 @@ Président : *Fabienne Boyer* (LIG - Grenoble)
 - Approche flot de données pour le déploiement d’applications basées IA sur un système IoT pour la ville intelligente<br>
 *H. Essakali, J. Nezan, S. Sahraoui, N. Beuve, H. Miomandre*
 
-#### Sécurité & Algèbre Linéaire - Salle 126-127
+#### Session #5 : Sécurité & Algèbre Linéaire - Salle 126-127
 
 - Back-ends de compilateurs pour la sécurité: cas d’étude par le développement de contremesures contre les attaques par canaux auxiliaires<br>
 *C. Bourgeais, B. Ferres, L. Gonnord, D. Hély*
@@ -145,14 +145,14 @@ Président : *Fabienne Boyer* (LIG - Grenoble)
 
 ### 16h30-17h30
 
-#### Energy, Ressource, Sustainability - Amphi
+#### Session #4 : Energy, Ressource, Sustainability - Amphi
 
 - Energy Monitoring for Cloud Computing<br>
 *D. Orhan*
 - Analyse Expérimentale de la Consommation de Ressources des Algorithmes de Consensus Paxos<br>
 *M. Just, S. Monnet, S. Plassart*
 
-#### Sécurité & Algèbre Linéaire - Salle 126-127
+#### Session #5 : Sécurité & Algèbre Linéaire - Salle 126-127
 
 - Identité auto-souveraine : enjeux, limites de la blockchain et architecture alternative<br>
 *M. Just*
@@ -178,7 +178,7 @@ Président : *Mihail Popov* (INRIA - Bordeaux)
 
 ### 10h30-12h30
 
-#### Distributed systems & parallel programming - Amphi
+#### Session #6 : Distributed systems & parallel programming - Amphi
 
 - Equilibrage de charge élastique entre simulation exascale et analyses in-situ<br>
 *I. Lucas, B. Martin, J. Bigot, L. Colombet*
@@ -193,7 +193,7 @@ Président : *Mihail Popov* (INRIA - Bordeaux)
 - Modélisation et réutilisation de code de gestion des données partitionnées en HPC<br>
 *A. Peigue*
 
-#### Analyse de performances - Salle 124
+#### Session #7 : Analyse de performances - Salle 124
 
 - Les systèmes BSD sont-ils prêts pour le HPC ?<br>
 *D. Beserra, P. Ferreira, M. Espie, J. Araujo*
@@ -209,7 +209,7 @@ Président : *Mihail Popov* (INRIA - Bordeaux)
 *A. Mahamat, F. Boito, L. Teylo, M. Popov*
 
 
-#### Fault-tolerance - Salle 126
+#### Session #8 : Fault-tolerance - Salle 126
 
 - Fault-tolerance for task-based runtime systems<br>
 *N. Ducarton, S. Thibault, T. Herault, A. Guermouche*
@@ -227,7 +227,7 @@ Président : *Mihail Popov* (INRIA - Bordeaux)
 
 ### 14h-16h
 
-#### Scheduling - Amphi
+#### Session #9 : Scheduling - Amphi
 
 - Modélisation des incertitudes impactant la collecte de resources sur des infrastructures HPC<br>
 *A. Peigue*
@@ -238,7 +238,7 @@ Président : *Mihail Popov* (INRIA - Bordeaux)
 - Découverte et description automatiques des topologies de placement de SCOTCH<br>
 *M. Chollon*
 
-#### Scheduling - Salle 124
+#### Session #10 : Scheduling - Salle 124
 
 - VoliMap: Optimizing Key-Value Store Performance by Leveraging Userland Page Tables<br>
 *T. Aggoun, J. Toljaga, N. Derumigny, J. Lozi, G. Thomas*
@@ -274,7 +274,7 @@ Président : *Mickaël Dardaillon* (IETR - Rennes)
 
 ### 11h-12h
 
-#### Architecture - Amphi
+#### Session #11 : Architecture - Amphi
 
 - Instruction Set Extension Emulation for Long-Term Support of RISC-V Processors<br>
 *J. Gorius, A. Perais, E. Rohou*
@@ -284,7 +284,7 @@ Président : *Mickaël Dardaillon* (IETR - Rennes)
 *N. Chiboub, B. Le Gal, D. Chillet, P. Peterlongo*
 
 
-#### IO - Salle 124
+#### Session #12 : IO - Salle 124
 
 - Interference from Concurrent Jobs on Checkpointing Performance<br>
 *M. Trochon*
