@@ -70,7 +70,7 @@ Président : *Fabienne Boyer* (LIG - Grenoble)
 #### Networks, FAAS - Amphi
 
 - Transferts de Données Multi-Sources Éco-Responsables sur HTTP/3<br>
-    *S. Anzie, G. Rosinosky, R. Koutsiamanis, J. Menaud*
+*S. Anzie, G. Rosinosky, R. Koutsiamanis, J. Menaud*
 - Network-accelerated consensus made practical<br>
 *M. Anoprenko, G. Thomas*
 - Communication locale : l’état du device-to-device en 2026<br>
@@ -106,8 +106,6 @@ Président : *Fabienne Boyer* (LIG - Grenoble)
 
 #### Energy, Ressource, Sustainability - Amphi
 
-- Utilisation d'Intel RAPL comme levier enrironnemental : variabilité, performances et évolution<br>
-*T. Stavis, L. Lefèvre, A. Orgerie*
 - Sufficiency in Data Centers: Energy Aware Resource Recommendation System<br>
 *E. Ahmadzada, P. Stolf, J. Pierson, L. Lefèvre*
 - Sélection du profil énergétique pour améliorer les techniques de shifting<br>
@@ -127,8 +125,6 @@ Président : *Fabienne Boyer* (LIG - Grenoble)
 *M. Chaalal, S. Ben-Mokhtar, S. Bouchenak*
 - Impact of Data Selection on Model Utility and Fairness in Federated Learning<br>
 *A. Pereira, N. Benarba, S. Bouchenak*
-- Vers l’exécution distribuée de réseaux de neurones dynamiques : conversion ONNX vers PiSDF et exploration dataflow<br>
-*W. Saadate, A. Drissi, T. Marty, H. Miomandre, J. Nezan, K. Desnos, S. Le Nours*
 - Approche flot de données pour le déploiement d’applications basées IA sur un système IoT pour la ville intelligente<br>
 *H. Essakali, J. Nezan, S. Sahraoui, N. Beuve, H. Miomandre*
 
@@ -144,8 +140,6 @@ Président : *Fabienne Boyer* (LIG - Grenoble)
 *J. Dumollard, H. Rakotondratsima, N. Derumigny, M. Bacou, G. Thomas*
 - FISEL: Isolate and secure processes from privileged attackers using eBPF<br>
 *L. Piette, G. Rosinosky, M. Südholt*
-- Identité auto-souveraine : enjeux, limites de la blockchain et architecture alternative<br>
-*M. Just*
 
 ### 16h-16h30 Pause
 
@@ -160,10 +154,8 @@ Président : *Fabienne Boyer* (LIG - Grenoble)
 
 #### Sécurité & Algèbre Linéaire - Salle 126-127
 
-- A State-of-the-Art Review of Property Inference Attacks<br>
-*X. Xia, N. Awad, L. Bobelin, S. Bouchenak*
-- Stockage confidentiel et vérifiable de données dans le cloud distribué<br>
-*T. Claudel, J. Bruneau-Queyreix, L. Réveillère*
+- Identité auto-souveraine : enjeux, limites de la blockchain et architecture alternative<br>
+*M. Just*
 - High Performance Solver for Aeroacoustic Simulations for Airbus<br>
 *E. Agullo, E. Korkmaz, G. Sylvand*
 
@@ -286,8 +278,6 @@ Président : *Mickaël Dardaillon* (IETR - Rennes)
 
 - Instruction Set Extension Emulation for Long-Term Support of RISC-V Processors<br>
 *J. Gorius, A. Perais, E. Rohou*
-- Une architecture de flux programmable sans mémoire de données pour le traitement du signal<br>
-*C. Ciocan, A. Kolar, M. Thevenin*
 - Adéquation algorithme architecture sur microarchitectures RISC-V pour la programmation génétique<br>
 *P. Allaire, M. Dardaillon, T. Marty, A. Rodríguez, A. Otero, K. Desnos*
 - Accélération matérielle de génération des minimiseurs sur FPGA à l’aide de modèles comportementaux<br>
