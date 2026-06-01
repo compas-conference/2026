@@ -77,8 +77,6 @@ Président : *Fabienne Boyer* (LIG - Grenoble)
 *R. Raes*
 - Pile ou FaaS : La Prédiction de branchements conditionnels dans les architectures à base de microservices<br>
 *L. Yerly, A. Perais*
-- On Centralized and Decentralized Control for Reinforcement Learning-Based Multi-Cluster FaaS Scheduling<br>
-*C. Latreche, N. Parlavantzas, H. Duran-Limon*
 - Évaluation de politiques de routage sensibles à la charge pour des réplicas de microservices<br>
 *C. KEUKY, D. WLADDIMIRO*
 
