@@ -68,7 +68,7 @@ Président : *Fabienne Boyer* (LIG - Grenoble)
 ### 10h30-12h30
 
 #### Session #1 : Networks, FAAS - Amphi
-Président : Baude Françoise
+Présidente : *Françoise Baude* 
 
 - Transferts de Données Multi-Sources Éco-Responsables sur HTTP/3<br>
 *S. Anzie, G. Rosinosky, R. Koutsiamanis, J. Menaud*
@@ -83,7 +83,7 @@ Président : Baude Françoise
 
 
 #### Session #2 : AI & Energy, Continuum - Salle 124-125
-Président : Mathieu Bacou
+Président : *Mathieu Bacou*
 
 - Efficacité énergétique et charge de travail pour les frameworks d'IA<br>
 *A. Mary Huet de Barochez, S. Plassart, S. Monnet*
@@ -107,7 +107,7 @@ Président : Mathieu Bacou
 ### 14h-16h
 
 #### Session #4 : Energy, Ressource, Sustainability - Amphi
-Président : Hugo Reymond
+Président : *Hugo Reymond*
 
 - Sufficiency in Data Centers: Energy Aware Resource Recommendation System<br>
 *E. Ahmadzada, P. Stolf, J. Pierson, L. Lefèvre*
@@ -121,7 +121,7 @@ Président : Hugo Reymond
 *B. Destal, G. Silber, C. Ancourt*
 
 #### Session #3 : Federated learning, AI opt modeling and dataflow - Salle 124-125
-Président : Frédéric Le Mouel
+Président : *Frédéric Le Mouel*
 
 - Automated Data Error Cleaning Impact on Federated Learning Utility and Fairness<br>
 *J. Sudlow, B. Naline, S. Bouchenak*
@@ -133,7 +133,7 @@ Président : Frédéric Le Mouel
 *H. Essakali, J. Nezan, S. Sahraoui, N. Beuve, H. Miomandre*
 
 #### Session #5 : Sécurité & Algèbre Linéaire - Salle 126-127
-Président : Rivière Etienne
+Président : *Etienne Rivière*
 
 - Back-ends de compilateurs pour la sécurité: cas d’étude par le développement de contremesures contre les attaques par canaux auxiliaires<br>
 *C. Bourgeais, B. Ferres, L. Gonnord, D. Hély*
@@ -151,7 +151,7 @@ Président : Rivière Etienne
 ### 16h30-17h30
 
 #### Session #4 : Energy, Ressource, Sustainability - Amphi
-Président : Jean-Marc Menaud
+Président : *Jean-Marc Menaud*
 
 - Energy Monitoring for Cloud Computing<br>
 *D. Orhan*
@@ -159,7 +159,7 @@ Président : Jean-Marc Menaud
 *M. Just, S. Monnet, S. Plassart*
 
 #### Session #5 : Sécurité & Algèbre Linéaire - Salle 126-127
-Président : Sonia Ben Mokhtar
+Président : *Sonia Ben Mokhtar*
 
 - Identité auto-souveraine : enjeux, limites de la blockchain et architecture alternative<br>
 *M. Just*
@@ -176,7 +176,7 @@ Président : Sonia Ben Mokhtar
 
 ### 9h-10h Présentation plénière - Amphi
 
-Président : *Grimaud Gilles*
+Président : *Gilles Grimaud*
 
 - [Génération de micro-architectures spéculatives via la Synthèse de Haut Niveau](/keynotes/#steven-derrien)<br>
     *Steven Derrien*
@@ -186,7 +186,7 @@ Président : *Grimaud Gilles*
 ### 10h30-12h30
 
 #### Session #6 : Distributed systems & parallel programming - Amphi
-Président : DENIS Alexandre
+Président : *Alexandre Denis*
 
 - Equilibrage de charge élastique entre simulation exascale et analyses in-situ<br>
 *I. Lucas, B. Martin, J. Bigot, L. Colombet*
@@ -202,7 +202,7 @@ Président : DENIS Alexandre
 *A. Peigue*
 
 #### Session #7 : Analyse de performances - Salle 124-125
-Président : Philippe SWARTVAGHER
+Président : *Philippe Swartvagher*
 
 - Les systèmes BSD sont-ils prêts pour le HPC ?<br>
 *D. Beserra, P. Ferreira, M. Espie, J. Araujo*
@@ -219,7 +219,7 @@ Président : Philippe SWARTVAGHER
 
 
 #### Session #8 : Fault-tolerance - Salle 126-127
-Président : Herault Thomas
+Président : *Thomas Herault*
 
 - Fault-tolerance for task-based runtime systems<br>
 *N. Ducarton, S. Thibault, T. Herault, A. Guermouche*
@@ -238,7 +238,7 @@ Président : Herault Thomas
 ### 14h-16h
 
 #### Session #9 : Scheduling - Amphi
-Président : Julien Sopena
+Président : *Julien Sopena*
 
 - Modélisation des incertitudes impactant la collecte de resources sur des infrastructures HPC<br>
 *R. Chaussemy, R. Bleuse, B. Bzeznik, F. Corset*
@@ -249,7 +249,7 @@ Président : Julien Sopena
 
 
 #### Session #10 : Scheduling - Salle 124-125
-Président : Gaël Thomas
+Président : *Gaël Thomas*
 
 - VoliMap: Optimizing Key-Value Store Performance by Leveraging Userland Page Tables<br>
 *T. Aggoun, J. Toljaga, N. Derumigny, J. Lozi, G. Thomas*
@@ -263,13 +263,13 @@ Président : Gaël Thomas
 ### 16h30-17h30
 
 #### Session #9 : Scheduling - Amphi
-Président : Julien Sopena
+Président : *Julien Sopena*
 
 - Découverte et description automatiques des topologies de placement de SCOTCH<br>
 *M. Chollon*
 
 #### Session #10 : Scheduling - Salle 124-125
-Président : Gaël Thomas
+Président : *Gaël Thomas*
 
 - Towards implementing an efficient GC on disaggregated memory<br>
 *N. Vasilevska, N. Derumigny, J. Dumas, G. Thomas*
@@ -297,7 +297,7 @@ Président : *Mickaël Dardaillon* (IETR - Rennes)
 ### 11h-12h
 
 #### Session #11 : Architecture - Amphi
-Président : Arthur Perais
+Président : *Arthur Perais*
 
 - Instruction Set Extension Emulation for Long-Term Support of RISC-V Processors<br>
 *J. Gorius, A. Perais, E. Rohou*
@@ -308,7 +308,7 @@ Président : Arthur Perais
 
 
 #### Session #12 : IO - Salle 124-125
-Président : Luan Teylo
+Président : *Luan Teylo*
 
 - Interference from Concurrent Jobs on Checkpointing Performance<br>
 *M. Trochon*
