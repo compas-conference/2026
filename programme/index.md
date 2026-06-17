@@ -46,7 +46,7 @@ auteurs ayant choisi de les partager publiquement. -->
 - 9h-13h : Tutoriel #1 [ReproHackathon](/tutoriels/)
 - 14h30-18h : Tutoriel #3 [Design de périphériques par HLS sur un cœur RISC-V CVA6](/tutoriels/)
 
-### Salle 124
+### Salle 124-125
 
 - 9h-13h : Tutoriel #2 [Orchestration de campagnes de benchmarks avec IOPS](/tutoriels/)
 
