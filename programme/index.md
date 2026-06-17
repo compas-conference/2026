@@ -39,16 +39,16 @@ auteurs ayant choisi de les partager publiquement. -->
 ## Mardi 30 juin
 
 - Accueil à partir de 8h30
-- Tutoriels de 9h à 18h, pauses à 11h, 13h et 16h.
+- Tutoriels de 9h à 18h, pauses à 11h, 12h30 et 16h.
 
 ### Amphi
 
-- 9h-13h : Tutoriel #1 [ReproHackathon](/tutoriels/)
-- 14h30-18h : Tutoriel #3 [Design de périphériques par HLS sur un cœur RISC-V CVA6](/tutoriels/)
+- 9h-12h30 : Tutoriel #1 [ReproHackathon](/tutoriels/#tutoriel-reprohackathon---amphi-9h-12h30)
+- 14h30-18h : Tutoriel #3 [Design de périphériques par HLS sur un cœur RISC-V CVA6](/tutoriels/#tutoriel-design-de-périphériques-par-hls-sur-un-cœur-risc-v-cva6---amphi-14h30-18h)
 
 ### Salle 124-125
 
-- 9h-13h : Tutoriel #2 [Orchestration de campagnes de benchmarks avec IOPS](/tutoriels/)
+- 9h-12h30 : Tutoriel #2 [Orchestration de campagnes de benchmarks avec IOPS](/tutoriels/#tutoriel-orchestration-de-campagnes-de-benchmarks-avec-iops---salle-124-125-9h-12h30)
 
 ## Mercredi 1er juillet
 
