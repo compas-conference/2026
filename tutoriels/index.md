@@ -157,6 +157,9 @@ fournie)
 
 ### Tutoriel Design de périphériques par HLS sur un cœur RISC-V CVA6 - Amphi 14h30-18h
 
+#### Organisateur
+- Nicolas Derumigny
+
 #### Objectif
 Découvrir les interactions matérielle-logicielles par le prisme du design de matériel adressé directement sur un bus commun, et écriture du pilote associé.
 
