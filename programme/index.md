@@ -223,8 +223,6 @@ Président : *Thomas Herault*
 
 - Fault-tolerance for task-based runtime systems<br>
 *N. Ducarton, S. Thibault, T. Herault, A. Guermouche*
-- Caractérisation des comportements byzantins dans les protocoles de consensus BFT<br>
-*K. RIAHI*
 - NetFD : un détecteur de faute implémenté dans des commutateurs programmables<br>
 *M. Lacour, P. Sens, J. Lejeune, J. Sopena*
 - LAMP : Une approche efficace pour la détection de fautes dans les systèmes distribués<br>
