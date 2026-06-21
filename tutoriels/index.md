@@ -24,6 +24,7 @@ Un *tutoriel* (*tutorial*) est également un évènement associé à la confére
 - Jules Evans (IRIT)
 - Quentin Guilloteau (INRIA)
 - Millian Poquet (Univ. Toulouse)
+- Miguel Felipe Silva Vasconcelos (IRIT)
 
 #### Description du tutoriel en deux phrases
 Lors de ce tutoriel, les participant·e·s essayeront de reproduire des résultats/expériences provenant d'articles scientifiques de la communauté de COMPAS.
