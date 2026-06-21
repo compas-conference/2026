@@ -20,6 +20,8 @@ Un *tutoriel* (*tutorial*) est également un évènement associé à la confére
 
 ### Tutoriel ReproHackathon - Amphi 9h-12h30
 
+Lien vers le tutoriel : [https://guilloteauq.codeberg.page/reprohack26/](https://guilloteauq.codeberg.page/reprohack26/)
+
 #### Organisateurs
 - Jules Evans (IRIT)
 - Quentin Guilloteau (INRIA)
