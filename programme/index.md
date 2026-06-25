@@ -233,7 +233,7 @@ Président : *Thomas Herault*
 
 ### 12h30-14h Repas
 
-### 14h-16h
+### 14h-15h30
 
 #### Session #9 : Scheduling - Amphi
 Président : *Julien Sopena*
@@ -242,8 +242,6 @@ Président : *Julien Sopena*
 *R. Chaussemy, R. Bleuse, B. Bzeznik, F. Corset*
 - SaaKM: Scheduler as a Kernel Module<br>
 *B. Pires, R. Gouicem, S. Dubois, J. Sopena*
-- Ordonnancement tenant compte des émissions de CO2<br>
-*J. Evans, G. Da Costa, P. Stolf*
 
 
 #### Session #10 : Scheduling - Salle 124-125
@@ -251,18 +249,18 @@ Président : *Gaël Thomas*
 
 - VoliMap: Optimizing Key-Value Store Performance by Leveraging Userland Page Tables<br>
 *T. Aggoun, J. Toljaga, N. Derumigny, J. Lozi, G. Thomas*
-- Vers une Gestion Transparente du Double Swapping dans les Machines Virtuelles<br>
-*L. Mahop*
 - SPaRe: Réplication sélective et partielle des tables de pages pour les systèmes NUMA<br>
 *R. Coëffic-Qabali, J. Sopena, R. Gouicem, J. Coquisart*
 
-### 16h-16h30 Pause
+### 15h30-16h Pause
 
-### 16h30-17h30
+### 16h-17h30
 
 #### Session #9 : Scheduling - Amphi
 Président : *Julien Sopena*
 
+- Ordonnancement tenant compte des émissions de CO2<br>
+*J. Evans, G. Da Costa, P. Stolf*
 - Découverte et description automatiques des topologies de placement de SCOTCH<br>
 *M. Chollon*
 
