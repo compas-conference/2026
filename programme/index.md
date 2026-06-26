@@ -235,43 +235,34 @@ Président : *Thomas Herault*
 
 ### 14h-15h30
 
-#### Session #9 : Scheduling - Amphi
+#### Session #9 : Scheduling 1 - Amphi
 Président : *Julien Sopena*
-
-- Modélisation des incertitudes impactant la collecte de resources sur des infrastructures HPC<br>
-*R. Chaussemy, R. Bleuse, B. Bzeznik, F. Corset*
-- SaaKM: Scheduler as a Kernel Module<br>
-*B. Pires, R. Gouicem, S. Dubois, J. Sopena*
-
-
-#### Session #10 : Scheduling - Salle 124-125
-Président : *Gaël Thomas*
 
 - VoliMap: Optimizing Key-Value Store Performance by Leveraging Userland Page Tables<br>
 *T. Aggoun, J. Toljaga, N. Derumigny, J. Lozi, G. Thomas*
-- SPaRe: Réplication sélective et partielle des tables de pages pour les systèmes NUMA<br>
-*R. Coëffic-Qabali, J. Sopena, R. Gouicem, J. Coquisart*
+- Towards implementing an efficient GC on disaggregated memory<br>
+*N. Vasilevska, N. Derumigny, J. Dumas, G. Thomas*
+- Ordonnancement tenant compte des émissions de CO2<br>
+*J. Evans, G. Da Costa, P. Stolf*
+- Optimisation des applications web par lintégration dun cache analytique local avec DuckDB-Wasm<br>
+*S. Mohamadou Bachirou, J. Menaud*
+
 
 ### 15h30-16h Pause
 
 ### 16h-17h30
 
-#### Session #9 : Scheduling - Amphi
-Président : *Julien Sopena*
-
-- Ordonnancement tenant compte des émissions de CO2<br>
-*J. Evans, G. Da Costa, P. Stolf*
-- Découverte et description automatiques des topologies de placement de SCOTCH<br>
-*M. Chollon*
-
-#### Session #10 : Scheduling - Salle 124-125
+#### Session #10 : Scheduling 2 - Amphi
 Président : *Gaël Thomas*
 
-- Towards implementing an efficient GC on disaggregated memory<br>
-*N. Vasilevska, N. Derumigny, J. Dumas, G. Thomas*
-- Optimisation des applications web par lintégration dun cache analytique local avec DuckDB-Wasm<br>
-*S. Mohamadou Bachirou, J. Menaud*
-
+- SaaKM: Scheduler as a Kernel Module<br>
+*B. Pires, R. Gouicem, S. Dubois, J. Sopena*
+- SPaRe: Réplication sélective et partielle des tables de pages pour les systèmes NUMA<br>
+*R. Coëffic-Qabali, J. Sopena, R. Gouicem, J. Coquisart*
+- Modélisation des incertitudes impactant la collecte de resources sur des infrastructures HPC<br>
+*R. Chaussemy, R. Bleuse, B. Bzeznik, F. Corset*
+- Découverte et description automatiques des topologies de placement de SCOTCH<br>
+*M. Chollon*
 
 ### 17h30 Assemblée Générale de Compas - Amphi
 
