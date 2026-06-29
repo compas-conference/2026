@@ -151,7 +151,7 @@ Président : *Etienne Rivière*
 ### 16h30-17h30
 
 #### Session #4 : Energy, Ressource, Sustainability - Amphi
-Président : *Jean-Marc Menaud*
+Président : *Yasmina Bouizem*
 
 - Energy Monitoring for Cloud Computing<br>
 *D. Orhan*
