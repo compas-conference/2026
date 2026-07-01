@@ -92,7 +92,7 @@ Président : *Mathieu Bacou*
 - Analyse des écarts de reproductibilité dans le placement de charges de travail d'IA en HPC<br>
 *P. Y., C. Barrios, O. Carrillo, F. Le Mouël*
 - Du carbone enfoui à l'optimisation native : repenser les micro-centres de données<br>
-*N. Osta, P. Roose, F. Le Mouel, E. Anton, J. Gaysse*
+*N. Osta, P. Roose, F. Le Mouël, E. Anton, J. Gaysse*
 - Portabilité d’applications (du continuum) sur des environnements d’exécution hétérogènes<br>
 *Q. Guilloteau, H. Coullon, C. Perez*
 - Enabling Continuous, High Throughtput Shard Migration Across Edge and Cloud Environments<br>
@@ -113,14 +113,14 @@ Président : *Hugo Reymond*
 - Sélection du profil énergétique pour améliorer les techniques de shifting<br>
 *N. Tirel, P. Roose, S. Ilarri, A. Noureddine, O. Le Goaër*
 - Collecte de données à laide de capteurs sans batterie : Collecter mieux, pas plus<br>
-*H. Reymond, F. Le-Mouel*
+*H. Reymond, F. Le-Mouël*
 - Heuristique, CSP ou LLM ? Étude comparative du coût énergétique du placement de services multi-composants dans un Cloud hétérogène<br>
 *T. Hardy, F. Salaht, D. Wladdimiro*
 - Modèle prédictif au niveau de l’instruction du coût en énergie de l’exécution de code embarqué<br>
 *B. Destal, G. Silber, C. Ancourt*
 
 #### Session #3 : Federated learning, AI opt modeling and dataflow - Salle 124-125
-Président : *Frédéric Le Mouel*
+Président : *Frédéric Le Mouël*
 
 - Automated Data Error Cleaning Impact on Federated Learning Utility and Fairness<br>
 *J. Sudlow, B. Naline, S. Bouchenak*
