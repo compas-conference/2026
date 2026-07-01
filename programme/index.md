@@ -63,7 +63,7 @@ Président : *Fabienne Boyer* (LIG - Grenoble)
 - [How Much Can We Trust Decentralised Machine Learning?](/keynotes/#sonia-ben-mokhtar)<br>
     *Sonia Ben Mokhtar*
 
-### 10h-10h20 Pause
+### 10h-10h30 Pause
 
 ### 10h30-12h30
 
