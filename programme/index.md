@@ -91,7 +91,6 @@ Président : *Mathieu Bacou*
 *B. Sanwouo, N. Leblond, P. Temple, C. Quinton, R. Rouvoy*
 - Analyse des écarts de reproductibilité dans le placement de charges de travail d'IA en HPC<br>
 *P. Y., C. Barrios, O. Carrillo, F. Le Mouël*
-
 - Du carbone enfoui à l'optimisation native : repenser les micro-centres de données<br>
 *N. Osta, P. Roose, F. Le Mouel, E. Anton, J. Gaysse*
 - Portabilité d’applications (du continuum) sur des environnements d’exécution hétérogènes<br>
