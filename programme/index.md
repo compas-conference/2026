@@ -112,7 +112,7 @@ Président : *Hugo Reymond*
 *E. Ahmadzada, P. Stolf, J. Pierson, L. Lefèvre*
 - Sélection du profil énergétique pour améliorer les techniques de shifting<br>
 *N. Tirel, P. Roose, S. Ilarri, A. Noureddine, O. Le Goaër*
-- Collecte de données à laide de capteurs sans batterie : Collecter mieux, pas plus<br>
+- Collecte de données à l'aide de capteurs sans batterie : Collecter mieux, pas plus<br>
 *H. Reymond, F. Le-Mouël*
 - Heuristique, CSP ou LLM ? Étude comparative du coût énergétique du placement de services multi-composants dans un Cloud hétérogène<br>
 *T. Hardy, F. Salaht, D. Wladdimiro*
