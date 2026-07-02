@@ -271,6 +271,14 @@ Lieu du dîner : <a href="https://www.boulombayonne.com/">Boulom Bayonne</a>.
 
 Adresse : 1 Rue Harry Owen Roë, 64100 Bayonne
 
+Pour s'y rendre en bus depuis l'IUT, il faut vous rendre soit à l'arrêt Bernain-Montòri, soit à l'arrêt Minerva. Voici les options :
+
+- Le bus 7 (19 minutes) à l'arrêt Minerva (8 minutes de marche) en direction de Square Mora à 19:31 et en descendant à l'arrêt Aviron Bayonnais.
+
+- Le bus 3 (25 minutes) à l'arrêt Bernain-Montòri (6 minutes de marche) en direction de Gare de Bayonne à 19:31 et en descendant à l'arrêt Saint-Léon puis en marchant 10 minutes.
+
+Il est possible de payer en CB directement en rentrant dans le bus, ou bien d'acheter des tickets sur les bornes à l'arrêt Bernain-Montòri.
+
 ![Lieu du dîner](/assets/img/dinerGala.png)
 
 ## Vendredi 3 juillet
