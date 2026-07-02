@@ -267,6 +267,12 @@ Président : *Gaël Thomas*
 
 ### 20h Dîner de Gala
 
+Lieu du dîner : <a href="https://www.boulombayonne.com/">Boulom Bayonne</a>.
+
+Adresse : 1 Rue Harry Owen Roë, 64100 Bayonne
+
+![Lieu du dîner](/assets/img/dinerGala.png)
+
 ## Vendredi 3 juillet
 
 ### 8h30-9h30 Accueil
