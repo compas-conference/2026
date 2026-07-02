@@ -1,0 +1,115 @@
+/*--------------------*/
+/* PRICING */
+/*--------------------*/
+#mu-pricing {
+	background-color: #fff;
+	display: inline;
+	float: left;
+	width: 100%;
+}
+
+.mu-pricing-area {
+	display: inline;
+	float: left;
+	padding: 100px 0;
+	width: 100%;
+}
+
+.mu-pricing-conten {
+	display: inline;
+	float: left;
+	margin-top: 50px;
+	width: 100%;
+}
+
+.mu-single-price {
+	background-color: #f8f8f8;
+	display: inline;
+	float: left;
+	text-align: center;
+	position: relative;
+	width: 100%;
+	padding: 15px;
+	overflow: hidden;
+}
+
+.mu-single-price-head {
+	color: #555;
+	display: inline;
+	float: left;
+	width: 100%;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.mu-single-price-head .mu-currency {
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.mu-single-price-head .mu-rate {
+	font-size: 60px;
+	font-weight: bold;
+	line-height: 0.9;
+	letter-spacing: 3px;
+}
+
+.mu-single-price-head .mu-time {
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 0;
+	font-style: italic;
+}
+
+.mu-single-price .mu-price-title {
+	color: #555;
+	font-size: 22px;
+	padding: 10px 0;
+}
+
+.mu-single-price ul {
+	list-style: none;
+}
+
+.mu-single-price ul li{
+	list-style: none;
+	color: #555;
+}
+
+.mu-register-btn {
+	background-color: #fff;
+	border: 1px solid #555;
+	color: #555;
+	margin-top: 20px;
+	padding: 10px 40px;
+	text-align: center;
+	display: inline-block;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+	letter-spacing: 1.5px;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+}
+
+.mu-register-btn:hover,
+.mu-register-btn:focus,
+.mu-popular-price .mu-register-btn {
+	color: #fff;
+}
+
+.mu-popular-price .mu-price-tag {
+	color: #fff;
+	display: inline-block;
+	position: absolute;
+	top: 15px;
+	left: -62px;
+	padding: 10px 60px;
+	font-size: 15px;
+	text-transform: uppercase;
+	letter-spacing: 1.5px;
+	font-weight: 700;
+	transform: rotate(-45deg);
+	text-align: center;
+}
+
