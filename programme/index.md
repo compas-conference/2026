@@ -279,8 +279,6 @@ Pour s'y rendre en bus depuis l'IUT, il faut vous rendre soit à l'arrêt Bernai
 
 Il est possible de payer en CB directement en rentrant dans le bus, ou bien d'acheter des tickets sur les bornes à l'arrêt Bernain-Montòri.
 
-![Lieu du dîner](/assets/img/dinerGala.png)
-
 ## Vendredi 3 juillet
 
 ### 8h30-9h30 Accueil
